@@ -1,0 +1,8 @@
+Description of selected repositories:
+
+1) LibreOffice Core
+
+LibreOffice is a widely used office suite. It has been split into multiple repositories. One of them is "core". At the time of checking  out the rpo it had 2886 unique authors and 510160 commits.
+
+The earliest commits in the git repo date back to September 2000. That time the project was called OpenOffice.org and was governed by Sun Microsystems. It was forked as LibreOffice in 2010. The age and the history of the repo can be increase the chances of committers using multiple name+email combinations. Originally the project was owned by Sun Microsystems. Sun was bought by Oracle. This can be seen in the repo as people with @sun.com domains changed to @oracle.com and finally  to @apache.org systematically.
+
