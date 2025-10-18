@@ -1,3 +1,4 @@
+import argparse
 import csv
 import pandas as pd
 import unicodedata
@@ -6,10 +7,28 @@ from itertools import combinations
 from Levenshtein import ratio as sim
 import os
 
+
+def create_arguments():
+    parser = argparse.ArgumentParser(description="Bird heuristics analyser")
+
+    required_group = parser.add_argument_group("Required arguments")
+    required_group.add_argument("-i", "--input", type=str, help="name+email pairs as comma-delimited csv", required=True)
+    required_group.add_argument("-t", "--threshold", type=float, help="Threshold from 0.0 to 1.0", required=True)
+    required_group.add_argument("-o", "--output", type=str, help="Output file", required=True)
+    return parser.parse_args()
+
+
+args = create_arguments()
+
+# Get file names from command line arguments
+input_file = args.input
+output_file = args.output
+threshold = args.threshold
+
 # This block of code reads an existing csv of developers
 DEVS = []
 # Read csv file with name,dev columns
-with open(os.path.join("project1devs", "devs.csv"), 'r', newline='') as csvfile:
+with open(input_file, 'r', newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     for row in reader:
         DEVS.append(row)
@@ -92,15 +111,14 @@ df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, head
 
 
 # Set similarity threshold, check c1-c3 against the threshold
-t=0.6
-print("Threshold:", t)
-df["c1_check"] = df["c1"] >= t
-df["c2_check"] = df["c2"] >= t
-df["c3_check"] = (df["c3.1"] >= t) & (df["c3.2"] >= t)
+print("Threshold:", threshold)
+df["c1_check"] = df["c1"] >= threshold
+df["c2_check"] = df["c2"] >= threshold
+df["c3_check"] = (df["c3.1"] >= threshold) & (df["c3.2"] >= threshold)
 # Keep only rows where at least one condition is True
 df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
 
 # Omit "check" columns, save to csv
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
         "c3.1", "c3.2", "c4", "c5", "c6", "c7"]]
-df.to_csv(os.path.join("project1devs", f"devs_similarity_t={t}.csv"), index=False, header=True)
+df.to_csv(os.path.join(output_file), index=False, header=True)
