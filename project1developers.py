@@ -9,9 +9,14 @@ import os
 
 
 # This function is where algorithm is improved in this course
-def select_criteria(df):
-    # Keep only rows where at least one condition is True
-    df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
+def select_criteria(df, minimum_trues):
+# List colums that need to be true
+    true_columns = ["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]
+    print("Filtering criteria:")
+    print(f"Mminimum true count: {minimum_trues}")
+    print(f"True criteria: {true_columns}")
+    df = df[df[true_columns].sum(axis=1) >= minimum_trues]
+
     return df
 
 def create_arguments():
@@ -21,6 +26,11 @@ def create_arguments():
     required_group.add_argument("-i", "--input", type=str, help="name+email pairs as comma-delimited csv", required=True)
     required_group.add_argument("-t", "--threshold", type=float, help="Threshold from 0.0 to 1.0", required=True)
     required_group.add_argument("-o", "--output", type=str, help="Output file", required=True)
+
+    optional_group = parser.add_argument_group("Optional arguments")
+    optional_group.add_argument("-m", "--minimum-true-count", type=int, help="Minimum amount of trues to be filtered for (Default: 1)", default=1)
+
+
     return parser.parse_args()
 
 
@@ -30,6 +40,7 @@ args = create_arguments()
 input_file = args.input
 output_file = args.output
 threshold = args.threshold
+minimum_trues= args.minimum_true_count
 
 # This block of code reads an existing csv of developers
 DEVS = []
@@ -121,7 +132,7 @@ print("Threshold:", threshold)
 df["c1_check"] = df["c1"] >= threshold
 df["c2_check"] = df["c2"] >= threshold
 df["c3_check"] = (df["c3.1"] >= threshold) & (df["c3.2"] >= threshold)
-df = select_criteria(df)
+df = select_criteria(df, minimum_trues)
 
 # Omit "check" columns, save to csv
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
