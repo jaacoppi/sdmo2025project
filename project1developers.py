@@ -8,6 +8,12 @@ from Levenshtein import ratio as sim
 import os
 
 
+# This function is where algorithm is improved in this course
+def select_criteria(df):
+    # Keep only rows where at least one condition is True
+    df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
+    return df
+
 def create_arguments():
     parser = argparse.ArgumentParser(description="Bird heuristics analyser")
 
@@ -115,8 +121,7 @@ print("Threshold:", threshold)
 df["c1_check"] = df["c1"] >= threshold
 df["c2_check"] = df["c2"] >= threshold
 df["c3_check"] = (df["c3.1"] >= threshold) & (df["c3.2"] >= threshold)
-# Keep only rows where at least one condition is True
-df = df[df[["c1_check", "c2_check", "c3_check", "c4", "c5", "c6", "c7"]].any(axis=1)]
+df = select_criteria(df)
 
 # Omit "check" columns, save to csv
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
