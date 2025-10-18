@@ -31,6 +31,21 @@ END{
     print count[p], p
 }' | sort -nr
 }
+
+
+threshold_counts() {
+TYPE=$1
+
+grep ",$TYPE$" $FILE | awk -F, -v t=$2 '{
+  c=0
+  for(i=5;i<=8;i++)
+    if($i+0 >= t) c++
+  print "Cases with " c " criteria >= " t
+}' | sort | uniq -c
+}
+threshold_counts $1 $2
+
+
 echo "# c4-c7 True/False amounts and ratios"
 echo "## False positives"
 amounts_ratios "FP"
@@ -56,3 +71,15 @@ pattern_counts "FP"
 echo ""
 echo "## True positives"
 pattern_counts "TP"
+
+
+echo ""
+echo ""
+T=0.6
+echo "# Threshold counts for t=$T"
+echo "## False Positives"
+threshold_counts "FP" "$T"
+echo ""
+echo ""
+echo "## True Positives"
+threshold_counts "TP" "$T"
