@@ -47,7 +47,7 @@ true_columns = [c.strip() for c in args.criteria.split(",")]
 # This block of code reads an existing csv of developers
 DEVS = []
 # Read csv file with name,dev columns
-with open(input_file, 'r', newline='', encoding='utf8') as csvfile:
+with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     for row in reader:
         DEVS.append(row)
@@ -126,7 +126,8 @@ for dev_a, dev_b in combinations(DEVS, 2):
 cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
         "c3.1", "c3.2", "c4", "c5", "c6", "c7"]
 df = pd.DataFrame(SIMILARITY, columns=cols)
-df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, header=True)
+df.to_csv("devs_similarity.csv", index=False, header=True)
+
 
 # Set similarity threshold, check c1-c3 against the threshold
 print("Threshold:", threshold)
