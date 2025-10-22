@@ -28,7 +28,7 @@ def create_arguments():
 
     optional_group = parser.add_argument_group("Optional arguments")
     optional_group.add_argument("-m", "--minimum-true-count", type=int, help="Minimum amount of trues to be filtered for (Default: 1)", default=1)
-    optional_group.add_argument("-c", "--criteria", type=str, help="Comma-separated list of columns to evaluate (e.g. 'c1_check,c2_check,c3_check')", default="c1_check,c2_check,c3_check,c4,c5,c6,c7")
+    optional_group.add_argument("-c", "--criteria", type=str, help="Comma-separated list of columns to evaluate (e.g. 'c1_check,c2_check,c3_check')", default="c1_check,c2_check,c3_check,c4,c5,c6,c7,c8")
     optional_group.add_argument("-s", "--sample-size", type=int, help="Leave a random sample of N rows")
     optional_group.add_argument("-n", "--interval", type=int, help="Leave every Nth row")
 
@@ -106,7 +106,7 @@ for dev_a, dev_b in combinations(DEVS, 2):
     c2 = sim(prefix_b, prefix_a)
     c31 = sim(first_a, first_b)
     c32 = sim(last_a, last_b)
-    c4 = c5 = c6 = c7 = False
+    c4 = c5 = c6 = c7 = c8 = False
     # Since lastname and initials can be empty, perform appropriate checks
     if i_first_a != "" and last_a != "":
         c4 = i_first_a in prefix_b and last_a in prefix_b
@@ -116,15 +116,17 @@ for dev_a, dev_b in combinations(DEVS, 2):
         c6 = i_first_b in prefix_a and last_b in prefix_a
     if i_last_b != "":
         c7 = i_last_b in prefix_a and first_b in prefix_a
+    if email_a == email_b:
+        c8 = True
 
     # Save similarity data for each conditions. Original names are saved
-    SIMILARITY.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7])
+    SIMILARITY.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7, c8])
 
 
 
 # Save data on all pairs (might be too big -> comment out to avoid)
 cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
-        "c3.1", "c3.2", "c4", "c5", "c6", "c7"]
+        "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]
 df = pd.DataFrame(SIMILARITY, columns=cols)
 df.to_csv("devs_similarity.csv", index=False, header=True)
 
@@ -138,7 +140,7 @@ df = select_criteria(df, minimum_trues, true_columns)
 
 # Omit "check" columns, save to csv
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
-        "c3.1", "c3.2", "c4", "c5", "c6", "c7"]]
+        "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]]
 df.to_csv(os.path.join(output_file), index=False, header=True)
 
 # Optional: post-processing sample or interval
