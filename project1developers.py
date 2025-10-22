@@ -29,6 +29,8 @@ def create_arguments():
     optional_group = parser.add_argument_group("Optional arguments")
     optional_group.add_argument("-m", "--minimum-true-count", type=int, help="Minimum amount of trues to be filtered for (Default: 1)", default=1)
     optional_group.add_argument("-c", "--criteria", type=str, help="Comma-separated list of columns to evaluate (e.g. 'c1_check,c2_check,c3_check')", default="c1_check,c2_check,c3_check,c4,c5,c6,c7")
+    optional_group.add_argument("-s", "--sample-size", type=int, help="Leave a random sample of N rows")
+    optional_group.add_argument("-n", "--interval", type=int, help="Leave every Nth row")
 
     return parser.parse_args()
 
@@ -45,7 +47,7 @@ true_columns = [c.strip() for c in args.criteria.split(",")]
 # This block of code reads an existing csv of developers
 DEVS = []
 # Read csv file with name,dev columns
-with open(input_file, 'r', newline='') as csvfile:
+with open(input_file, 'r', newline='', encoding='utf8') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
     for row in reader:
         DEVS.append(row)
@@ -126,7 +128,6 @@ cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
 df = pd.DataFrame(SIMILARITY, columns=cols)
 df.to_csv(os.path.join("project1devs", "devs_similarity.csv"), index=False, header=True)
 
-
 # Set similarity threshold, check c1-c3 against the threshold
 print("Threshold:", threshold)
 df["c1_check"] = df["c1"] >= threshold
@@ -138,3 +139,17 @@ df = select_criteria(df, minimum_trues, true_columns)
 df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
         "c3.1", "c3.2", "c4", "c5", "c6", "c7"]]
 df.to_csv(os.path.join(output_file), index=False, header=True)
+
+# Optional: post-processing sample or interval
+if args.sample_size:
+    sampled_df = df.sample(n=args.sample_size, random_state=42)
+    sampled_file = os.path.join("project1devs", f"devs_similarity_sampled_{args.sample_size}.csv")
+    sampled_df.to_csv(sampled_file, index=False, header=True)
+    print(f"Random sample of {args.sample_size} rows saved to {sampled_file}")
+
+elif args.interval:
+    interval_df = df.iloc[::args.interval]
+    interval_file = os.path.join("project1devs", f"devs_similarity_every_{args.interval}th.csv")
+    interval_df.to_csv(interval_file, index=False, header=True)
+    print(f"Every {args.interval}th row saved to {interval_file}")
+
