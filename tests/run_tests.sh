@@ -4,6 +4,17 @@
 ORIGINAL=$1
 ANALYZED=$2
 
+test_single_criteria() {
+TEST_NUMBER=$1
+ORIGINAL=$2
+ANALYZED=$3
+CRITERIA=$4
+BASENAME=$(basename $ORIGINAL)
+OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
+python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -c "$CRITERIA"
+./scripts/compare.sh $ANALYZED $OUTPUT
+}
+
 test_minimum_trues() {
 TEST_NUMBER=$1
 ORIGINAL=$2
@@ -14,6 +25,7 @@ OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
 python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -m $MIN_TRUE
 ./scripts/compare.sh $ANALYZED $OUTPUT
 }
+
 
 echo "test case 1: minimum true count 2"
 test_minimum_trues 1 $ORIGINAL $ANALYZED 2
@@ -32,3 +44,6 @@ test_minimum_trues 5 $ORIGINAL $ANALYZED 6
 
 echo "test case 6: minimum true count 7"
 test_minimum_trues 6 $ORIGINAL $ANALYZED 7
+
+echo "test case 7: Criteria C8 - equal emails"
+test_single_criteria 7 $ORIGINAL $ANALYZED c8
