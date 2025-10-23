@@ -16,14 +16,14 @@ grep ",$TYPE$" $FILE \
 
 criteria_type_amounts() {
 TYPE=$1
-grep ",$TYPE$" $FILE | awk -F, '{for(i=9;i<=12;i++){if($i=="True")t[i]++; else if($i=="False")f[i]++}} END{for(i=9;i<=12;i++) printf "C%d → Trues: %d Falses: %d\n", i-5, t[i], f[i]}'
+grep ",$TYPE$" $FILE | awk -F, '{for(i=9;i<=13;i++){if($i=="True")t[i]++; else if($i=="False")f[i]++}} END{for(i=9;i<=13;i++) printf "C%d → Trues: %d Falses: %d\n", i-5, t[i], f[i]}'
 
 }
 
 pattern_counts() {
 TYPE=$1
 grep ",$TYPE$" $FILE |  awk -F, '{
-  pattern = $9","$10","$11","$12
+  pattern = $9","$10","$11","$12","$13
   count[pattern]++
 }
 END{
@@ -46,7 +46,7 @@ grep ",$TYPE$" $FILE | awk -F, -v t=$2 '{
 threshold_counts $1 $2
 
 
-echo "# c4-c7 True/False amounts and ratios"
+echo "# c4-c8 True/False amounts and ratios"
 echo "## False positives"
 amounts_ratios "FP"
 echo ""
@@ -56,7 +56,7 @@ amounts_ratios "TP"
 echo ""
 echo ""
 
-echo "# Which criteria C4-C7 are most often true/false in the sample?"
+echo "# Which criteria C4-C8 are most often true/false in the sample?"
 echo "## False positives"
 criteria_type_amounts "FP"
 echo ""
