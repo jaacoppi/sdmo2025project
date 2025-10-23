@@ -1,8 +1,14 @@
 #!/bin/bash
 
 # Analysis scripts. 
-# Takes a file name as argument. 
-# Expectes the file to have column 13 as "FP" or "TP" indicating a  False or True positive
+
+if [ "$#" -ne 2 ]; then
+	echo "Usage: analyzedfile.csv threshold"
+        echo "Analyzed file: file that has been manually analyzed, lines end with FP or TP as last column"
+        echo "Threshold: Threshold parameter used when analyzed file was generated"
+    exit 1
+fi
+
 
 FILE=$1
 T=$2
