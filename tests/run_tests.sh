@@ -15,6 +15,17 @@ python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -c "$CRITERIA"
 ./scripts/compare.sh $ANALYZED $OUTPUT
 }
 
+test_thresholds() {
+TEST_NUMBER=$1
+ORIGINAL=$2
+ANALYZED=$3
+THRESHOLD=$4
+BASENAME=$(basename $ORIGINAL)
+OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
+python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t $THRESHOLD
+./scripts/compare.sh $ANALYZED $OUTPUT
+}
+
 test_minimum_trues() {
 TEST_NUMBER=$1
 ORIGINAL=$2
@@ -25,6 +36,7 @@ OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
 python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -m $MIN_TRUE
 ./scripts/compare.sh $ANALYZED $OUTPUT
 }
+
 
 
 echo "test case 1: minimum true count 2"
@@ -47,3 +59,18 @@ test_minimum_trues 6 $ORIGINAL $ANALYZED 7
 
 echo "test case 7: Criteria C8 - equal emails"
 test_single_criteria 7 $ORIGINAL $ANALYZED c8
+
+echo "test case 8: Threshold 0.6"
+test_threshold 8 $ORIGINAL $ANALYZED 0.6
+
+echo "test case 9: Threshold 0.7"
+test_threshold 9 $ORIGINAL $ANALYZED 0.7
+
+echo "test case 10: Threshold 0.8"
+test_threshold 10 $ORIGINAL $ANALYZED 0.9
+
+echo "test case 11: Threshold 0.9"
+test_threshold 11 $ORIGINAL $ANALYZED 0.9
+
+echo "test case 12: Threshold 1.0"
+test_threshold 12 $ORIGINAL $ANALYZED 1.0
