@@ -5,6 +5,7 @@
 # Expectes the file to have column 13 as "FP" or "TP" indicating a  False or True positive
 
 FILE=$1
+T=$2
 
 amounts_ratios() {
 TYPE=$1
@@ -75,7 +76,6 @@ pattern_counts "TP"
 
 echo ""
 echo ""
-T=0.6
 echo "# Threshold counts for t=$T"
 echo "## False Positives"
 threshold_counts "FP" "$T"
