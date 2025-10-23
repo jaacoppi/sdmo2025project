@@ -1,8 +1,16 @@
 #!/bin/bash
-# example: tests/run_tests inputs/libreoffice_core.csv analyzed/libreoffice_core_analyzed.csv
+
+if [ "$#" -ne 3 ]; then
+	echo "Usage: inputfile.csv analyzedfile.csv threshold"
+        echo "Input file: name+email pairs"
+        echo "Analyzed file: file that has been manually analyzed, lines end with FP or TP as last column"
+        echo "Threshold: Threshold parameter used when analyzed file was generated"
+    exit 1
+fi
 
 ORIGINAL=$1
 ANALYZED=$2
+ANALYZED_THRESHOLD=$3
 
 test_single_criteria() {
 TEST_NUMBER=$1
@@ -11,7 +19,7 @@ ANALYZED=$3
 CRITERIA=$4
 BASENAME=$(basename $ORIGINAL)
 OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
-python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -c "$CRITERIA"
+python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t $ANALYZED_THRESHOLD -c "$CRITERIA"
 ./scripts/compare.sh $ANALYZED $OUTPUT
 }
 
