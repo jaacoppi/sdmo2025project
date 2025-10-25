@@ -1,0 +1,96 @@
+test case 1: minimum true count 2
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 2
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_1_libreoffice_core.csv
+False positives:      118 /      726 (16.25344352617079889800 %)
+True positives:       23 /       24 (95.83333333333333333300 %)
+test case 2: minimum true count 3
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 3
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_2_libreoffice_core.csv
+False positives:       17 /      726 (2.34159779614325068800 %)
+True positives:       19 /       24 (79.16666666666666666600 %)
+test case 3: minimum true count 4
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 4
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_3_libreoffice_core.csv
+False positives:        2 /      726 (.27548209366391184500 %)
+True positives:       12 /       24 (50.00000000000000000000 %)
+test case 4: minimum true count 5
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 5
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_4_libreoffice_core.csv
+False positives:        0 /      726 (0 %)
+True positives:        6 /       24 (25.00000000000000000000 %)
+test case 5: minimum true count 6
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 6
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_5_libreoffice_core.csv
+False positives:        0 /      726 (0 %)
+True positives:        1 /       24 (4.16666666666666666600 %)
+test case 6: minimum true count 7
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 7
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_6_libreoffice_core.csv
+False positives:        0 /      726 (0 %)
+True positives:        1 /       24 (4.16666666666666666600 %)
+test case 7: Criteria C8 - equal emails
+Threshold: 0.5
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_7_libreoffice_core.csv
+False positives:        0 /      726 (0 %)
+True positives:       12 /       24 (50.00000000000000000000 %)
+test case 8: Threshold 0.6
+Threshold: 0.6
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_8_libreoffice_core.csv
+False positives:      152 /      726 (20.93663911845730027500 %)
+True positives:       24 /       24 (100.00000000000000000000 %)
+test case 9: Threshold 0.7
+Threshold: 0.7
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_9_libreoffice_core.csv
+False positives:       85 /      726 (11.70798898071625344300 %)
+True positives:       23 /       24 (95.83333333333333333300 %)
+test case 10: Threshold 0.8
+Threshold: 0.9
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_10_libreoffice_core.csv
+False positives:       76 /      726 (10.46831955922865013700 %)
+True positives:       23 /       24 (95.83333333333333333300 %)
+test case 11: Threshold 0.9
+Threshold: 0.9
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_11_libreoffice_core.csv
+False positives:       76 /      726 (10.46831955922865013700 %)
+True positives:       23 /       24 (95.83333333333333333300 %)
+test case 12: Threshold 1.0
+Threshold: 1.0
+Filtering criteria:
+Mminimum true count: 1
+True criteria: ['c1_check', 'c2_check', 'c3_check', 'c4', 'c5', 'c6', 'c7', 'c8']
+Checking which rows in analyzed/t05/libreoffice_core_analyzed.csv appear in testcase_12_libreoffice_core.csv
+False positives:       75 /      726 (10.33057851239669421400 %)
+True positives:       23 /       24 (95.83333333333333333300 %)
