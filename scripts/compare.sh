@@ -12,10 +12,14 @@ grep -F "$line" $INPUT
 done | wc -l)
 echo -n "$count"
 }
-echo -n "False positives from $ANALYZED found in $INPUT:"
-compare "FP"
-echo ""
+echo "Checking which rows in $ANALYZED appear in $INPUT"
+TOTALFP=$(grep ",FP$" $ANALYZED|wc -l)
+TOTALTP=$(grep ",TP$" $ANALYZED|wc -l)
 
-echo -n "True positives from $ANALYZED found in $INPUT:"
-compare "TP"
-echo ""
+COUNTFP=$(compare "FP")
+PERCENTAGEFP=$(echo "($COUNTFP/$TOTALFP)*100" |bc -l)
+echo "False positives: $COUNTFP / $TOTALFP ($PERCENTAGEFP %)"
+
+COUNTTP=$(compare "TP")
+PERCENTAGETP=$(echo "($COUNTTP/$TOTALTP)*100" |bc -l)
+echo "True positives: $COUNTTP / $TOTALTP ($PERCENTAGETP %)"
