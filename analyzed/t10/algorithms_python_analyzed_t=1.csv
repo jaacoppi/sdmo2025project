@@ -1,0 +1,751 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7,c8,TP
+Saksham Saha,sakshamsaha1212+github@gmail.com,Sarbajit Saha,sarbajitsaha1@gmail.com,0.64,0.4571428571428572,0.4,1.0,True,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,rudrasohan,sohanrudra@gmail.com,0.33333333333333337,0.2857142857142857,0.18181818181818177,0.0,False,True,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Tobias,38182275+Txbias@users.noreply.github.com,0.1428571428571429,0.26315789473684215,0.2857142857142857,0.0,False,True,False,False,False,FP
+Jigyasa G,33327397+jpg-130@users.noreply.github.com,sthkindacrazy,shinjoohyung25@gmail.com,0.2727272727272727,0.1333333333333333,0.30000000000000004,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,vincenzobaz,bazzucchi.vincenzo@gmail.com,0.19999999999999996,0.23529411764705888,0.11111111111111116,0.0,True,False,False,False,False,FP
+Daniel Ingram,ingramds@appstate.edu,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.4,0.23076923076923073,0.36363636363636365,0.2857142857142857,False,False,True,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Vaibhav Singh,45447817+itsvaibhav01@users.noreply.github.com,0.4347826086956522,0.14814814814814814,0.4,0.33333333333333337,True,False,False,False,False,FP
+Chris O,46587501+ChrisO345@users.noreply.github.com,Mickaël Schoentgen,contact@tiger-222.fr,0.24,0.0,0.16666666666666663,0.18181818181818177,True,False,False,False,False,FP
+Pedro Tôrres,t0rr3sp3dr0@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.25,0.125,0.1333333333333333,0.2857142857142857,False,False,True,False,False,FP
+Charley,56961474+pingings@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.10526315789473684,0.368421052631579,0.11764705882352944,0.0,False,False,True,False,False,FP
+Adarsh Acharya,132294330+AdarshAcharya5@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.2727272727272727,0.25531914893617025,0.2857142857142857,0.15384615384615385,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Thejus-Paul,32426070+Thejus-Paul@users.noreply.github.com,0.2857142857142857,0.18181818181818177,0.21052631578947367,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,krishchopra02,77331421+krishchopra02@users.noreply.github.com,0.17391304347826086,0.24390243902439024,0.19047619047619047,0.0,True,False,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Vinicius Cordeiro,78505368+cordeirossauro@users.noreply.github.com,0.26086956521739135,0.24390243902439024,0.16666666666666663,0.2222222222222222,True,False,False,False,False,FP
+Amit Pradhan,amitpradhanorissa@gmail.com,Hector S,hfsam88@gmail.com,0.19999999999999996,0.25,0.19999999999999996,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Kanak,63765823+Cosmicoppai@users.noreply.github.com,0.3076923076923077,0.19354838709677424,0.33333333333333337,0.0,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,SiddhantJain15,siddhant.jain150397@gmail.com,0.36363636363636365,0.21621621621621623,0.1333333333333333,0.0,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Sherman Hui,11592023+shermanhui@users.noreply.github.com,0.2727272727272727,0.25,0.25,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.25,0.16000000000000003,0.0,0.2857142857142857,False,False,False,True,False,FP
+Ishmeet-Singh-Saggu,40631164+Ishmeet-Singh-Saggu@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.31999999999999995,0.30434782608695654,0.11111111111111116,0.0,False,False,False,True,False,FP
+Kumar Shivam,53289673+kshivi99@users.noreply.github.com,kumarsurajsk,104374726+kumarsurajsk@users.noreply.github.com,0.5833333333333333,0.3076923076923077,0.5882352941176471,0.0,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,ayushbisht2001,61404154+ayushbisht2001@users.noreply.github.com,0.31999999999999995,0.2222222222222222,0.34782608695652173,0.0,True,False,False,False,False,FP
+Daniel Ingram,ingramds@appstate.edu,Daniel Melo,38673841+danielx285@users.noreply.github.com,0.6666666666666667,0.07407407407407407,1.0,0.19999999999999996,False,True,False,False,False,FP
+Juan Dupierris,dupierris.juan@gmail.com,Ron U,sharpblade4@gmail.com,0.3157894736842105,0.16000000000000003,0.2857142857142857,0.19999999999999996,False,False,True,False,False,FP
+Kushagra Agarwal,94402194+developer-kush@users.noreply.github.com,Kushagra Bansal,kushagrabansalajmer@gmail.com,0.7741935483870968,0.19047619047619047,1.0,0.46153846153846156,False,True,False,False,False,FP
+YOGESHWARAN R,yogeshin247@gmail.com,samyakpagariya,72349392+samyakpagariya@users.noreply.github.com,0.37037037037037035,0.17647058823529416,0.4,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,TANMAY SRIVASTAVA,77936821+ktsrivastava29@users.noreply.github.com,0.27586206896551724,0.40909090909090906,0.25,0.18181818181818177,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Anuska Roy,anuskaroy0410@gmail.com,0.19047619047619047,0.3076923076923077,0.1333333333333333,0.0,True,False,False,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,Rohit Gupta,rohit1997gupta@gmail.com,0.2727272727272727,0.23529411764705888,0.0,0.2857142857142857,False,True,False,False,False,FP
+Hasanul Islam,hasanuli10@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.38095238095238093,0.18181818181818177,0.25,0.36363636363636365,False,False,False,True,False,FP
+KICH Yassine,kishyassin@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.36363636363636365,0.375,0.16666666666666663,0.25,False,False,True,False,False,FP
+Meysam,MeysamAzad81@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.4285714285714286,0.1333333333333333,0.2857142857142857,0.0,False,False,False,True,False,FP
+Rohan R Bharadwaj,89947037+Rohanrbharadwaj@users.noreply.github.com,Rohan R Bharadwaj,rohanrbharadwaj@gmail.com,1.0,0.717948717948718,1.0,1.0,False,True,False,False,False,TP
+Deepak345,senapati.dipak97@gmail.com,K Anamithra,anamithrak@gmail.com,0.09999999999999998,0.3846153846153846,0.19999999999999996,0.0,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Ron U,sharpblade4@gmail.com,0.4285714285714286,0.37037037037037035,0.4,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,zakademic,67771932+zakademic@users.noreply.github.com,0.42105263157894735,0.3783783783783784,0.3529411764705882,0.0,True,False,False,False,False,FP
+Jai Vignesh J,108923524+Jaivignesh-afk@users.noreply.github.com,Karthik S,73390717+karthiks2611@users.noreply.github.com,0.36363636363636365,0.2222222222222222,0.4,0.19999999999999996,False,False,True,False,False,FP
+Michael D,michael@drueing.de,Vinicius Cordeiro,marcos.cordeiroal@gmail.com,0.3076923076923077,0.33333333333333337,0.2666666666666667,0.2222222222222222,True,False,False,False,False,FP
+keshav Sharma,72795959+ksharma20@users.noreply.github.com,sharmapulkit04,39304055+sharmapulkit04@users.noreply.github.com,0.4444444444444444,0.5365853658536586,0.30000000000000004,0.0,True,False,False,False,False,FP
+Filip Hlasek,fhlasek@gmail.com,Karthik S,73390717+karthiks2611@users.noreply.github.com,0.2857142857142857,0.1428571428571429,0.16666666666666663,0.2857142857142857,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Indrajeet Mishra,mindra673@gmail.com,0.36363636363636365,0.14814814814814814,0.3076923076923077,0.2857142857142857,True,False,False,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,Samuel Willis,109305646+konsoleSam@users.noreply.github.com,0.32432432432432434,0.36,0.2857142857142857,0.2142857142857143,False,True,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.33333333333333337,0.2142857142857143,0.0,0.19999999999999996,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Samuel Willis,109305646+konsoleSam@users.noreply.github.com,0.2857142857142857,0.2790697674418605,0.2857142857142857,0.16666666666666663,False,True,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,Palash Sharma,54630543+palashsharma891@users.noreply.github.com,0.7692307692307692,0.47619047619047616,0.5,1.0,True,False,False,False,False,FP
+Purvesh Makode,makodepurvesh@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.33333333333333337,0.3157894736842105,0.2666666666666667,0.0,False,False,True,False,False,FP
+Arshdeep Singh Sachdeva,arshdeep.mailme@gmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.19999999999999996,0.18181818181818177,0.15384615384615385,0.0,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,dimgrichr,32580033+dimgrichr@users.noreply.github.com,0.5333333333333333,0.2222222222222222,0.46153846153846156,0.0,True,False,False,False,False,FP
+Sangeet K,sangeethk.137@gmail.com,Venkatesh Tantravahi,64308188+venkateshtantravahi@users.noreply.github.com,0.27586206896551724,0.24390243902439024,0.25,0.0,True,False,False,False,False,FP
+Nguyen Thi Thanh Minh,140883075+minh-swinburne@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.4,0.4444444444444444,0.0,0.4444444444444444,False,False,False,True,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,umesh,umeshmalhotra1995@gmail.com,0.16666666666666663,0.17142857142857137,0.19999999999999996,0.0,True,False,False,False,False,FP
+Daniel K,dhavrutsky@gmail.com,Purvesh Makode,makodepurvesh@gmail.com,0.2727272727272727,0.26086956521739135,0.15384615384615385,0.2857142857142857,True,False,False,False,False,FP
+Aakash Dinkar,35952953+aakashdinkar@users.noreply.github.com,K Anamithra,anamithrak@gmail.com,0.41666666666666663,0.25806451612903225,0.2857142857142857,0.4,False,False,False,True,False,FP
+Hector S,hfsam88@gmail.com,Shubham Shaswat,shaswat.cpp@gmail.com,0.26086956521739135,0.33333333333333337,0.15384615384615385,0.25,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,bT-53,phanu.bjstp@gmail.com,0.0,0.18181818181818177,0.0,0.0,False,True,False,False,False,FP
+Daniel K,dhavrutsky@gmail.com,RajdeepBakolia2004,144157867+RajdeepBakolia2004@users.noreply.github.com,0.23076923076923073,0.1578947368421053,0.25,0.0,True,False,False,False,False,FP
+Himadri Ganguly,himadri@colourdrift.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.36363636363636365,0.16000000000000003,0.5,0.0,False,False,True,False,False,FP
+AlexDvorak,opti.jawsome@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.11764705882352944,0.23809523809523814,0.0,0.0,False,False,False,True,False,FP
+Shashank S,Knhash@users.noreply.github.com,rudrasohan,sohanrudra@gmail.com,0.5,0.25,0.5555555555555556,0.0,True,False,False,False,False,FP
+Andy Lau,andy1970635726@gmail.com,cclauss,cclauss@me.com,0.4,0.09523809523809523,0.18181818181818177,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Tanuj Dhiman,56601466+tanujdhiman@users.noreply.github.com,0.33333333333333337,0.08333333333333337,0.2222222222222222,0.2857142857142857,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Syed Haseeb Shah,yesiamhasi@gmail.com,0.3571428571428571,0.19354838709677424,0.2857142857142857,0.16666666666666663,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,ayushbisht2001,61404154+ayushbisht2001@users.noreply.github.com,0.18181818181818177,0.1333333333333333,0.19999999999999996,0.0,True,False,False,False,False,FP
+Sangeet K,sangeethk.137@gmail.com,Sankalpa Sarkar,137193167+sanks011@users.noreply.github.com,0.41666666666666663,0.32258064516129037,0.4,0.2857142857142857,True,False,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Isidro,isidroariass@hotmail.es,0.33333333333333337,0.06666666666666665,0.19999999999999996,0.0,True,False,False,False,False,FP
+Aswin Murali,aswinmurali.co@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.33333333333333337,0.22857142857142854,0.4,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,Vinayak Upadhyay,vinayakupadhyay42@gmail.com,0.36363636363636365,0.0,0.36363636363636365,0.2222222222222222,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,poloso,osoriopabl@gmail.com,0.125,0.125,0.1428571428571429,0.0,True,False,False,False,False,FP
+Abdujabbar Mirkhalikov,abdujabbar.mirkhalikov@gmail.com,Hanif Ali,alihanif016@gmail.com,0.32258064516129037,0.303030303030303,0.1333333333333333,0.4285714285714286,False,False,True,False,False,FP
+K Anamithra,anamithrak@gmail.com,KICH Yassine,kishyassin@gmail.com,0.34782608695652173,0.30000000000000004,0.4,0.25,False,True,False,False,False,FP
+Anurag Shukla,76862299+anuragshuklajec@users.noreply.github.com,Karthik S,73390717+karthiks2611@users.noreply.github.com,0.36363636363636365,0.3111111111111111,0.3076923076923077,0.2857142857142857,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,siva1098,32545976+siva1098@users.noreply.github.com,0.25,0.1428571428571429,0.2222222222222222,0.0,False,True,False,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,Sri Suma,41474384+srisumapasumarthi@users.noreply.github.com,0.3125,0.3928571428571429,0.5,0.15384615384615385,False,True,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,sarthaka1310,56290744+sarthaka1310@users.noreply.github.com,0.47619047619047616,0.5238095238095238,0.5263157894736843,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,himanshit0304,70479061+himanshit0304@users.noreply.github.com,0.2857142857142857,0.18181818181818177,0.1428571428571429,0.0,False,True,False,False,False,FP
+Vysor,vysor@users.noreply.github.com,YOGESHWARAN R,yogeshin247@gmail.com,0.33333333333333337,0.25,0.375,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Saba Pochkhua,saba.pochkhua@gmail.com,0.2857142857142857,0.25,0.4,0.1428571428571429,False,True,False,False,False,FP
+Amrit Khera,31596604+AmritK10@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.4444444444444444,0.2857142857142857,0.4,0.33333333333333337,False,False,True,False,False,FP
+ArjunwadkarAjay,41279300+ArjunwadkarAjay@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.19999999999999996,0.17142857142857137,0.2222222222222222,0.0,False,False,True,False,False,FP
+1227haran,68032825+1227haran@users.noreply.github.com,Noah H,root@flameazalea.com,0.1333333333333333,0.09090909090909094,0.15384615384615385,0.0,False,False,True,False,False,FP
+Kasper Primdal Lauritzen,KPLauritzen@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.2068965517241379,0.2727272727272727,0.2222222222222222,0.11111111111111116,False,False,True,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,Nolan Emirot,emirot.nolan@gmail.com,0.3157894736842105,0.2666666666666667,0.19999999999999996,0.2857142857142857,True,False,False,False,False,FP
+Arijit De,arijitde2050@gmail.com,Devashri Deulkar,95555641+Devadeut@users.noreply.github.com,0.48,0.2068965517241379,0.4285714285714286,0.4444444444444444,True,False,False,False,False,FP
+Anthony Klarman,148516349+tonguegrease@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.31999999999999995,0.2142857142857143,0.4,0.0,False,False,True,False,False,FP
+Anubhav Solanki,55892162+AnubhavSolanki@users.noreply.github.com,Noah H,root@flameazalea.com,0.2857142857142857,0.07407407407407407,0.36363636363636365,0.0,False,False,True,False,False,FP
+Miggelito,a.bidakowski@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.11764705882352944,0.11428571428571432,0.0,0.0,False,False,False,True,False,FP
+Chandra Sekhar Pola,chandraspola@outlook.com,Hector S,hfsam88@gmail.com,0.2962962962962963,0.3157894736842105,0.3076923076923077,0.16666666666666663,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Vasu Tomar,vasutomar26@gmail.com,0.33333333333333337,0.11764705882352944,0.4,0.18181818181818177,False,True,False,False,False,FP
+CarlosZamG,54159355+CarlosZamG@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.18181818181818177,0.25,0.19999999999999996,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Sagar Giri,girisagar46@gmail.com,0.5555555555555556,0.4545454545454546,0.33333333333333337,0.4,False,True,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Shikhar Maheshwari,83123897+shikhar-sm@users.noreply.github.com,0.3076923076923077,0.23809523809523814,0.25,0.25,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Swapnanil Dutta,47251193+swapnanildutta@users.noreply.github.com,0.23076923076923073,0.2222222222222222,0.2222222222222222,0.0,True,False,False,False,False,FP
+ANIRUDDHA ADAK,aniruddhaadak80@gmail.com,K Anamithra,anamithrak@gmail.com,0.4,0.48,0.0,0.3076923076923077,False,False,False,True,False,FP
+AHTESHAM ZAIDI,zsyedahtesham@yahoo.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.23076923076923073,0.23529411764705888,0.2222222222222222,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,achance6,45263295+achance6@users.noreply.github.com,0.2857142857142857,0.0,0.33333333333333337,0.0,True,False,False,False,False,FP
+Pranjay kumar,110048711+pranjaykumar926@users.noreply.github.com,Ravi Kumar,119737193+ravi-ivar-7@users.noreply.github.com,0.6956521739130435,0.3913043478260869,0.36363636363636365,1.0,False,False,True,False,False,FP
+Akash Ali,45498607+AkashAli506@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.3529411764705882,0.21052631578947367,0.33333333333333337,0.2222222222222222,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,pharshil1902,57032836+pharshil1902@users.noreply.github.com,0.09999999999999998,0.36363636363636365,0.15384615384615385,0.0,False,True,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,Nikhil Kala,nikhilkala8@gmail.com,0.36363636363636365,0.38095238095238093,0.2857142857142857,0.3076923076923077,False,True,False,False,False,FP
+Chris O,46587501+ChrisO345@users.noreply.github.com,Tobias Schröder,5970416+tbsschroeder@users.noreply.github.com,0.36363636363636365,0.368421052631579,0.36363636363636365,0.2222222222222222,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Mikael Souza,mikaelsouza@icomp.ufam.edu.br,0.4,0.36363636363636365,0.2857142857142857,0.36363636363636365,False,True,False,False,False,FP
+MindTraper,mavroudo@csd.auth.gr,Ron U,sharpblade4@gmail.com,0.1333333333333333,0.3157894736842105,0.15384615384615385,0.0,False,False,True,False,False,FP
+Reshad Hasan,reshadhasan555@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.4,0.10810810810810811,0.2857142857142857,0.36363636363636365,False,False,False,True,False,FP
+Christian Bender,christianbender89@web.de,Dima I,79413560+DIvkov575@users.noreply.github.com,0.2727272727272727,0.05714285714285716,0.3076923076923077,0.0,False,False,True,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Andrew,54547089+ac-tam@users.noreply.github.com,0.375,0.4117647058823529,0.4285714285714286,0.0,True,False,False,False,False,FP
+Cho Yin Yong,choyiny@users.noreply.github.com,YasirChoudhary,yasirchoudhary81@gmail.com,0.3076923076923077,0.34782608695652173,0.3529411764705882,0.0,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Sylvain,sylvain.desodt+github@gmail.com,0.2666666666666667,0.2564102564102564,0.25,0.0,False,True,False,False,False,FP
+Abhijit Kumar Singh,thisabhijithere@protonmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.25806451612903225,0.11111111111111116,0.11764705882352944,0.16666666666666663,False,False,True,False,False,FP
+Brian Evans,53117772+mrbrianevans@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.34285714285714286,0.3921568627450981,0.0,0.2222222222222222,False,False,False,True,False,FP
+Sangeet K,sangeethk.137@gmail.com,akankshamahajan99,47140026+akankshamahajan99@users.noreply.github.com,0.23076923076923073,0.15384615384615385,0.25,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Saswat Susmoy,72549122+Saswatsusmoy@users.noreply.github.com,0.2857142857142857,0.25,0.2857142857142857,0.16666666666666663,False,True,False,False,False,FP
+Rafa leyva,rafael.leyva@4iq.com,Yasser A,r7al.77@gmail.com,0.33333333333333337,0.42105263157894735,0.19999999999999996,0.33333333333333337,False,False,True,False,False,FP
+Anthony Klarman,148516349+tonguegrease@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.17391304347826086,0.3111111111111111,0.0,0.15384615384615385,False,False,False,True,False,FP
+Arghya Sarkar (ASRA),67339217+sarkarghya@users.noreply.github.com,Hector S,hfsam88@gmail.com,0.3076923076923077,0.15384615384615385,0.16666666666666663,0.16666666666666663,False,False,True,False,False,FP
+Kshitij,38787855+kshtijsingh@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.2666666666666667,0.3157894736842105,0.25,0.0,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Rohan R Bharadwaj,89947037+Rohanrbharadwaj@users.noreply.github.com,0.3846153846153846,0.4,0.5,0.16666666666666663,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Sangmin Jeon,furthermares@gmail.com,0.30000000000000004,0.34782608695652173,0.25,0.0,False,True,False,False,False,FP
+Krishna-singhal,65902764+Krishna-Singhal@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.2727272727272727,0.3829787234042553,0.1333333333333333,0.0,False,False,False,True,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Utsav Akash Naskar,utsavakash123@gmail.com,0.46153846153846156,0.19354838709677424,0.33333333333333337,0.4444444444444444,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,ojas wani,52542740+ojas-wani@users.noreply.github.com,0.19999999999999996,0.12903225806451613,0.15384615384615385,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Turfa Auliarachman,turfa_auliarachman@rocketmail.com,0.25,0.09090909090909094,0.2222222222222222,0.15384615384615385,True,False,False,False,False,FP
+Neha,129765919+neha3423@users.noreply.github.com,Noah H,root@flameazalea.com,0.4,0.0,0.5,0.0,False,False,True,False,False,FP
+Arijit De,arijitde2050@gmail.com,nautiyaldeepak,deepaknautiyal07@outlook.com,0.34782608695652173,0.2142857142857143,0.19999999999999996,0.0,True,False,False,False,False,FP
+Marcus T,marcus.truscello@gmail.com,Mark Moretto,otteromkram@gmail.com,0.5,0.2222222222222222,0.6,0.25,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Tushar Pamnani,121151091+tusharpamnani@users.noreply.github.com,0.2727272727272727,0.30434782608695654,0.2857142857142857,0.15384615384615385,False,True,False,False,False,FP
+Anselm Hahn,Anselm.Hahn@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.47619047619047616,0.3529411764705882,0.2857142857142857,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Rakshit Parashar,34675136+rishu2403@users.noreply.github.com,0.33333333333333337,0.07999999999999996,0.3076923076923077,0.2222222222222222,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Srikumar Sastry,srikumarsastry1997@gmail.com,0.41666666666666663,0.2564102564102564,0.4,0.2857142857142857,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,rudrasohan,sohanrudra@gmail.com,0.36363636363636365,0.32258064516129037,0.4,0.0,True,False,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.7619047619047619,0.11111111111111116,0.2857142857142857,1.0,False,False,False,True,False,FP
+Jitendra_Sharma,jitendra.sharma_cs16@gla.ac.in,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.18181818181818177,0.18604651162790697,0.1333333333333333,0.0,False,False,False,True,False,FP
+Kotmin,70173732+Kotmin@users.noreply.github.com,Marcus T,marcus.truscello@gmail.com,0.1428571428571429,0.06451612903225812,0.16666666666666663,0.0,False,False,True,False,False,FP
+Mislah,76743829+mislah@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2222222222222222,0.33333333333333337,0.25,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,Shantanu Joshi,42472191+shan7030@users.noreply.github.com,0.4,0.09523809523809523,0.33333333333333337,0.33333333333333337,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,rajnishyadav321,rajnishyadav321@users.noreply.github.com,0.2222222222222222,0.16666666666666663,0.24,0.0,True,False,False,False,False,FP
+Sarbajit Saha,sarbajitsaha1@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.4347826086956522,0.3157894736842105,0.375,0.4,False,False,True,False,False,FP
+Michael D,michael@drueing.de,Muhammadrasul,64916997+Muhammadrasul446@users.noreply.github.com,0.36363636363636365,0.1875,0.4,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Anderson Torres,torres.anderson.85@protonmail.com,0.26086956521739135,0.2068965517241379,0.2222222222222222,0.16666666666666663,False,True,False,False,False,FP
+Ayush Raj,rajayush213@gmail.com,YOGESHWARAN R,yogeshin247@gmail.com,0.4545454545454546,0.36363636363636365,0.375,0.5,False,False,True,False,False,FP
+Om Ashishkumar Soni,oms279400@gmail.com,omahs,73983677+omahs@users.noreply.github.com,0.41666666666666663,0.26086956521739135,0.5714285714285714,0.0,False,True,False,False,False,FP
+Noah H,noah@nthall.com,Stephen Gemin,45926479+StephenGemin@users.noreply.github.com,0.21052631578947367,0.07999999999999996,0.18181818181818177,0.0,True,False,False,False,False,FP
+ARNAV RAJ,126798788+Acuspeedster@users.noreply.github.com,dheerajreddymumma,dheerajreddymumma@gmail.com,0.3076923076923077,0.15384615384615385,0.2727272727272727,0.0,True,False,False,False,False,FP
+harsh patel,hkp27299@gmail.com,pharshil1902,57032836+pharshil1902@users.noreply.github.com,0.5217391304347826,0.2068965517241379,0.5882352941176471,0.0,False,True,False,False,False,FP
+Ali Rashid,110668489+alirashidAR@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.33333333333333337,0.3589743589743589,0.0,0.33333333333333337,False,False,False,True,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Swati Prajapati,42577922+swatiprajapati08@users.noreply.github.com,0.4444444444444444,0.4782608695652174,0.4,0.0,True,False,False,False,False,FP
+Christian Bender,christianbender89@web.de,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.25,0.17142857142857137,0.19999999999999996,0.16666666666666663,False,False,False,True,False,FP
+Farhan,farhankasmani956@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.1428571428571429,0.15384615384615385,0.0,0.0,False,False,False,True,False,FP
+K Yasaswi Sri Chandra Gandhi,35304641+G7-TheKing@users.noreply.github.com,Noah H,noah@nthall.com,0.23529411764705888,0.08695652173913049,0.0,0.07407407407407407,False,False,True,False,False,FP
+Kushagra Makharia,KushagraMakharia@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.48,0.11764705882352944,0.2222222222222222,0.5714285714285714,False,False,False,True,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,achance6,45263295+achance6@users.noreply.github.com,0.5555555555555556,0.5,0.5,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Vishal Gupta,vishalg8897@gmail.com,0.33333333333333337,0.125,0.25,0.0,True,False,False,False,False,FP
+Matteo Messmer,40521259+matteomessmer@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.23076923076923073,0.2325581395348837,0.125,0.25,False,False,True,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Vysor,vysor@users.noreply.github.com,0.1333333333333333,0.18181818181818177,0.15384615384615385,0.0,True,False,False,False,False,FP
+Pranjay kumar,110048711+pranjaykumar926@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.2857142857142857,0.125,0.15384615384615385,0.33333333333333337,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,dhruvsaini,dhruv_saini@outlook.com,0.375,0.06896551724137934,0.2857142857142857,0.0,True,False,False,False,False,FP
+Ron U,sharpblade4@gmail.com,Sarath Kaul,kaul.sarath@gmail.com,0.375,0.36363636363636365,0.2222222222222222,0.4,True,False,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,markaster,61535772+markaster@users.noreply.github.com,0.4,0.2857142857142857,0.19999999999999996,0.0,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Bhaavik Pratyush,bhaavikpratyush@gmail.com,0.25,0.23076923076923073,0.25,0.1428571428571429,False,True,False,False,False,FP
+Adam,34916469+coderpower0@users.noreply.github.com,Chris O,46587501+ChrisO345@users.noreply.github.com,0.0,0.21052631578947367,0.0,0.0,False,False,True,False,False,FP
+Aditya Sharma,32771292+adityasharma1234@users.noreply.github.com,tacitvenom,vasu.sharma314@gmail.com,0.34782608695652173,0.46153846153846156,0.375,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,billpaps,37051006+billpaps@users.noreply.github.com,0.30000000000000004,0.26315789473684215,0.2222222222222222,0.0,True,False,False,False,False,FP
+97arushisharma,97arushisharma@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.368421052631579,0.31818181818181823,0.1333333333333333,0.0,False,False,False,True,False,FP
+Berat Osman Demiralay,bdemiralay7@gmail.com,Michael D,michael@drueing.de,0.2666666666666667,0.4444444444444444,0.16666666666666663,0.125,False,False,True,False,False,FP
+Diego Gasco,62801631+Diegomangasco@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.2857142857142857,0.2692307692307693,0.0,0.14814814814814814,False,False,False,True,False,FP
+Michael D,michael@drueing.de,Shubham Kondekar,40213815+kondekarshubham123@users.noreply.github.com,0.31999999999999995,0.11764705882352944,0.2857142857142857,0.2222222222222222,True,False,False,False,False,FP
+Volodymyr Klymenko,klymenkodp@gmail.com,Volodymyr,klymenkodp@gmail.com,0.6666666666666667,1.0,1.0,0.0,False,False,False,False,True,TP
+Arghya Sarkar (ASRA),67339217+sarkarghya@users.noreply.github.com,K Yasaswi Sri Chandra Gandhi,35304641+G7-TheKing@users.noreply.github.com,0.3913043478260869,0.26315789473684215,0.0,0.3783783783783784,False,False,False,True,False,FP
+Meysam,MeysamAzad81@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.25,0.11111111111111116,0.2857142857142857,0.0,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Nivid Patel,66813410+nivid26@users.noreply.github.com,0.23529411764705888,0.2941176470588235,0.2222222222222222,0.0,True,False,False,False,False,FP
+Noah H,noah@nthall.com,Rudransh Bhardwaj,115872354+rudransh61@users.noreply.github.com,0.34782608695652173,0.16666666666666663,0.33333333333333337,0.2222222222222222,True,False,False,False,False,FP
+AmirMohammad Hosseini Nasab,19665344+itsamirhn@users.noreply.github.com,Marcus T,marcus.truscello@gmail.com,0.22857142857142854,0.11764705882352944,0.2222222222222222,0.0,False,False,True,False,False,FP
+Mohammad Firmansyah,76118762+dimasdh842@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.3448275862068966,0.24,0.375,0.18181818181818177,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,harshildarji,darjiharshil2994@gmail.com,0.4,0.11764705882352944,0.15384615384615385,0.0,False,True,False,False,False,FP
+Matheus Guimarães,matheusguimr@gmail.com,Matheus T. Guimarães,matheusguimr@gmail.com,0.9444444444444444,1.0,1.0,0.9,False,True,False,True,True,TP
+Abhijeeth S,abhikampurath@gmail.com,Anshul Malik,malikanshul29@gmail.com,0.26086956521739135,0.3846153846153846,0.2666666666666667,0.0,True,False,False,False,False,FP
+Khushi Shukla,tusharika.shukla05@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.38095238095238093,0.19512195121951215,0.2857142857142857,0.33333333333333337,False,False,False,True,False,FP
+Saksham Chawla,51916697+saksham-chawla@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.5,0.2068965517241379,0.6666666666666667,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Ambuj81,dataaccess81@gmail.com,0.1333333333333333,0.34782608695652173,0.25,0.0,False,True,False,False,False,FP
+Aswin Murali,aswinmurali.co@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.4,0.1875,0.33333333333333337,0.33333333333333337,False,False,False,True,False,FP
+A Safari,alisafariem@gmail.com,markaster,61535772+markaster@users.noreply.github.com,0.3529411764705882,0.2068965517241379,0.19999999999999996,0.0,False,True,False,False,False,FP
+Rakshit Parashar,34675136+rishu2403@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.46153846153846156,0.16666666666666663,0.4,0.2222222222222222,False,False,True,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Vishal Kumar Gupta,groupsvkg@gmail.com,0.2962962962962963,0.1333333333333333,0.15384615384615385,0.0,True,False,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Parth Satodiya,parth.satodiya@gmail.com,0.30000000000000004,0.0625,0.2222222222222222,0.2222222222222222,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Vikas Kumar Yadav,vikasharry03@gmail.com,0.1428571428571429,0.31999999999999995,0.1428571428571429,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Tauseef Hilal Tantary,tantary.tauseef.atwork@gmail.com,0.3448275862068966,0.19999999999999996,0.25,0.3157894736842105,False,True,False,False,False,FP
+RaymondDashWu,33266041+RaymondDashWu@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.2857142857142857,0.06896551724137934,0.3157894736842105,0.0,False,False,True,False,False,FP
+Ayush Bisht,61404154+ayushbisht2001@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.26086956521739135,0.2727272727272727,0.1333333333333333,0.33333333333333337,False,False,True,False,False,FP
+Horst JENS,horstjens@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.4444444444444444,0.1875,0.33333333333333337,0.4,False,False,False,True,False,FP
+Srikumar Sastry,srikumarsastry1997@gmail.com,Sunny Kumar,37464973+Skyad@users.noreply.github.com,0.46153846153846156,0.125,0.3076923076923077,0.36363636363636365,False,False,True,False,False,FP
+K Anamithra,anamithrak@gmail.com,sakuralethe,sakuralethe@outlook.com,0.36363636363636365,0.38095238095238093,0.16666666666666663,0.0,False,True,False,False,False,FP
+Aroson,74296409+Aroson1@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.375,0.09090909090909094,0.4285714285714286,0.0,False,False,True,False,False,FP
+Adithya Awati,aditya.n.awati@gmail.com,Yasser A,r7al.77@gmail.com,0.38095238095238093,0.19047619047619047,0.3076923076923077,0.33333333333333337,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,alejandroaldas,52395149+alejandroaldas@users.noreply.github.com,0.2727272727272727,0.3414634146341463,0.1333333333333333,0.0,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Akash G Krishnan,krishnanag1996@gmail.com,0.2962962962962963,0.2222222222222222,0.2857142857142857,0.18181818181818177,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,theycallmemac,james.mcdermott89@gmail.com,0.26086956521739135,0.11111111111111116,0.19047619047619047,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Ikko Ashimine,eltociear@gmail.com,0.34782608695652173,0.1428571428571429,0.16666666666666663,0.0,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.33333333333333337,0.2941176470588235,0.2857142857142857,0.0,True,False,True,False,False,FP
+Binish Manandhar,37204996+binish784@users.noreply.github.com,Hector S,hfsam88@gmail.com,0.16666666666666663,0.16000000000000003,0.16666666666666663,0.0,False,False,True,False,False,FP
+Chris Jim,chrisjim316@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.3157894736842105,0.23529411764705888,0.3076923076923077,0.0,False,False,True,False,False,FP
+Leoriem-code,73761711+Leoriem-code@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.2222222222222222,0.3589743589743589,0.25,0.0,False,False,True,False,False,FP
+Anshul,malikanshul29@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.2857142857142857,0.12903225806451613,0.2857142857142857,0.0,False,False,False,True,False,FP
+Itssxxsalman,114142076+Itssxxsalman@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.2222222222222222,0.3076923076923077,0.15384615384615385,0.0,False,False,False,True,False,FP
+Atishaye Jain,64211411+atishaye@users.noreply.github.com,Hector S,hfsam88@gmail.com,0.2857142857142857,0.16666666666666663,0.2857142857142857,0.0,False,False,True,False,False,FP
+DeepakNautiyal987,deepaknautiyal07@outlook.com,Yasser A,r7al.77@gmail.com,0.16000000000000003,0.26086956521739135,0.17391304347826086,0.0,False,False,True,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Sharan Krishnan,58838321+shrabian@users.noreply.github.com,0.5,0.36363636363636365,0.6153846153846154,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Sangeet K,sangeethk.137@gmail.com,0.5,0.23076923076923073,0.5,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,keshav Sharma,72795959+ksharma20@users.noreply.github.com,0.7619047619047619,0.2222222222222222,0.2857142857142857,1.0,False,True,False,False,False,FP
+RiptideBo,245885195@qq.com,Stephen Lee,245885195@qq.com,0.19999999999999996,1.0,0.25,0.0,False,False,False,False,True,TP
+Michael Currin,18750745+MichaelCurrin@users.noreply.github.com,Michael D,michael@drueing.de,0.6956521739130435,0.4137931034482759,1.0,0.0,False,True,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Saksham Saha,sakshamsaha1212+github@gmail.com,0.38095238095238093,0.2325581395348837,0.2857142857142857,0.4,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Sabari Ganesh,64348740+SabariGanesh-K@users.noreply.github.com,0.5454545454545454,0.3076923076923077,0.3076923076923077,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,SubhranShu2332,124662904+SubhranShu2332@users.noreply.github.com,0.19999999999999996,0.0714285714285714,0.2222222222222222,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,nishithshowri006,58651995+nishithshowri006@users.noreply.github.com,0.2727272727272727,0.06896551724137934,0.19999999999999996,0.0,True,False,False,False,False,FP
+Frank-1998,77809242+Frank-1998@users.noreply.github.com,K Anamithra,anamithrak@gmail.com,0.19999999999999996,0.2068965517241379,0.19999999999999996,0.0,False,False,False,True,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,bT-53,phanu.bjstp@gmail.com,0.1333333333333333,0.25806451612903225,0.0,0.0,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Viraat Das,viraat.laldas@gmail.com,0.38095238095238093,0.3076923076923077,0.2666666666666667,0.5,True,False,False,False,False,FP
+Mark Moretto,otteromkram@gmail.com,Om Ashishkumar Soni,oms279400@gmail.com,0.3870967741935484,0.19999999999999996,0.33333333333333337,0.26086956521739135,False,False,False,True,False,FP
+Abhishek Chakraborty,abhishekchak52@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.2142857142857143,0.16216216216216217,0.2222222222222222,0.11764705882352944,False,False,False,True,False,FP
+A Safari,alisafariem@gmail.com,Dylanskyep,149001171+Dylanskyep@users.noreply.github.com,0.2222222222222222,0.19354838709677424,0.18181818181818177,0.0,False,True,False,False,False,FP
+Aaryan Raj,97806283+iaaryanraj@users.noreply.github.com,Adityanagraj,42292430+Adityanagraj@users.noreply.github.com,0.6363636363636364,0.55,0.4444444444444444,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Kushal Naidu,akushalnaidu@gmail.com,0.17391304347826086,0.31999999999999995,0.1333333333333333,0.0,True,False,False,False,False,FP
+Mohammad Firmansyah,76118762+dimasdh842@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.37037037037037035,0.21621621621621623,0.0,0.375,False,False,False,True,False,FP
+Kilian Rueß,kilian.ruess@student.uni-augsburg.de,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.33333333333333337,0.12121212121212122,0.25,0.33333333333333337,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,harshildarji,darjiharshil2994@gmail.com,0.33333333333333337,0.11764705882352944,0.25,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Sylvain,sylvain.desodt+github@gmail.com,0.3157894736842105,0.1428571428571429,0.3529411764705882,0.0,True,False,False,False,False,FP
+Akash_Jambulkar,97665573+Akash-Jambulkar@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.26086956521739135,0.16216216216216217,0.19047619047619047,0.0,False,False,True,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,mateuszz0000,mtszzwdzk@gmail.com,0.16666666666666663,0.19999999999999996,0.09090909090909094,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,ss1208,87578327+ss1208@users.noreply.github.com,0.2857142857142857,0.21052631578947367,0.2857142857142857,0.0,False,True,False,False,False,FP
+Utkarsh Chaudhary,f2016303@pilani.bits-pilani.ac.in,Utkarsh Chaudhary,ucponia@gmail.com,1.0,0.0,1.0,1.0,False,False,False,False,False,TP
+Abhijeeth S,abhikampurath@gmail.com,Subhendu Dash,71781104+subhendudash02@users.noreply.github.com,0.41666666666666663,0.2777777777777778,0.3529411764705882,0.4,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Srikumar Sastry,srikumarsastry1997@gmail.com,0.4347826086956522,0.27586206896551724,0.2222222222222222,0.5,False,True,False,False,False,FP
+Noah H,noah@nthall.com,Sandeepa Dilshan Alagiyawanna,108791571+SandeepaDilshanAlagiyawanna@users.noreply.github.com,0.22857142857142854,0.14634146341463417,0.33333333333333337,0.09523809523809523,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Venkatesh Tantravahi,64308188+venkateshtantravahi@users.noreply.github.com,0.25806451612903225,0.29268292682926833,0.33333333333333337,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Matheus T. Guimarães,matheusguimr@gmail.com,0.2962962962962963,0.34782608695652173,0.25,0.23529411764705888,False,True,False,False,False,FP
+Shikhar Maheshwari,83123897+shikhar-sm@users.noreply.github.com,architmaheshwari99,99663695+architmaheshwari99@users.noreply.github.com,0.6666666666666667,0.34782608695652173,0.4,0.0,True,False,False,False,False,FP
+Sandeepa Dilshan Alagiyawanna,108791571+SandeepaDilshanAlagiyawanna@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.3414634146341463,0.3448275862068966,0.5555555555555556,0.09523809523809523,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Nika Losaberidze,nlosa16@freeuni.edu.ge,0.2962962962962963,0.09999999999999998,0.15384615384615385,0.16666666666666663,True,False,False,False,False,FP
+Noah H,noah@nthall.com,Rahid Zeynalov,44039543+rahidzeynal@users.noreply.github.com,0.30000000000000004,0.16666666666666663,0.4444444444444444,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Syed Haseeb Shah,yesiamhasi@gmail.com,0.46153846153846156,0.375,0.16666666666666663,0.16666666666666663,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,sthkindacrazy,shinjoohyung25@gmail.com,0.47619047619047616,0.125,0.1428571428571429,0.0,False,True,False,False,False,FP
+Anurag Kumar,anuragkumarak95@gmail.com,Muskan Kumar,31043527+muskanvk@users.noreply.github.com,0.6666666666666667,0.25,0.33333333333333337,1.0,False,False,True,False,False,FP
+Chris O,46587501+ChrisO345@users.noreply.github.com,Guillaume Rochedix,33205665+grochedix@users.noreply.github.com,0.24,0.2777777777777778,0.1428571428571429,0.2222222222222222,True,False,False,False,False,FP
+Michael D,michael@drueing.de,Sundaram Kumar Jha,jhasundaram@outlook.com,0.2222222222222222,0.2222222222222222,0.1333333333333333,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Sam Holst,sawohol@gmail.com,0.3529411764705882,0.19999999999999996,0.5,0.18181818181818177,False,True,False,False,False,FP
+Abhinav Anand,manasgmishra@gmail.com,Satish Mishra,36122092+ZicsX@users.noreply.github.com,0.3076923076923077,0.15384615384615385,0.3076923076923077,0.18181818181818177,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Swapnanil Dutta,47251193+swapnanildutta@users.noreply.github.com,0.26086956521739135,0.30434782608695654,0.19999999999999996,0.18181818181818177,False,True,False,False,False,FP
+Suyash Gupta,sgalpha01@gmail.com,shivg7706,shivamgupta7706@gmail.com,0.2857142857142857,0.41666666666666663,0.2666666666666667,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,CarlosZamG,54159355+CarlosZamG@users.noreply.github.com,0.19047619047619047,0.1875,0.10526315789473684,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,rudrasohan,soharudra@gmail.com,0.36363636363636365,0.2666666666666667,0.4,0.0,True,False,False,False,False,FP
+Harshit Kumar,kumar_harshit@outlook.com,Sourav kumar,33771969+souravs17031999@users.noreply.github.com,0.56,0.21621621621621623,0.15384615384615385,1.0,False,False,True,False,False,FP
+Akash Ali,45498607+AkashAli506@users.noreply.github.com,Akash,akash0babu0@gmail.com,0.7142857142857143,0.32258064516129037,1.0,0.0,False,True,False,False,False,FP
+Christian Bender,christianbender89@web.de,Shashank S,Knhash@users.noreply.github.com,0.3846153846153846,0.17391304347826086,0.47058823529411764,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Adarsh Acharya,132294330+AdarshAcharya5@users.noreply.github.com,0.4545454545454546,0.22857142857142854,0.2857142857142857,0.46153846153846156,False,True,False,False,False,FP
+Farhan,farhankasmani956@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.4285714285714286,0.11764705882352944,0.0,0.0,False,False,False,True,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Tarcisio Bruni Rangel,tarcisiobruni@hotmail.com,0.32258064516129037,0.1875,0.25,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,alejandroaldas,52395149+alejandroaldas@users.noreply.github.com,0.18181818181818177,0.30434782608695654,0.1333333333333333,0.0,False,True,False,False,False,FP
+Asim Hanif,asimjutt2003@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2727272727272727,0.06060606060606055,0.1428571428571429,0.0,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Saptarshi Sengupta,94242536+saptarshi1996@users.noreply.github.com,0.3076923076923077,0.30000000000000004,0.19999999999999996,0.2857142857142857,False,True,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,cornbread-eater,146371786+cornbread-eater@users.noreply.github.com,0.26086956521739135,0.29268292682926833,0.19047619047619047,0.0,True,False,False,False,False,FP
+Robert Bergers,bergersr@my.easternct.edu,Shashank S,Knhash@users.noreply.github.com,0.16666666666666663,0.1428571428571429,0.0,0.25,False,False,True,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,Turro,42980188+smturro2@users.noreply.github.com,0.16666666666666663,0.34285714285714286,0.0,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,tarushirastogi,108577219+tarushirastogi@users.noreply.github.com,0.2727272727272727,0.12903225806451613,0.30000000000000004,0.0,True,False,False,False,False,FP
+K Yasaswi Sri Chandra Gandhi,35304641+G7-TheKing@users.noreply.github.com,M3talM0nk3y,M3talM0nk3y@protonmail.com,0.10256410256410253,0.19999999999999996,0.16666666666666663,0.0,False,True,False,False,False,FP
+Jeremias Moreira Gomes,j3r3miasmg@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2941176470588235,0.06451612903225812,0.11111111111111116,0.1428571428571429,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,akankshamahajan99,47140026+akankshamahajan99@users.noreply.github.com,0.07999999999999996,0.18181818181818177,0.08695652173913049,0.0,True,False,False,False,False,FP
+Aditya Sharma,32771292+adityasharma1234@users.noreply.github.com,Michael D,michael@drueing.de,0.2727272727272727,0.1875,0.3076923076923077,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,bT-53,phanu.bjstp@gmail.com,0.0,0.1333333333333333,0.0,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,farnswj1,54967482+farnswj1@users.noreply.github.com,0.25,0.2857142857142857,0.2222222222222222,0.0,False,True,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Shubham garg,42842217+shubhamgarg2000@users.noreply.github.com,0.26086956521739135,0.2702702702702703,0.25,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,krishchopra02,77331421+krishchopra02@users.noreply.github.com,0.38095238095238093,0.13793103448275867,0.42105263157894735,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Sumuk Shashidhar,sumukuuu@gmail.com,0.46153846153846156,0.1428571428571429,0.3076923076923077,0.18181818181818177,True,False,False,False,False,FP
+Sarbajit Saha,sarbajitsaha1@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.4,0.17647058823529416,0.33333333333333337,0.4,False,False,True,False,False,FP
+ANANT JAIN,139585700+anant-jain01@users.noreply.github.com,Hetarth Jain,hetarth.jain@gmail.com,0.6363636363636364,0.3529411764705882,0.33333333333333337,1.0,True,False,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,Honey Sharma,softwaretester2016pro@gmail.com,0.72,0.3076923076923077,0.36363636363636365,1.0,False,False,True,False,False,FP
+Amir Lavasani,amirm.lavasani@gmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.30000000000000004,0.3125,0.4444444444444444,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,Sangeet K,sangeethk.137@gmail.com,0.2666666666666667,0.11764705882352944,0.18181818181818177,0.0,True,False,False,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.21052631578947367,0.3589743589743589,0.1333333333333333,0.0,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Tapajyoti Bose,44058757+ruppysuppy@users.noreply.github.com,0.18181818181818177,0.16216216216216217,0.0,0.19999999999999996,False,True,False,False,False,FP
+Marcos Cannabrava,54267712+marcoscannabrava@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.2962962962962963,0.12903225806451613,0.2857142857142857,0.0,False,False,True,False,False,FP
+cclauss,cclauss@bluewin.ch,cclauss,cclauss@me.com,1.0,1.0,1.0,1.0,False,False,False,False,False,TP
+Sangeet K,sangeethk.137@gmail.com,nowakowsky,47832512+nowakowsky@users.noreply.github.com,0.21052631578947367,0.125,0.11764705882352944,0.0,True,False,False,False,False,FP
+Bhavesh Mathur,130584844+bhavesh1oo@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.36363636363636365,0.3157894736842105,0.25,0.33333333333333337,False,False,False,True,False,FP
+Harshil,darjiharshil2994@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.47058823529411764,0.36363636363636365,0.5333333333333333,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Raj-Pansuriya,72313592+Raj-Pansuriya@users.noreply.github.com,0.26086956521739135,0.2857142857142857,0.19047619047619047,0.0,True,False,False,False,False,FP
+AkshajV1309,79909101+AkshajV1309@users.noreply.github.com,K Anamithra,anamithrak@gmail.com,0.2727272727272727,0.1333333333333333,0.16666666666666663,0.0,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,JakobZhao,52325554+JakobMusik@users.noreply.github.com,0.2222222222222222,0.11428571428571432,0.25,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,tacitvenom,vasu.sharma314@gmail.com,0.19999999999999996,0.30000000000000004,0.2222222222222222,0.0,True,False,False,False,False,FP
+Grigoriy Hanin,43445998+haningrisha@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.25,0.3076923076923077,0.0,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,bnMikheili,39998190+bnMikheili@users.noreply.github.com,0.25,0.17391304347826086,0.2857142857142857,0.0,True,False,False,False,False,FP
+Dan Murphy,danielmurph8@gmail.com,Daniel Melo,38673841+danielx285@users.noreply.github.com,0.47619047619047616,0.4516129032258065,0.6666666666666667,0.19999999999999996,False,False,False,True,False,FP
+Hossam Al-Dokkani,hossam.o@trufla.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.41666666666666663,0.15384615384615385,0.2857142857142857,0.2666666666666667,False,False,False,True,False,FP
+Rolv Apneseth,rolv.apneseth@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.38095238095238093,0.2777777777777778,0.0,0.4285714285714286,False,False,False,True,False,FP
+A Safari,alisafariem@gmail.com,Viraat Das,viraat.laldas@gmail.com,0.33333333333333337,0.33333333333333337,0.2857142857142857,0.2222222222222222,False,True,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Sandeep Gupta,sandeepgupta007@users.noreply.github.com,0.38095238095238093,0.21052631578947367,0.25,0.18181818181818177,False,True,False,False,False,FP
+Lakshay Roopchandani,75477853+lakshayroop5@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.2068965517241379,0.11764705882352944,0.2857142857142857,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,ayush1208,43182109+ayush1208@users.noreply.github.com,0.11764705882352944,0.16000000000000003,0.1333333333333333,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Saurabh Goyal,saurabh.2561@gmail.com,0.2857142857142857,0.11428571428571432,0.25,0.18181818181818177,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,bT-53,phanu.bjstp@gmail.com,0.0,0.1875,0.0,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,shrabian,58838321+shrabian@users.noreply.github.com,0.3529411764705882,0.36363636363636365,0.4,0.0,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Miggelito,a.bidakowski@gmail.com,0.11111111111111116,0.24242424242424243,0.125,0.0,True,False,False,False,False,FP
+Abinash Satapathy,iamabinash98@gmail.com,Noah H,root@flameazalea.com,0.4347826086956522,0.0,0.5454545454545454,0.19999999999999996,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,omahs,73983677+omahs@users.noreply.github.com,0.15384615384615385,0.2702702702702703,0.33333333333333337,0.0,False,True,False,False,False,FP
+Mariusz Skoneczko,mariusz@skoneczko.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.24,0.07999999999999996,0.25,0.1333333333333333,False,False,False,True,False,FP
+Purvesh Makode,makodepurvesh@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.36363636363636365,0.2777777777777778,0.25,0.33333333333333337,False,False,False,True,False,FP
+Christian Veenhuis,veenhuis@gmail.com,Noah H,root@flameazalea.com,0.25,0.0,0.15384615384615385,0.2222222222222222,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Gilberto Alexandre dos Santos,gilberto.alexsantos@gmail.com,0.25,0.25,0.3529411764705882,0.09523809523809523,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Turro,42980188+smturro2@users.noreply.github.com,0.0,0.25,0.0,0.0,False,True,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Yashasvi Baweja,yashasvi15116@iiitd.ac.in,0.4,0.3157894736842105,0.5,0.0,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,kostogls,38495639+kostogls@users.noreply.github.com,0.3529411764705882,0.368421052631579,0.2666666666666667,0.0,True,False,False,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,Paarth Goyal,138299656+pluto-tofu@users.noreply.github.com,0.26086956521739135,0.30000000000000004,0.2857142857142857,0.0,False,True,False,False,False,FP
+Michael D,michael@drueing.de,MindTraper,mavroudo@csd.auth.gr,0.42105263157894735,0.2666666666666667,0.47058823529411764,0.0,True,False,False,False,False,FP
+Akash Kumar,email.akashkumar@gmail.com,Hector S,hfsam88@gmail.com,0.21052631578947367,0.17391304347826086,0.18181818181818177,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Safari,alisafariem@gmail.com,0.8571428571428572,1.0,0.2857142857142857,0.0,False,True,False,False,True,TP
+Itssxxsalman,114142076+Itssxxsalman@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.5,0.25,0.15384615384615385,0.0,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,krishchopra02,77331421+krishchopra02@users.noreply.github.com,0.19047619047619047,0.2666666666666667,0.1428571428571429,0.0,False,True,False,False,False,FP
+Sandeep Gupta,sandeepgupta007@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.34782608695652173,0.19047619047619047,0.4,0.0,False,False,True,False,False,FP
+João Gustavo A. Amorim,joaogustavoamorim@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.3448275862068966,0.17142857142857137,0.0,0.36363636363636365,False,False,False,True,False,FP
+Alex de la Cruz,46356295+acrulopez@users.noreply.github.com,Chris O,46587501+ChrisO345@users.noreply.github.com,0.18181818181818177,0.33333333333333337,0.0,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Krishna-singhal,65902764+Krishna-Singhal@users.noreply.github.com,0.2727272727272727,0.22857142857142854,0.1333333333333333,0.0,False,True,False,False,False,FP
+AbhishekVarshney98,41852265+AbhishekVarshney98@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.2962962962962963,0.19999999999999996,0.31999999999999995,0.0,False,False,True,False,False,FP
+David Ekong,66387173+davidekong@users.noreply.github.com,Dima I,79413560+DIvkov575@users.noreply.github.com,0.3529411764705882,0.3783783783783784,0.4444444444444444,0.0,False,False,True,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,kumarsurajsk,104374726+kumarsurajsk@users.noreply.github.com,0.36363636363636365,0.1428571428571429,0.4,0.0,True,False,False,False,False,FP
+Rudransh Bhardwaj,115872354+rudransh61@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.2962962962962963,0.23076923076923073,0.375,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Adarsh Sidnal,97141741+Adarshsidnal@users.noreply.github.com,0.33333333333333337,0.23529411764705888,0.2666666666666667,0.2857142857142857,True,False,False,False,False,FP
+97arushisharma,97arushisharma@gmail.com,Honey Sharma,softwaretester2016pro@gmail.com,0.5384615384615384,0.22857142857142854,0.10526315789473684,0.0,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Tobias Schröder,5970416+tbsschroeder@users.noreply.github.com,0.4347826086956522,0.21052631578947367,0.2857142857142857,0.4285714285714286,False,True,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,keshav Sharma,72795959+ksharma20@users.noreply.github.com,0.36363636363636365,0.3589743589743589,0.3076923076923077,0.2857142857142857,True,False,False,False,False,FP
+Yasser A,r7al.77@gmail.com,ayush246,37112252+ayush246@users.noreply.github.com,0.25,0.16666666666666663,0.2857142857142857,0.0,True,False,False,False,False,FP
+Anderson Torres,torres.anderson.85@protonmail.com,Arijit De,arijitde2050@gmail.com,0.33333333333333337,0.2666666666666667,0.2857142857142857,0.25,False,False,True,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Snimerjot Singh,snimersingh1729@gmail.com,0.31999999999999995,0.2857142857142857,0.23529411764705888,0.33333333333333337,True,False,False,False,False,FP
+Anthony Klarman,148516349+tonguegrease@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.37037037037037035,0.37209302325581395,0.23529411764705888,0.0,False,False,True,False,False,FP
+Anthony Marakis,antmarakis@programmers.gr,Marcus T,marcus.truscello@gmail.com,0.34782608695652173,0.3076923076923077,0.15384615384615385,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Abhishek Chakraborty,abhishekchak52@gmail.com,0.3571428571428571,0.31999999999999995,0.2222222222222222,0.3529411764705882,False,True,False,False,False,FP
+Marcus T,marcus.truscello@gmail.com,Omkar Pathak,omkarpathak27@gmail.com,0.5,0.27586206896551724,0.5454545454545454,0.2857142857142857,True,False,False,False,False,FP
+Nitisha Bharathi,30657775+nitishabharathi@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.5,0.33333333333333337,0.25,0.5714285714285714,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Anirudh Lakhotia,sanjeev196945@gmail.com,0.2962962962962963,0.07692307692307687,0.375,0.0,True,False,False,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,Utkarsh Chaudhary,ucponia@gmail.com,0.2857142857142857,0.2962962962962963,0.0,0.2222222222222222,False,True,False,False,False,FP
+Ayush Raj,rajayush213@gmail.com,brajesh-rit,brajesh_rit@yahoo.co.in,0.42105263157894735,0.4545454545454546,0.4,0.0,True,False,False,False,False,FP
+Dhruv,dhruvmanila@gmail.com,Noah H,noah@nthall.com,0.18181818181818177,0.2666666666666667,0.2222222222222222,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,Sankabapur,152031570+Parthjhalani07@users.noreply.github.com,0.25,0.1428571428571429,0.2857142857142857,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,himanshujain171,43314193+himanshujain171@users.noreply.github.com,0.17391304347826086,0.2978723404255319,0.125,0.0,False,True,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,Pranjay kumar,110048711+pranjaykumar926@users.noreply.github.com,0.41666666666666663,0.2857142857142857,0.0,0.2857142857142857,False,True,False,False,False,FP
+Chris O,46587501+ChrisO345@users.noreply.github.com,scfenton6,91698851+scfenton6@users.noreply.github.com,0.25,0.33333333333333337,0.1428571428571429,0.0,True,False,False,False,False,FP
+Yash Bhardwaj,yashbhardwaj911@gmail.com,Yasser A,r7al.77@gmail.com,0.47619047619047616,0.18181818181818177,0.6,0.2222222222222222,False,False,True,False,False,FP
+Ashley Jeji George,40469421+Ashley-J-George@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.1333333333333333,0.3555555555555555,0.125,0.0,False,False,True,False,False,FP
+Brian Evans,53117772+mrbrianevans@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.2222222222222222,0.46153846153846156,0.19999999999999996,0.0,False,False,True,False,False,FP
+Yasser A,r7al.77@gmail.com,avych,7556744+avych@users.noreply.github.com,0.15384615384615385,0.19999999999999996,0.18181818181818177,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Sundaram Kumar Jha,jhasundaram@outlook.com,0.33333333333333337,0.1333333333333333,0.33333333333333337,0.19999999999999996,True,False,False,False,False,FP
+Isaac Gomes de Oliveira,isaacgdoliveira@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.303030303030303,0.09523809523809523,0.46153846153846156,0.11111111111111116,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Kushal Naidu,akushalnaidu@gmail.com,0.19999999999999996,0.21052631578947367,0.16666666666666663,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,nishithshowri006,58651995+nishithshowri006@users.noreply.github.com,0.3076923076923077,0.25806451612903225,0.33333333333333337,0.0,True,False,False,False,False,FP
+Marcus T,marcus.truscello@gmail.com,tania-cmyk,58653046+tania-cmyk@users.noreply.github.com,0.23529411764705888,0.11428571428571432,0.2666666666666667,0.0,True,False,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.43243243243243246,0.29166666666666663,0.2857142857142857,0.2857142857142857,False,False,False,True,False,FP
+Juan José Torres,43612178+JuanJTorres11@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.25,0.30000000000000004,0.0,0.23529411764705888,False,False,False,True,False,FP
+Hossam Al-Dokkani,hossam.o@trufla.com,Shashank S,Knhash@users.noreply.github.com,0.3076923076923077,0.2857142857142857,0.4285714285714286,0.0,False,False,True,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,Vasu Tomar,vasutomar26@gmail.com,0.23529411764705888,0.14634146341463417,0.4,0.14814814814814814,False,True,False,False,False,FP
+Asim Hanif,asimjutt2003@gmail.com,Qasim Umar,111963035+QasimUmarKhan@users.noreply.github.com,0.6,0.22857142857142854,0.8888888888888888,0.2222222222222222,False,True,False,False,False,FP
+Shikhar Maheshwari,83123897+shikhar-sm@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2666666666666667,0.30000000000000004,0.23529411764705888,0.18181818181818177,False,False,True,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,RAHUL S H,rahulhoskeri7@gmail.com,0.4444444444444444,0.17647058823529416,0.33333333333333337,0.5,True,False,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,anubhav-sharma13,45630457+anubhav-sharma13@users.noreply.github.com,0.6428571428571428,0.41860465116279066,0.38095238095238093,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,Hrushikesh Hanbar,hrushikeshrohit@gmail.com,0.24,0.18181818181818177,0.25,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Akash,akash0babu0@gmail.com,0.3076923076923077,0.2727272727272727,0.33333333333333337,0.0,False,True,False,False,False,FP
+Michael D,michael@drueing.de,dmorozov001,116645674+dmorozov001@users.noreply.github.com,0.09999999999999998,0.0714285714285714,0.11111111111111116,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,gabriel,gabriel.goncalves@trilogo.com.br,0.2666666666666667,0.19999999999999996,0.0,0.0,False,True,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,krishchopra02,77331421+krishchopra02@users.noreply.github.com,0.2727272727272727,0.2702702702702703,0.19999999999999996,0.0,True,False,False,False,False,FP
+Ghulam Mohiyuddin,subahani98@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.24,0.1428571428571429,0.0,0.125,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Suyash Dongre,109069262+Suyashd999@users.noreply.github.com,0.2857142857142857,0.32558139534883723,0.2857142857142857,0.16666666666666663,False,True,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Guillaume Rochedix,33205665+grochedix@users.noreply.github.com,0.33333333333333337,0.2777777777777778,0.3076923076923077,0.2222222222222222,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Tan Yong He,tyhshana@hotmail.com,0.2857142857142857,0.4285714285714286,0.36363636363636365,0.0,True,False,False,False,False,FP
+Marco-campione-github,80974790+Marco-campione-github@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.33333333333333337,0.19512195121951215,0.2727272727272727,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Tobias Schröder,5970416+tbsschroeder@users.noreply.github.com,0.34782608695652173,0.07407407407407407,0.33333333333333337,0.2222222222222222,True,False,False,False,False,FP
+Jay Gala,57001778+jaygala223@users.noreply.github.com,Jigyasa G,jigsgandhi97@gmail.com,0.47058823529411764,0.19354838709677424,0.4,0.4,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Mindaugas,76015221+mindaugl@users.noreply.github.com,0.2666666666666667,0.22857142857142854,0.3076923076923077,0.0,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,kanthuc,srikanthuchavali@gmail.com,0.5,0.2702702702702703,0.5714285714285714,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Shoujue Xu,lightxusj@126.com,0.33333333333333337,0.0625,0.25,0.0,False,True,False,False,False,FP
+Arijit De,arijitde2050@gmail.com,pathak-deep15,44609019+pathak-deep15@users.noreply.github.com,0.38095238095238093,0.2941176470588235,0.2222222222222222,0.0,True,False,False,False,False,FP
+Caio Cordeiro,ccmr@cesar.school,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.4,0.18181818181818177,0.4444444444444444,0.2222222222222222,False,False,True,False,False,FP
+JakobZhao,52325554+JakobMusik@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.3157894736842105,0.16000000000000003,0.3529411764705882,0.0,False,False,True,False,False,FP
+Aashay Shingre,akshingre@gmail.com,Noah H,root@flameazalea.com,0.4,0.15384615384615385,0.4,0.25,False,False,True,False,False,FP
+Ron U,sharpblade4@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.3529411764705882,0.25,0.3076923076923077,0.0,False,False,True,False,False,FP
+Aakash Giri,giriaakash00@gmail.com,K Anamithra,anamithrak@gmail.com,0.36363636363636365,0.36363636363636365,0.2857142857142857,0.3076923076923077,False,False,False,True,False,FP
+Matteo Messmer,40521259+matteomessmer@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.26315789473684215,0.3076923076923077,0.0,0.2068965517241379,False,False,False,True,False,FP
+Deepak345,senapati.dipak97@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.21052631578947367,0.18181818181818177,0.23529411764705888,0.0,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,dhruvsaini,dhruv_saini@outlook.com,0.33333333333333337,0.13793103448275867,0.18181818181818177,0.0,False,True,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,lostybtw,58177990+lostybtw@users.noreply.github.com,0.11111111111111116,0.08695652173913049,0.125,0.0,True,False,False,False,False,FP
+Sujitkumar Singh,37760194+SinghSujitkumar@users.noreply.github.com,piyush-kgp,piyushsinghkgpian@gmail.com,0.31999999999999995,0.29268292682926833,0.21052631578947367,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Pooja,pooja016mca19@igdtuw.ac.in,0.1333333333333333,0.125,0.15384615384615385,0.0,True,False,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,isidroas,isidroariass@hotmail.es,0.2857142857142857,0.06666666666666665,0.33333333333333337,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,sharmapulkit04,39304055+sharmapulkit04@users.noreply.github.com,0.24,0.33333333333333337,0.26086956521739135,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Rwithik Manoj,thoriumnitride@gmail.com,0.21052631578947367,0.2222222222222222,0.18181818181818177,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Furkan Atesli,31884209+furkanatesli@users.noreply.github.com,0.25,0.23529411764705888,0.1333333333333333,0.2857142857142857,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,Mohammad Firmansyah,76118762+dimasdh842@users.noreply.github.com,0.2222222222222222,0.15384615384615385,0.1428571428571429,0.18181818181818177,True,False,False,False,False,FP
+Anurag Kumar,anuragkumarak95@gmail.com,kumarsurajsk,104374726+kumarsurajsk@users.noreply.github.com,0.41666666666666663,0.3783783783783784,0.4444444444444444,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,apples53,sameerrawat2003@gmail.com,0.4,0.16666666666666663,0.33333333333333337,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,shivg7706,shivamgupta7706@gmail.com,0.11764705882352944,0.2727272727272727,0.1333333333333333,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Kushagra Makharia,KushagraMakharia@users.noreply.github.com,0.48,0.37037037037037035,0.2222222222222222,0.5714285714285714,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Sayan Bandyopadhyay,sayan.bandyopadhyay@yahoo.co.in,0.2962962962962963,0.19999999999999996,0.33333333333333337,0.21052631578947367,False,True,False,False,False,FP
+Mohammad Firmansyah,76118762+dimasdh842@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.41860465116279066,0.36734693877551017,0.0,0.3125,False,False,False,True,False,FP
+Jigyasa G,jigsgandhi97@gmail.com,Shriyans Gandhi,41372639+shri30yans@users.noreply.github.com,0.5,0.19354838709677424,0.5333333333333333,0.2857142857142857,False,False,True,False,False,FP
+Marcos Cannabrava,54267712+marcoscannabrava@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.33333333333333337,0.41860465116279066,0.36363636363636365,0.18181818181818177,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,anshul-2010,96651393+anshul-2010@users.noreply.github.com,0.19047619047619047,0.18181818181818177,0.21052631578947367,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Ghulam Mohiyuddin,subahani98@gmail.com,0.24,0.38095238095238093,0.2857142857142857,0.125,False,True,False,False,False,FP
+DaveAxiom,dmakray@gmail.com,Yasser A,r7al.77@gmail.com,0.3529411764705882,0.2857142857142857,0.2666666666666667,0.0,False,False,True,False,False,FP
+Gayathri Krishnan,gayathrikrishnan.gayu@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.31999999999999995,0.15384615384615385,0.0,0.4285714285714286,False,False,False,True,False,FP
+ImNandha,49323522+ImNandha@users.noreply.github.com,Michael D,michael@drueing.de,0.3529411764705882,0.25,0.4,0.0,False,False,True,False,False,FP
+Ayush Raj,rajayush213@gmail.com,Jimmy Y,codingExpert123@gmail.com,0.25,0.23076923076923073,0.19999999999999996,0.0,False,False,True,False,False,FP
+Michael D,michael@drueing.de,santiditomas,72716997+santiditomas@users.noreply.github.com,0.19047619047619047,0.1428571428571429,0.21052631578947367,0.0,True,False,False,False,False,FP
+Reshad Hasan,reshadhasan555@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.5,0.125,0.2857142857142857,0.5454545454545454,False,False,False,True,False,FP
+A Safari,alisafariem@gmail.com,cclauss,cclauss@me.com,0.2666666666666667,0.2222222222222222,0.25,0.0,False,True,False,False,False,FP
+Himanshu Airan,62210670+Himanshu-77@users.noreply.github.com,himanshujain171,43314193+himanshujain171@users.noreply.github.com,0.7586206896551724,0.4545454545454546,0.6956521739130435,0.0,False,True,False,False,False,FP
+Ron U,sharpblade4@gmail.com,tarushirastogi,108577219+tarushirastogi@users.noreply.github.com,0.21052631578947367,0.22857142857142854,0.23529411764705888,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,tarushirastogi,108577219+tarushirastogi@users.noreply.github.com,0.41666666666666663,0.19999999999999996,0.36363636363636365,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,vincenzobaz,bazzucchi.vincenzo@gmail.com,0.2857142857142857,0.2702702702702703,0.3157894736842105,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.26086956521739135,0.17647058823529416,0.10526315789473684,1.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,anshul-2010,96651393+anshul-2010@users.noreply.github.com,0.25,0.0,0.2857142857142857,0.0,True,False,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,Noah H,noah@nthall.com,0.3529411764705882,0.4285714285714286,0.0,0.19999999999999996,False,False,True,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,Kyle,40903431+kylepw@users.noreply.github.com,0.3076923076923077,0.5333333333333333,0.36363636363636365,0.0,True,False,False,False,False,FP
+Aliabbas Merchant,merchantaliabbas@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.29268292682926833,0.26086956521739135,0.2222222222222222,0.2666666666666667,False,False,False,True,False,FP
+Marcus T,marcus.truscello@gmail.com,architmaheshwari99,99663695+architmaheshwari99@users.noreply.github.com,0.3076923076923077,0.2325581395348837,0.33333333333333337,0.0,True,False,False,False,False,FP
+Lakshmikanth2001,52835045+Lakshmikanth2001@users.noreply.github.com,Noah H,noah@nthall.com,0.2727272727272727,0.13793103448275867,0.19999999999999996,0.0,False,False,True,False,False,FP
+AdityaAtoZ,129844626+AdityaAtoZ@users.noreply.github.com,Dima I,79413560+DIvkov575@users.noreply.github.com,0.375,0.26315789473684215,0.4285714285714286,0.0,False,False,True,False,False,FP
+Ishmeet-Singh-Saggu,40631164+Ishmeet-Singh-Saggu@users.noreply.github.com,Marcus T,marcus.truscello@gmail.com,0.24,0.13636363636363635,0.26086956521739135,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Melih Mehmet Sahin,msahin8765@gmail.com,0.3846153846153846,0.3529411764705882,0.18181818181818177,0.15384615384615385,True,False,False,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,Srikumar Sastry,srikumarsastry1997@gmail.com,0.3589743589743589,0.20833333333333337,0.2222222222222222,0.1428571428571429,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Tarcisio Bruni Rangel,tarcisiobruni@hotmail.com,0.27586206896551724,0.12903225806451613,0.2222222222222222,0.2222222222222222,False,True,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,scfenton6,91698851+scfenton6@users.noreply.github.com,0.21052631578947367,0.08333333333333337,0.23529411764705888,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,hackercyclops12,63036550+hackercyclops12@users.noreply.github.com,0.17391304347826086,0.17142857142857137,0.125,0.0,False,True,False,False,False,FP
+Maram Sumanth,maram.sumanth@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.34782608695652173,0.3157894736842105,0.3076923076923077,0.25,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Vasu Gamdha,40864108+vasugamdha@users.noreply.github.com,0.18181818181818177,0.25,0.15384615384615385,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,piyush-poddar,143445461+piyush-poddar@users.noreply.github.com,0.30000000000000004,0.23529411764705888,0.15384615384615385,0.0,False,True,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,yzzhang-cs,44668197+yzzhang-cs@users.noreply.github.com,0.11764705882352944,0.23809523809523814,0.19999999999999996,0.0,False,True,False,False,False,FP
+Kshitij,38787855+kshtijsingh@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.25,0.24242424242424243,0.2857142857142857,0.0,False,False,True,False,False,FP
+Ron U,sharpblade4@gmail.com,Sujitkumar Singh,37760194+SinghSujitkumar@users.noreply.github.com,0.19047619047619047,0.17142857142857137,0.15384615384615385,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,santiditomas,72716997+santiditomas@users.noreply.github.com,0.30000000000000004,0.25,0.15384615384615385,0.0,False,True,False,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,homsim,103424895+homsim@users.noreply.github.com,0.2666666666666667,0.4347826086956522,0.2857142857142857,0.0,False,True,False,False,False,FP
+Lakshmikanth2001,52835045+Lakshmikanth2001@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.3846153846153846,0.19354838709677424,0.41666666666666663,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,duongoku,nguyenvubinhduong@gmail.com,0.2857142857142857,0.09523809523809523,0.33333333333333337,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Simon Landry,landry_simon@pm.me,0.30000000000000004,0.17142857142857137,0.33333333333333337,0.16666666666666663,False,True,False,False,False,FP
+Benjamin Smith,bh2smith@users.noreply.github.com,Marcus T,marcus.truscello@gmail.com,0.2727272727272727,0.16666666666666663,0.1428571428571429,0.33333333333333337,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Tobias,38182275+Txbias@users.noreply.github.com,0.1428571428571429,0.303030303030303,0.2857142857142857,0.0,False,True,False,False,False,FP
+Akash Kumar,email.akashkumar@gmail.com,Ron U,sharpblade4@gmail.com,0.25,0.2962962962962963,0.0,0.33333333333333337,False,False,True,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Simon Landry,landry_simon@pm.me,0.2727272727272727,0.2222222222222222,0.3076923076923077,0.0,True,False,False,False,False,FP
+Jimmy Y,codingExpert123@gmail.com,Pranjay kumar,110048711+pranjaykumar926@users.noreply.github.com,0.30000000000000004,0.15000000000000002,0.33333333333333337,0.0,True,False,False,False,False,FP
+Lakshay Akula,Kommandat@users.noreply.github.com,Lakshay Roopchandani,75477853+lakshayroop5@users.noreply.github.com,0.6060606060606061,0.1333333333333333,1.0,0.23529411764705888,False,True,False,False,False,FP
+Akash Kumar,email.akashkumar@gmail.com,kunal kumar barman,kumar96kunal@gmail.com,0.5517241379310345,0.3571428571428571,0.4,0.5882352941176471,True,False,False,False,False,FP
+Marvin M. Michum,11682032+mrvnmchm@users.noreply.github.com,Marvin M. Michum,mrvnmchm@gmail.com,1.0,0.64,1.0,1.0,False,False,False,False,False,TP
+K Anamithra,anamithrak@gmail.com,strambake,86815109+strambake@users.noreply.github.com,0.30000000000000004,0.2857142857142857,0.19999999999999996,0.0,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,robohie,rogerbosolinndo34@gmail.com,0.1333333333333333,0.17142857142857137,0.0,0.0,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,kanthuc,srikanthuchavali@gmail.com,0.21052631578947367,0.21621621621621623,0.23529411764705888,0.0,True,False,False,False,False,FP
+Kshitij,38787855+kshtijsingh@users.noreply.github.com,Noah H,root@flameazalea.com,0.15384615384615385,0.08333333333333337,0.18181818181818177,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,Shriyans Gandhi,41372639+shri30yans@users.noreply.github.com,0.2857142857142857,0.08695652173913049,0.16666666666666663,0.2857142857142857,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,aravindiiitb,konakondla.sak@iiitb.org,0.26086956521739135,0.2962962962962963,0.2857142857142857,0.0,True,False,False,False,False,FP
+Akash Kumar,email.akashkumar@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.38095238095238093,0.2727272727272727,0.46153846153846156,0.0,False,False,True,False,False,FP
+Ghulam Mohiyuddin,subahani98@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.2962962962962963,0.25,0.2857142857142857,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Purvesh Makode,makodepurvesh@gmail.com,0.18181818181818177,0.09999999999999998,0.15384615384615385,0.0,True,False,False,False,False,FP
+Phileas,phileas.hocquard@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.3529411764705882,0.36363636363636365,0.4,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Sanders Lin,sandershonglin@gmail.com,0.42105263157894735,0.31999999999999995,0.25,0.2222222222222222,False,True,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,psyas,psy050505@naver.com,0.4,0.1333333333333333,0.46153846153846156,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,overclockedllama,dsoneji001@hotmail.co.uk,0.2857142857142857,0.19354838709677424,0.3076923076923077,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Yasser A,r7al.77@gmail.com,0.47058823529411764,0.17391304347826086,0.46153846153846156,0.0,False,False,True,False,False,FP
+Shubhajit Roy,81477286+shubhajitroy123@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.24,0.3555555555555555,0.21052631578947367,0.0,False,False,True,False,False,FP
+Noah H,noah@nthall.com,Rohan Anand,96521078+rohan472000@users.noreply.github.com,0.3529411764705882,0.16666666666666663,0.4444444444444444,0.0,True,False,False,False,False,FP
+Iqrar Agalosi Nureyza,misteriqrar@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.2666666666666667,0.24390243902439024,0.0,0.2702702702702703,False,False,False,True,False,FP
+Adarsh Sidnal,97141741+Adarshsidnal@users.noreply.github.com,Si Lam,silam@users.noreply.github.com,0.3157894736842105,0.23076923076923073,0.25,0.2222222222222222,False,False,False,True,False,FP
+Chris O,46587501+ChrisO345@users.noreply.github.com,Rodrigo Castro,rodrigondec@gmail.com,0.38095238095238093,0.13793103448275867,0.33333333333333337,0.2857142857142857,True,False,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,Purvesh Makode,makodepurvesh@gmail.com,0.26086956521739135,0.1428571428571429,0.2857142857142857,0.0,True,False,False,False,False,FP
+Andrii Siriak,siryaka@gmail.com,Karthik S,73390717+karthiks2611@users.noreply.github.com,0.4545454545454546,0.1428571428571429,0.46153846153846156,0.2857142857142857,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,Saransh Chopra,saransh0701@gmail.com,0.4,0.1333333333333333,0.36363636363636365,0.2857142857142857,True,False,False,False,False,FP
+Benjamín García Roqués,62822419+grbenjamin@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.3448275862068966,0.32432432432432434,0.3076923076923077,0.1428571428571429,False,False,True,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,tacitvenom,vasu.sharma314@gmail.com,0.17647058823529416,0.2272727272727273,0.0,0.0,False,True,False,False,False,FP
+Noah H,noah@nthall.com,Ratnesh Kumar,89133941+ratneshrt@users.noreply.github.com,0.3157894736842105,0.18181818181818177,0.36363636363636365,0.0,True,False,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Nandiya,ri_nandiya@yahoo.com,0.46153846153846156,0.0,0.5454545454545454,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Cere Blanco,743526+cereblanco@users.noreply.github.com,0.38095238095238093,0.4444444444444444,0.0,0.2857142857142857,True,False,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,TANMAY SRIVASTAVA,77936821+ktsrivastava29@users.noreply.github.com,0.3076923076923077,0.40909090909090906,0.15384615384615385,0.18181818181818177,True,False,False,False,False,FP
+Ishab,ishabahmed00@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.3076923076923077,0.11428571428571432,0.33333333333333337,0.0,False,False,False,True,False,FP
+João Marcos,joao.medeiros@ccc.ufcg.edu.br,Michael D,michael@drueing.de,0.19999999999999996,0.19999999999999996,0.18181818181818177,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Tan Yong He,tyhshana@hotmail.com,0.21052631578947367,0.3157894736842105,0.5,0.0,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Shiva Rama Krishna,45482631+srkchowdary2000@users.noreply.github.com,0.46153846153846156,0.33333333333333337,0.33333333333333337,0.33333333333333337,False,True,False,False,False,FP
+Mehdi ALAOUI,alaoui.mehdi.1995@gmail.com,Michael D,michael@drueing.de,0.38095238095238093,0.16666666666666663,0.33333333333333337,0.0,False,False,True,False,False,FP
+Himanshu Airan,62210670+Himanshu-77@users.noreply.github.com,Noah H,noah@nthall.com,0.30000000000000004,0.16666666666666663,0.33333333333333337,0.0,False,False,True,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Bama Charan Chhandogi,b.c.chhandogi@gmail.com,0.3870967741935484,0.3125,0.33333333333333337,0.11764705882352944,True,False,False,False,False,FP
+Mark Moretto,otteromkram@gmail.com,Om Alve,omalve8174@gmail.com,0.3157894736842105,0.2857142857142857,0.33333333333333337,0.18181818181818177,False,False,False,True,False,FP
+Du Yuanchao,shellhub.me@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.26086956521739135,0.0625,0.16666666666666663,0.0,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,kostogls,38495639+kostogls@users.noreply.github.com,0.25,0.4,0.2222222222222222,0.0,False,True,False,False,False,FP
+Sarvesh Kumar Dwivedi,georgiansarvesh4396@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.24242424242424243,0.15000000000000002,0.23529411764705888,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,Rolv Apneseth,rolv.apneseth@gmail.com,0.3157894736842105,0.3529411764705882,0.25,0.2222222222222222,True,False,False,False,False,FP
+Kushagra Makharia,KushagraMakharia@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.3846153846153846,0.27586206896551724,0.4,0.2222222222222222,False,False,True,False,False,FP
+Noah H,noah@nthall.com,Sayan Bandyopadhyay,sayan.bandyopadhyay@yahoo.co.in,0.31999999999999995,0.34782608695652173,0.2222222222222222,0.1428571428571429,True,False,False,False,False,FP
+Akash G Krishnan,krishnanag1996@gmail.com,Noah H,root@flameazalea.com,0.36363636363636365,0.11111111111111116,0.4444444444444444,0.18181818181818177,False,False,True,False,False,FP
+Muhammadrasul,64916997+Muhammadrasul446@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.2702702702702703,0.2909090909090909,0.1428571428571429,0.0,False,False,False,True,False,FP
+Shuangchi He,34329208+Yulv-git@users.noreply.github.com,Subhendu Dash,71781104+subhendudash02@users.noreply.github.com,0.4,0.15000000000000002,0.3529411764705882,0.33333333333333337,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,ahviplc!~LC,ahlc@sina.cn,0.42105263157894735,0.26086956521739135,0.3529411764705882,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,cschuerc,57899042+cschuerc@users.noreply.github.com,0.25,0.30000000000000004,0.2222222222222222,0.0,False,True,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,raksa,eng.raksa@gmail.com,0.4285714285714286,0.19999999999999996,0.33333333333333337,0.0,True,False,False,False,False,FP
+Ishab,ishabahmed00@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.27586206896551724,0.23809523809523814,0.33333333333333337,0.0,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Sedat Aybars Nazlica,saybarsnazlica@gmail.com,0.2857142857142857,0.16216216216216217,0.33333333333333337,0.19999999999999996,False,True,False,False,False,FP
+Alvin Philips,alvinphilips257@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.31999999999999995,0.2222222222222222,0.2666666666666667,0.25,False,False,True,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,halfhearted,99018821+Arunsiva003@users.noreply.github.com,0.17391304347826086,0.3414634146341463,0.19047619047619047,0.0,True,False,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,Vikas Kumar,54888022+vikasit12@users.noreply.github.com,0.36363636363636365,0.2142857142857143,0.33333333333333337,0.2857142857142857,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,VARISH GAUTAM,48176176+Variiiest@users.noreply.github.com,0.24,0.3076923076923077,0.125,0.0,True,False,False,False,False,FP
+Hocnonsense,48747984+Hocnonsense@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.38095238095238093,0.15384615384615385,0.3157894736842105,0.0,False,False,True,False,False,FP
+Abinash Satapathy,iamabinash98@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.29268292682926833,0.2857142857142857,0.25,0.12903225806451613,False,False,False,True,False,FP
+Bhushan Borole,37565807+bhushan-borole@users.noreply.github.com,Noah H,root@flameazalea.com,0.19999999999999996,0.14814814814814814,0.18181818181818177,0.0,False,False,True,False,False,FP
+Ant Fitch,amanda.fitch@outlook.com,Michael D,michael@drueing.de,0.33333333333333337,0.42105263157894735,0.19999999999999996,0.0,False,False,True,False,False,FP
+Guillaume Rochedix,33205665+BriseBalloches@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.23076923076923073,0.21739130434782605,0.0,0.1428571428571429,False,False,False,True,False,FP
+Caeden,caedenperelliharris@gmail.com,Dima I,79413560+DIvkov575@users.noreply.github.com,0.16666666666666663,0.0,0.19999999999999996,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Vignesh,ravivignesh2000@gmail.com,0.33333333333333337,0.2142857142857143,0.375,0.0,True,False,False,False,False,FP
+Ayush Yadav,115359450+ayush-yadavv@users.noreply.github.com,harshyadavcs,108284583+harshyadavcs@users.noreply.github.com,0.6956521739130435,0.5454545454545454,0.3529411764705882,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Lewis Tian,taseikyo@gmail.com,0.2222222222222222,0.3157894736842105,0.0,0.19999999999999996,False,True,False,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,himangSharatun,himang27s@gmail.com,0.368421052631579,0.2564102564102564,0.1333333333333333,0.0,False,True,False,False,False,FP
+AHTESHAM ZAIDI,zsyedahtesham@yahoo.com,Michael D,michael@drueing.de,0.34782608695652173,0.19999999999999996,0.2666666666666667,0.33333333333333337,False,False,True,False,False,FP
+S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,Saksham Saha,sakshamsaha1212+github@gmail.com,0.4444444444444444,0.23076923076923073,0.25,0.23076923076923073,False,True,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,Vipin Karthic,143083087+vipinkarthic@users.noreply.github.com,0.2727272727272727,0.2702702702702703,0.16666666666666663,0.0,True,False,False,False,False,FP
+Benjamín García Roqués,62822419+grbenjamin@users.noreply.github.com,Jigyasa G,33327397+jpg-130@users.noreply.github.com,0.3870967741935484,0.22857142857142854,0.2666666666666667,0.1428571428571429,False,False,True,False,False,FP
+Lakshmikanth2001,52835045+Lakshmikanth2001@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2142857142857143,0.26086956521739135,0.23076923076923073,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Harshit Kumar,kumar_harshit@outlook.com,0.38095238095238093,0.33333333333333337,0.25,0.36363636363636365,False,True,False,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,piyush-poddar,143445461+piyush-poddar@users.noreply.github.com,0.2222222222222222,0.29268292682926833,0.25,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Kausthub Kannan,kausthubkannan961@gmail.com,0.3076923076923077,0.33333333333333337,0.3529411764705882,0.0,True,False,False,False,False,FP
+Noah H,noah@nthall.com,Sarvesh Kumar Dwivedi,georgiansarvesh4396@gmail.com,0.2222222222222222,0.26086956521739135,0.36363636363636365,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Ashok Bakthavathsalam,kgashok@users.noreply.github.com,0.375,0.30000000000000004,0.2857142857142857,0.125,True,False,False,False,False,FP
+Furkan Atesli,31884209+furkanatesli@users.noreply.github.com,K Anamithra,anamithrak@gmail.com,0.41666666666666663,0.25806451612903225,0.2857142857142857,0.2666666666666667,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Shi Entong,144505619+setbit123@users.noreply.github.com,0.33333333333333337,0.33333333333333337,0.5,0.16666666666666663,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Samuel Willis,109305646+konsoleSam@users.noreply.github.com,0.2857142857142857,0.19354838709677424,0.2857142857142857,0.16666666666666663,False,True,False,False,False,FP
+Ron U,sharpblade4@gmail.com,hollowcrust,72879387+hollowcrust@users.noreply.github.com,0.25,0.12903225806451613,0.1428571428571429,0.0,True,False,False,False,False,FP
+Paulo S. G. Ferraz,paulosgf.pf@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.33333333333333337,0.06896551724137934,0.0,0.375,False,False,False,True,False,FP
+Jason Devers,74424054+jdevers1@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.4545454545454546,0.08695652173913049,0.46153846153846156,0.2857142857142857,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Shikhar Rai,34543293+kakashi215@users.noreply.github.com,0.36363636363636365,0.25,0.375,0.0,True,False,False,False,False,FP
+Gmuslow,54784260+Gmuslow@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.1333333333333333,0.23529411764705888,0.25,0.0,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Srikumar Sastry,srikumarsastry1997@gmail.com,0.23076923076923073,0.3870967741935484,0.11764705882352944,0.2857142857142857,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Anshu Sharma,142900182+AnshuSharma111@users.noreply.github.com,0.34782608695652173,0.21621621621621623,0.2857142857142857,0.2857142857142857,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Sayan Bandyopadhyay,sayan.bandyopadhyay@yahoo.co.in,0.31999999999999995,0.08695652173913049,0.2222222222222222,0.1428571428571429,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Simon Landry,landry_simon@pm.me,0.17391304347826086,0.24,0.1428571428571429,0.0,True,False,False,False,False,FP
+Ron U,sharpblade4@gmail.com,Umair Kamran,umair.kamran96@gmail.com,0.23529411764705888,0.24,0.25,0.0,True,False,False,False,False,FP
+Akash,akash0babu0@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.3076923076923077,0.13793103448275867,0.33333333333333337,0.0,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Saurabh Goyal,saurabh.2561@gmail.com,0.4545454545454546,0.3571428571428571,0.5714285714285714,0.0,True,False,False,False,False,FP
+Filip Hlasek,fhlasek@gmail.com,K Anamithra,anamithrak@gmail.com,0.26086956521739135,0.3529411764705882,0.0,0.2666666666666667,False,False,False,True,False,FP
+Matheus Guimarães,matheusguimr@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.27586206896551724,0.06060606060606055,0.11764705882352944,0.19999999999999996,False,False,True,False,False,FP
+Aswin Murali,aswinmurali.co@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.36363636363636365,0.19999999999999996,0.46153846153846156,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Marcus T,marcus.truscello@gmail.com,0.21052631578947367,0.2068965517241379,0.1333333333333333,0.0,True,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Hector S,hfsam88@gmail.com,0.25,0.33333333333333337,0.0,0.2857142857142857,False,True,False,False,False,FP
+Jimmy Y,codingExpert123@gmail.com,Sanjay Muthu,sanjaymuthu12@gmail.com,0.3157894736842105,0.2857142857142857,0.36363636363636365,0.0,True,False,False,False,False,FP
+Jigyasa G,33327397+jpg-130@users.noreply.github.com,Sujitkumar Singh,37760194+SinghSujitkumar@users.noreply.github.com,0.4,0.25,0.3529411764705882,0.33333333333333337,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,anshul-2010,96651393+anshul-2010@users.noreply.github.com,0.30000000000000004,0.23076923076923073,0.33333333333333337,0.0,True,False,False,False,False,FP
+AkshajV1309,79909101+AkshajV1309@users.noreply.github.com,Kavienan J,45987371+kavienanj@users.noreply.github.com,0.2857142857142857,0.3157894736842105,0.3157894736842105,0.0,False,False,True,False,False,FP
+Ashwin Das,ashwindasr@users.noreply.github.com,Noah H,noah@nthall.com,0.375,0.2857142857142857,0.4,0.0,False,False,True,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,happiestbee,87628038+happiestbee@users.noreply.github.com,0.34782608695652173,0.3414634146341463,0.2857142857142857,0.0,True,False,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,gerroo,gerensuner@gmail.com,0.11111111111111116,0.12903225806451613,0.125,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Anurag Shukla,76862299+anuragshuklajec@users.noreply.github.com,0.25,0.2702702702702703,0.1333333333333333,0.2857142857142857,True,False,False,False,False,FP
+Saurabh Goyal,saurabh.2561@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.34782608695652173,0.2222222222222222,0.4,0.0,False,False,True,False,False,FP
+Kuldeep Borkar,74557588+KuldeepBorkar@users.noreply.github.com,P U N I T H,55887644+punithbajaj@users.noreply.github.com,0.16000000000000003,0.33333333333333337,0.25,0.0,False,False,False,True,False,FP
+Anup Kumar Panwar,1anuppanwar@gmail.com,Anup Kumar Panwar,mylnext@gmail.com,1.0,0.11111111111111116,1.0,1.0,False,False,False,False,False,TP
+Matheus T. Guimarães,matheusguimr@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.37037037037037035,0.1333333333333333,0.25,0.3529411764705882,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,jonabtc,39396756+jonabtc@users.noreply.github.com,0.25,0.125,0.1428571428571429,0.0,True,False,False,False,False,FP
+97arushisharma,97arushisharma@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.23076923076923073,0.22857142857142854,0.25,0.0,False,False,True,False,False,FP
+CarsonHam,carson.ham@utexas.edu,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.36363636363636365,0.25,0.19999999999999996,0.0,False,False,False,True,False,FP
+Aditya Haridas Menon,adityaharidas.m16@iiits.in,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.36363636363636365,0.2978723404255319,0.0,0.34285714285714286,False,False,False,True,False,FP
+Emmanuel Bauma Murairi,40155399+Emmastro@users.noreply.github.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.3448275862068966,0.4,0.3076923076923077,0.1428571428571429,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Juan José Torres,43612178+JuanJTorres11@users.noreply.github.com,0.33333333333333337,0.18181818181818177,0.4,0.23529411764705888,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Holden-Lin,mimaixs@126.com,0.11764705882352944,0.33333333333333337,0.0,0.0,False,True,False,False,False,FP
+Noah H,root@flameazalea.com,Sanders Lin,sandershonglin@gmail.com,0.23529411764705888,0.2222222222222222,0.18181818181818177,0.0,True,False,False,False,False,FP
+Aswin Murali,aswinmurali.co@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.30000000000000004,0.16216216216216217,0.33333333333333337,0.16666666666666663,False,False,False,True,False,FP
+Rayvant Sahni,38404580+rayvantsahni@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.38095238095238093,0.1428571428571429,0.3076923076923077,0.33333333333333337,False,False,True,False,False,FP
+K Yasaswi Sri Chandra Gandhi,35304641+G7-TheKing@users.noreply.github.com,Kyle,40903431+kylepw@users.noreply.github.com,0.125,0.2941176470588235,0.4,0.0,False,True,False,False,False,FP
+Hector S,hfsam88@gmail.com,dahhou ilyas,110790236+dahhou-ilyas@users.noreply.github.com,0.4,0.13793103448275867,0.33333333333333337,0.33333333333333337,True,False,False,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,Okza Pradhana,okzamahendra29@gmail.com,0.30000000000000004,0.1875,0.2222222222222222,0.2222222222222222,True,False,False,False,False,FP
+Rahid Zeynalov,44039543+rahidzeynal@users.noreply.github.com,YOGESHWARAN R,yogeshin247@gmail.com,0.2222222222222222,0.19354838709677424,0.25,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Alex Brown,opti.jawsome@gmail.com,0.33333333333333337,0.26086956521739135,0.4,0.18181818181818177,False,True,False,False,False,FP
+Noah H,root@flameazalea.com,dekomori_sanae09,adimoolamaniketh@gmail.com,0.19047619047619047,0.30000000000000004,0.21052631578947367,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,yellowsto,79023119+yellowsto@users.noreply.github.com,0.11764705882352944,0.33333333333333337,0.19999999999999996,0.0,False,True,False,False,False,FP
+Christian Veenhuis,veenhuis@gmail.com,Hector S,hfsam88@gmail.com,0.3076923076923077,0.2666666666666667,0.2666666666666667,0.2222222222222222,False,False,True,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,obelisk0114,obelisk0114@yahoo.com.tw,0.10526315789473684,0.13793103448275867,0.16666666666666663,0.0,False,True,False,False,False,FP
+Shreyas Kamath,42207943+s18k@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.23076923076923073,0.3529411764705882,0.23529411764705888,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,Maxim Smolskiy,mithridatus@mail.ru,0.36363636363636365,0.2727272727272727,0.33333333333333337,0.2857142857142857,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,santiditomas,72716997+santiditomas@users.noreply.github.com,0.41666666666666663,0.38095238095238093,0.36363636363636365,0.0,True,False,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,wanderer,19929284+AlpineBlack@users.noreply.github.com,0.23529411764705888,0.22857142857142854,0.2666666666666667,0.0,True,False,False,False,False,FP
+Dan Murphy,danielmurph8@gmail.com,Ron U,sharpblade4@gmail.com,0.4,0.26086956521739135,0.33333333333333337,0.2857142857142857,False,False,True,False,False,FP
+Francisco Perez,92104963+franciscoperez2021@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.2222222222222222,0.33333333333333337,0.21052631578947367,0.0,False,False,True,False,False,FP
+Christian Bender,christianbender89@web.de,Noah H,noah@nthall.com,0.18181818181818177,0.09523809523809523,0.15384615384615385,0.0,False,False,True,False,False,FP
+Aditya Sharma,32771292+adityasharma1234@users.noreply.github.com,Honey Sharma,softwaretester2016pro@gmail.com,0.64,0.21739130434782605,0.18181818181818177,1.0,False,False,True,False,False,FP
+Akash Shroff,63399889+akashvshroff@users.noreply.github.com,Hector S,hfsam88@gmail.com,0.30000000000000004,0.1428571428571429,0.18181818181818177,0.2857142857142857,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Kishan Kumar Rai,kishan.rai99693@gmail.com,0.25,0.18181818181818177,0.16666666666666663,0.0,True,False,False,False,False,FP
+Arijit De,arijitde2050@gmail.com,agdenadel,agdenadel@gmail.com,0.33333333333333337,0.2857142857142857,0.1333333333333333,0.0,True,False,False,False,False,FP
+Ayush Bisht,61404154+ayushbisht2001@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.47619047619047616,0.2068965517241379,0.46153846153846156,0.33333333333333337,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,sakuralethe,sakuralethe@outlook.com,0.21052631578947367,0.2222222222222222,0.23529411764705888,0.0,True,False,False,False,False,FP
+ANANT JAIN,139585700+anant-jain01@users.noreply.github.com,Atishaye Jain,64211411+atishaye@users.noreply.github.com,0.6086956521739131,0.2564102564102564,0.3076923076923077,1.0,False,False,True,False,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Simon Landry,landry_simon@pm.me,0.33333333333333337,0.06666666666666665,0.4444444444444444,0.0,True,False,False,False,False,FP
+Rohan Saraogi,62804340+r0sa2@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.4,0.2857142857142857,0.4,0.25,False,False,True,False,False,FP
+Arya Samik,90042953+AryaSamik@users.noreply.github.com,K Anamithra,anamithrak@gmail.com,0.38095238095238093,0.3571428571428571,0.0,0.4285714285714286,False,False,False,True,False,FP
+Maciej A. Czyzewski,mail@maciejczyzewski.me,Martmists,mail@martmists.com,0.2962962962962963,1.0,0.4,0.0,False,False,False,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,Vishal Kumar Gupta,groupsvkg@gmail.com,0.27586206896551724,0.06896551724137934,0.0,0.30000000000000004,False,True,False,False,False,FP
+Noah H,noah@nthall.com,achance6,45263295+achance6@users.noreply.github.com,0.2857142857142857,0.19047619047619047,0.33333333333333337,0.0,True,False,False,False,False,FP
+BruceLee569,49506152+BruceLee569@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.25,0.12903225806451613,0.1428571428571429,0.0,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Sarvesh Dubey,38752758+dubesar@users.noreply.github.com,0.38095238095238093,0.20512820512820518,0.25,0.18181818181818177,False,True,False,False,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,obelisk0114,obelisk0114@yahoo.com.tw,0.19999999999999996,0.25,0.2222222222222222,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,Siddhant Totade,siddhanttotade.1994@gmail.com,0.26086956521739135,0.2666666666666667,0.2222222222222222,0.16666666666666663,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Aashay Shingre,akshingre@gmail.com,0.36363636363636365,0.4,0.2857142857142857,0.3076923076923077,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Adithya Awati,1ds21ai001@dsce.edu.in,0.47619047619047616,0.2857142857142857,0.25,0.5454545454545454,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,obelisk0114,obelisk0114@yahoo.com.tw,0.17391304347826086,0.125,0.09523809523809523,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Khushi Shukla,tusharika.shukla05@gmail.com,0.33333333333333337,0.3870967741935484,0.2666666666666667,0.2857142857142857,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,strambake,86815109+strambake@users.noreply.github.com,0.42105263157894735,0.08333333333333337,0.47058823529411764,0.0,True,False,False,False,False,FP
+Aditi Agarwal,31546143+aditiagarwal34550@users.noreply.github.com,Dima I,79413560+DIvkov575@users.noreply.github.com,0.3157894736842105,0.2727272727272727,0.4444444444444444,0.0,False,False,True,False,False,FP
+Ishan Dutta,ishandutta0098@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.42105263157894735,0.25,0.33333333333333337,0.18181818181818177,False,False,False,True,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,Kushagra Agarwal,94402194+developer-kush@users.noreply.github.com,0.24,0.3157894736842105,0.2666666666666667,0.0,True,False,False,False,False,FP
+Ishan Dutta,ishandutta0098@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.34782608695652173,0.22857142857142854,0.4,0.0,False,False,True,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,PiyushPawar17,piyushpawar25@gmail.com,0.25,0.303030303030303,0.1428571428571429,0.0,False,True,False,False,False,FP
+Abdujabbar Mirkhalikov,abdujabbar.mirkhalikov@gmail.com,Ron U,sharpblade4@gmail.com,0.14814814814814814,0.18181818181818177,0.15384615384615385,0.0,False,False,True,False,False,FP
+A Safari,alisafariem@gmail.com,apples53,sameerrawat2003@gmail.com,0.25,0.23076923076923073,0.2222222222222222,0.0,False,True,False,False,False,FP
+Muskan Kumar,31043527+muskanvk@users.noreply.github.com,Srikumar Sastry,srikumarsastry1997@gmail.com,0.4444444444444444,0.17142857142857137,0.4285714285714286,0.36363636363636365,True,False,False,False,False,FP
+Muhammad Hammad Sani,58339378+mhammadsaani@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.4,0.2222222222222222,0.375,0.16666666666666663,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Shubham Kondekar,40213815+kondekarshubham123@users.noreply.github.com,0.25,0.17647058823529416,0.15384615384615385,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Akshar Goyal,claim.akshar@gmail.com,0.26086956521739135,0.4,0.2666666666666667,0.0,True,False,False,False,False,FP
+Ishan Dutta,ishandutta0098@gmail.com,Noah H,root@flameazalea.com,0.23529411764705888,0.11111111111111116,0.2222222222222222,0.0,False,False,True,False,False,FP
+Daniel Ingram,ingramds@appstate.edu,Md. Mahbubur Rahman,mahbuburrahman2111@gmail.com,0.3870967741935484,0.23076923076923073,0.25,0.2857142857142857,False,False,False,True,False,FP
+Jigyasa G,33327397+jpg-130@users.noreply.github.com,Niranjan Hegde,hegdeniranjan144@gmail.com,0.4347826086956522,0.125,0.4,0.33333333333333337,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,jbaenaxd,jobaco04@hotmail.com,0.23529411764705888,0.16666666666666663,0.2666666666666667,0.0,True,False,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,Parth,100679824+pa-kh039@users.noreply.github.com,0.2857142857142857,0.303030303030303,0.33333333333333337,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Satyam-Bhalla,satyambhalla17@gmail.com,0.4,0.1875,0.15384615384615385,0.0,False,True,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,hollowcrust,72879387+hollowcrust@users.noreply.github.com,0.21052631578947367,0.3157894736842105,0.16666666666666663,0.0,False,True,False,False,False,FP
+,shyam.thiagarajan@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.0,0.21052631578947367,0.0,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,mounaim,mounaim.zaryouhi@gmail.com,0.3076923076923077,0.19999999999999996,0.36363636363636365,0.0,True,False,False,False,False,FP
+YOGESHWARAN R,yogeshin247@gmail.com,luanjerry,50862638+luanjerry@users.noreply.github.com,0.2727272727272727,0.06896551724137934,0.19999999999999996,0.0,True,False,False,False,False,FP
+Adarsh Sidnal,97141741+Adarshsidnal@users.noreply.github.com,Noah H,noah@nthall.com,0.3157894736842105,0.16000000000000003,0.4,0.0,False,False,True,False,False,FP
+Shriyans Gandhi,41372639+shri30yans@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.4347826086956522,0.15384615384615385,0.4285714285714286,0.2857142857142857,False,False,True,False,False,FP
+Yasser A,r7al.77@gmail.com,Yatharth Mathur,31852880+yatharthmathur@users.noreply.github.com,0.4347826086956522,0.1333333333333333,0.4285714285714286,0.2857142857142857,True,False,False,False,False,FP
+João Vitor,92267577+ShiryuReb@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.2666666666666667,0.2068965517241379,0.2857142857142857,0.0,False,False,True,False,False,FP
+Noah H,root@flameazalea.com,Okza Pradhana,okzamahendra29@gmail.com,0.42105263157894735,0.11111111111111116,0.5,0.2222222222222222,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,keshav Sharma,72795959+ksharma20@users.noreply.github.com,0.47619047619047616,0.27586206896551724,0.2857142857142857,0.5,False,True,False,False,False,FP
+Jitendra_Sharma,jitendra.sharma_cs16@gla.ac.in,Noah H,noah@nthall.com,0.30000000000000004,0.25,0.33333333333333337,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,brajesh-rit,brajesh_rit@yahoo.co.in,0.38095238095238093,0.33333333333333337,0.42105263157894735,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Vinicius Cordeiro,marcos.cordeiroal@gmail.com,0.24,0.19999999999999996,0.2222222222222222,0.1428571428571429,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,harshildarji,darjiharshil2994@gmail.com,0.5,0.37037037037037035,0.15384615384615385,0.0,False,True,False,False,False,FP
+Noah H,noah@nthall.com,Sylvain,sylvain.desodt+github@gmail.com,0.15384615384615385,0.24,0.18181818181818177,0.0,True,False,False,False,False,FP
+A Safari,alisafariem@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.375,0.11764705882352944,0.0,0.33333333333333337,False,False,False,True,False,FP
+Dima I,79413560+DIvkov575@users.noreply.github.com,Zach Wild,zacharyjwild@gmail.com,0.4,0.0,0.25,0.4,True,False,False,False,False,FP
+GeorgeChambi,charalambous99@gmail.com,Ron U,sharpblade4@gmail.com,0.11764705882352944,0.4,0.1333333333333333,0.0,False,False,True,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,dimgrichr,32580033+dimgrichr@users.noreply.github.com,0.375,0.2777777777777778,0.2857142857142857,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Satyam-Bhalla,satyambhalla17@gmail.com,0.26086956521739135,0.37037037037037035,0.2857142857142857,0.0,True,False,False,False,False,FP
+Dan Murphy,danielmurph8@gmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.3529411764705882,0.1333333333333333,0.25,0.2857142857142857,False,False,True,False,False,FP
+MadhavCode,madhav0404dixit@gmail.com,Michael D,michael@drueing.de,0.42105263157894735,0.2727272727272727,0.47058823529411764,0.0,False,False,True,False,False,FP
+Syed Haseeb Shah,yesiamhasi@gmail.com,Yasser A,r7al.77@gmail.com,0.5,0.11764705882352944,0.4,0.16666666666666663,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,sarthaka1310,56290744+sarthaka1310@users.noreply.github.com,0.26086956521739135,0.23529411764705888,0.2857142857142857,0.0,True,False,False,False,False,FP
+Jigyasa G,33327397+jpg-130@users.noreply.github.com,guij15,43374716+guij15@users.noreply.github.com,0.1333333333333333,0.4516129032258065,0.15384615384615385,0.0,True,False,False,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Adarsh Acharya,132294330+AdarshAcharya5@users.noreply.github.com,0.33333333333333337,0.2325581395348837,0.2857142857142857,0.25,True,False,False,False,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,Shivam Verma,50954641+sarcastic-verma@users.noreply.github.com,0.42105263157894735,0.33333333333333337,0.36363636363636365,0.33333333333333337,True,False,False,False,False,FP
+Aaryan Raj,97806283+iaaryanraj@users.noreply.github.com,rajnishyadav321,rajnishyadav321@users.noreply.github.com,0.31999999999999995,0.23529411764705888,0.2857142857142857,0.0,True,False,False,False,False,FP
+SURYAPRATAP SINGH SURYAVANSHI,67123991+suryapratapsinghsuryavanshi@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.32432432432432434,0.09302325581395354,0.3529411764705882,0.11111111111111116,False,False,True,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,Shoaib Asgar,shoaib.mca19.du@gmail.com,0.2727272727272727,0.23529411764705888,0.2857142857142857,0.0,True,False,False,False,False,FP
+Jake Gerber,jake.j.gerber@gmail.com,K Anamithra,anamithrak@gmail.com,0.2727272727272727,0.17391304347826086,0.4,0.1333333333333333,False,False,False,True,False,FP
+Noah H,noah@nthall.com,Reshad Hasan,reshadhasan555@gmail.com,0.33333333333333337,0.2222222222222222,0.19999999999999996,0.33333333333333337,True,False,False,False,False,FP
+Ajinkya Chikhale,86607732+ajinkyac03@users.noreply.github.com,Yasser A,r7al.77@gmail.com,0.33333333333333337,0.15384615384615385,0.3076923076923077,0.2222222222222222,False,False,True,False,False,FP
+Arijit De,arijitde2050@gmail.com,Christian Bender,christianbender89@web.de,0.48,0.3448275862068966,0.4,0.5,True,False,False,False,False,FP
+Ron U,sharpblade4@gmail.com,kanthuc,srikanthuchavali@gmail.com,0.33333333333333337,0.2962962962962963,0.19999999999999996,0.0,True,False,False,False,False,FP
+James Mc Dermott,james.mcdermott89@gmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.34782608695652173,0.17142857142857137,0.4,0.18181818181818177,False,False,True,False,False,FP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,tania-cmyk,58653046+tania-cmyk@users.noreply.github.com,0.42105263157894735,0.4736842105263158,0.3529411764705882,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Saptarshi Sengupta,94242536+saptarshi1996@users.noreply.github.com,0.3076923076923077,0.3111111111111111,0.19999999999999996,0.2857142857142857,False,True,False,False,False,FP
+Ankur Chattopadhyay,39518771+chttrjeankr@users.noreply.github.com,Kavienan J,45987371+kavienanj@users.noreply.github.com,0.2068965517241379,0.4736842105263158,0.3076923076923077,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,RenatoLopes771,52989307+RenatoLopes771@users.noreply.github.com,0.24,0.11111111111111116,0.17391304347826086,0.0,True,False,False,False,False,FP
+Rafa leyva,rafael.leyva@4iq.com,YOGESHWARAN R,yogeshin247@gmail.com,0.26086956521739135,0.08695652173913049,0.2666666666666667,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Akash_Jambulkar,97665573+Akash-Jambulkar@users.noreply.github.com,0.24,0.32432432432432434,0.26086956521739135,0.0,True,False,False,False,False,FP
+MC,129918860+FishyGitHubUser@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.0,0.29166666666666663,0.0,0.0,False,False,False,True,False,FP
+Akash Kumar,email.akashkumar@gmail.com,Karthik S,73390717+karthiks2611@users.noreply.github.com,0.4,0.21621621621621623,0.5,0.0,False,False,True,False,False,FP
+K Anamithra,anamithrak@gmail.com,Saksham1970,45041294+Saksham1970@users.noreply.github.com,0.2727272727272727,0.19999999999999996,0.16666666666666663,0.0,False,True,False,False,False,FP
+Md Mahiuddin,68785084+mahiuddin-dev@users.noreply.github.com,Michael D,michael@drueing.de,0.2857142857142857,0.2068965517241379,0.2222222222222222,0.19999999999999996,False,False,True,False,False,FP
+K Yasaswi Sri Chandra Gandhi,35304641+G7-TheKing@users.noreply.github.com,Vinayak Upadhyay,vinayakupadhyay42@gmail.com,0.31818181818181823,0.11111111111111116,0.25,0.17647058823529416,False,True,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Sarot Busala,sabuza97@gmail.com,0.4,0.06451612903225812,0.33333333333333337,0.33333333333333337,False,True,False,False,False,FP
+SHAKTI SINGH,mohittanwar2323@gmail.com,Snimerjot Singh,snimersingh1729@gmail.com,0.5925925925925926,0.2666666666666667,0.2666666666666667,1.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,yzzhang-cs,44668197+yzzhang-cs@users.noreply.github.com,0.23529411764705888,0.3783783783783784,0.19999999999999996,0.0,False,True,False,False,False,FP
+Aditya Sharma,32771292+adityasharma1234@users.noreply.github.com,Palash Sharma,54630543+palashsharma891@users.noreply.github.com,0.6923076923076923,0.44897959183673475,0.33333333333333337,1.0,True,False,False,False,False,FP
+Akshay Sharma,akshay.sharma09695@gmail.com,Naman,37952726+namansharma18899@users.noreply.github.com,0.33333333333333337,0.4651162790697675,0.36363636363636365,0.0,True,False,False,False,False,FP
+Guillaume Rochedix,33205665+BriseBalloches@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.1333333333333333,0.18181818181818177,0.10526315789473684,0.0,False,False,True,False,False,FP
+Ghulam Mohiyuddin,subahani98@gmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.07999999999999996,0.18181818181818177,0.0,0.0,False,False,False,True,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Shivam Verma,50954641+sarcastic-verma@users.noreply.github.com,0.30000000000000004,0.25531914893617025,0.2857142857142857,0.18181818181818177,False,True,False,False,False,FP
+Amir Hosseini,19665344+itsamirhn@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.19047619047619047,0.2777777777777778,0.0,0.1428571428571429,False,False,False,True,False,FP
+Hector S,hfsam88@gmail.com,anubhav-sharma13,45630457+anubhav-sharma13@users.noreply.github.com,0.17391304347826086,0.25,0.19047619047619047,0.0,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Tapajyoti Bose,44058757+ruppysuppy@users.noreply.github.com,0.2727272727272727,0.1428571428571429,0.0,0.4,False,True,False,False,False,FP
+Saksham1970,45041294+Saksham1970@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.47619047619047616,0.23076923076923073,0.5263157894736843,0.0,False,False,True,False,False,FP
+Abhi Kampurath,35632653+abhikmp@users.noreply.github.com,Abhijeeth S,abhikampurath@gmail.com,0.48,0.48275862068965514,0.6153846153846154,0.0,True,True,False,False,False,FP
+Tarun Jain,66197713+lucifertrj@users.noreply.github.com,ankitjain4,44187577+ankitjain4@users.noreply.github.com,0.6,0.368421052631579,0.4,0.0,True,False,False,False,False,FP
+Mohammad Esfandiyar,padraesfandiar@gmail.com,Shashank S,Knhash@users.noreply.github.com,0.3448275862068966,0.19999999999999996,0.375,0.18181818181818177,False,False,True,False,False,FP
+Ashok Bakthavathsalam,kgashok@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.3448275862068966,0.07999999999999996,0.33333333333333337,0.2857142857142857,False,False,False,True,False,FP
+Maxim R,49735721+mrmaxguns@users.noreply.github.com,karimzakir02,61005718+karimzakir02@users.noreply.github.com,0.42105263157894735,0.3589743589743589,0.3529411764705882,0.0,True,False,False,False,False,FP
+Hector S,hfsam88@gmail.com,Saahil Mahato,115351000+saahil-mahato@users.noreply.github.com,0.2857142857142857,0.19999999999999996,0.16666666666666663,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Rudransh Bhardwaj,115872354+rudransh61@users.noreply.github.com,0.34782608695652173,0.08333333333333337,0.33333333333333337,0.2222222222222222,True,False,False,False,False,FP
+Pronay Debnath,pronayd4455@gmail.com,YOGESHWARAN R,yogeshin247@gmail.com,0.2222222222222222,0.2727272727272727,0.23529411764705888,0.0,False,False,True,False,False,FP
+Rafael Leyva Ruiz,rafaelleru95103@gmail.com,Rafael,rafaelleru95103@gmail.com,0.5217391304347826,1.0,1.0,0.0,False,True,False,False,True,TP
+Abhinand C,44578852+abhinand-c@users.noreply.github.com,jonabtc,39396756+jonabtc@users.noreply.github.com,0.3529411764705882,0.34285714285714286,0.2666666666666667,0.0,True,False,False,False,False,FP
+Noah H,root@flameazalea.com,Parth Shandilya,parth1989shandilya@gmail.com,0.38095238095238093,0.18181818181818177,0.4444444444444444,0.19999999999999996,True,False,False,False,False,FP
+Aman Saxena,48122342+Aman333Saxena@users.noreply.github.com,Naman,37952726+namansharma18899@users.noreply.github.com,0.5,0.34042553191489366,0.8888888888888888,0.0,False,True,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Mikail Farid,brainiac2244@gmail.com,0.19047619047619047,0.2857142857142857,0.15384615384615385,0.0,True,False,False,False,False,FP
+Lucifer,63491234+ashish-patwal@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.0,0.32558139534883723,0.0,0.0,False,False,True,False,False,FP
+Hector S,hfsam88@gmail.com,Yuri Batista Ishizawa,yuriishizawa@gmail.com,0.2068965517241379,0.21052631578947367,0.19999999999999996,0.11764705882352944,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,Souvik Ghosh,42302494+SouvikGhosh05@users.noreply.github.com,0.4,0.19999999999999996,0.2857142857142857,0.36363636363636365,False,True,False,False,False,FP
+AtomicVar,gs0801@foxmail.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.23529411764705888,0.2068965517241379,0.0,0.0,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Hector S,hfsam88@gmail.com,0.5263157894736843,0.30000000000000004,0.4,1.0,True,False,False,False,False,FP
+Mark,markhappy200@gmail.com,Yasser A,r7al.77@gmail.com,0.33333333333333337,0.21052631578947367,0.4,0.0,False,False,True,False,False,FP
+Maxim Semenyuk,33791308+semenuk@users.noreply.github.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.2727272727272727,0.4117647058823529,0.0,0.2857142857142857,False,False,False,True,False,FP
+Karthik S,73390717+karthiks2611@users.noreply.github.com,Linus M. Henkel,86628476+linushenkel@users.noreply.github.com,0.17391304347826086,0.19512195121951215,0.16666666666666663,0.0,True,False,False,False,False,FP
+Ashwin Das,ashwindasr@users.noreply.github.com,Noah H,root@flameazalea.com,0.375,0.1428571428571429,0.4,0.0,False,False,True,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Bhavesh Mathur,130584844+bhavesh1oo@users.noreply.github.com,0.4,0.24242424242424243,0.5,0.0,True,False,False,False,False,FP
+@im_8055,38890773+Bhargavishnu@users.noreply.github.com,Shashank S,Knhash@users.noreply.github.com,0.0,0.2962962962962963,0.0,0.0,False,False,True,False,False,FP
+Metehan,metehaansever@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.2666666666666667,0.12903225806451613,0.0,0.0,False,False,False,True,False,FP
+A Safari,alisafariem@gmail.com,Maram Sumanth,maram.sumanth@gmail.com,0.38095238095238093,0.25,0.33333333333333337,0.3076923076923077,False,True,False,False,False,FP
+Sharan Krishnan,58838321+shrabian@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.4444444444444444,0.42105263157894735,0.5,0.2222222222222222,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Shoaib Asgar,shoaib.mca19.du@gmail.com,0.4,0.10526315789473684,0.2857142857142857,0.36363636363636365,False,True,False,False,False,FP
+Ayman Mohamed Ali,ayman_pharma@hotmail.com,Maxim R,49735721+mrmaxguns@users.noreply.github.com,0.33333333333333337,0.2666666666666667,0.4,0.0,False,False,True,False,False,FP
+,shyam.thiagarajan@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.0,0.17142857142857137,0.0,0.0,False,False,False,True,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,MohammadReza Balakhaniyan,51448587+balakhaniyan@users.noreply.github.com,0.2941176470588235,0.32432432432432434,0.3157894736842105,0.15384615384615385,True,False,False,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Vcrostin,52068696+Vcrostin@users.noreply.github.com,0.125,0.25,0.2222222222222222,0.0,False,True,False,False,False,FP
+K Anamithra,anamithrak@gmail.com,yashLadha,yashladhapankajladha123@gmail.com,0.4,0.303030303030303,0.0,0.0,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Turro,42980188+smturro2@users.noreply.github.com,0.11764705882352944,0.3157894736842105,0.1333333333333333,0.0,True,False,False,False,False,FP
+Matej,83732219+IsxImattI@users.noreply.github.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.13793103448275867,0.20833333333333337,0.0,0.0,False,False,False,True,False,FP
+Noah H,root@flameazalea.com,Rohan Sardar,77870108+RohanSardar@users.noreply.github.com,0.33333333333333337,0.08333333333333337,0.4444444444444444,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Vasu Gamdha,40864108+vasugamdha@users.noreply.github.com,0.38095238095238093,0.24,0.33333333333333337,0.0,True,False,False,False,False,FP
+Junth Basnet,25685098+Junth19@users.noreply.github.com,Noah H,root@flameazalea.com,0.33333333333333337,0.09999999999999998,0.4444444444444444,0.0,False,False,True,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,Sushant Srivastav,63559772+sushant4191@users.noreply.github.com,0.3448275862068966,0.29268292682926833,0.3529411764705882,0.19999999999999996,True,False,False,False,False,FP
+Adityanagraj,42292430+Adityanagraj@users.noreply.github.com,Jigyasa G,33327397+jpg-130@users.noreply.github.com,0.47619047619047616,0.21621621621621623,0.42105263157894735,0.0,False,False,True,False,False,FP
+S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,Srishtik Bhandarkar,53395406+srishtik2310@users.noreply.github.com,0.2222222222222222,0.2272727272727273,0.2222222222222222,0.125,False,True,False,False,False,FP
+P U N I T H,55887644+punithbajaj@users.noreply.github.com,piyush-poddar,143445461+piyush-poddar@users.noreply.github.com,0.26086956521739135,0.32558139534883723,0.15384615384615385,0.0,False,True,False,False,False,FP
+A Safari,alisafariem@gmail.com,Sai Aswin Madhavan,saiaswin.211ec244@nitk.edu.in,0.3846153846153846,0.3571428571428571,0.5,0.30000000000000004,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,tacitvenom,vasu.sharma314@gmail.com,0.18181818181818177,0.17142857142857137,0.19999999999999996,0.0,True,False,False,False,False,FP
+S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,malikshubham827,malikshubham827@gmail.com,0.34782608695652173,0.12121212121212122,0.125,0.0,False,True,False,False,False,FP
+Joaquin Cabezas,joaquincabezas@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.26086956521739135,0.1875,0.0,0.3076923076923077,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Shubham Shaswat,shaswat.cpp@gmail.com,0.3076923076923077,0.33333333333333337,0.25,0.25,True,False,False,False,False,FP
+Kenneth P,41343159+ken437@users.noreply.github.com,NIKITA PANDEY,113332472+nikitapandeyy@users.noreply.github.com,0.36363636363636365,0.3157894736842105,0.3076923076923077,0.2857142857142857,True,False,False,False,False,FP
+Parth Shandilya,parth1989shandilya@gmail.com,S. Sharma,36388139+s1l3ntcat@users.noreply.github.com,0.4347826086956522,0.2777777777777778,0.0,0.5333333333333333,False,False,False,True,False,FP
+Mayur Pardeshi,45143349+mayur200@users.noreply.github.com,Ron U,sharpblade4@gmail.com,0.21052631578947367,0.1428571428571429,0.25,0.0,False,False,True,False,False,FP
+Tan Yong He,tyhshana@hotmail.com,Tauseef Hilal Tantary,tantary.tauseef.atwork@gmail.com,0.25,0.2666666666666667,0.4,0.09999999999999998,False,True,False,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,lakshmikanth ayyadevara,52835045+Lakshmikanth2001@users.noreply.github.com,0.2857142857142857,0.26086956521739135,0.2727272727272727,0.0,True,False,False,False,False,FP
+Hao LI,8520588+Leo-LiHao@users.noreply.github.com,malikshubham827,malikshubham827@gmail.com,0.2857142857142857,0.125,0.2222222222222222,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,gabriel,gabriel.goncalves@trilogo.com.br,0.25,0.36363636363636365,0.2857142857142857,0.0,True,False,False,False,False,FP
+Iqrar Agalosi Nureyza,misteriqrar@gmail.com,Marcus T,marcus.truscello@gmail.com,0.27586206896551724,0.2962962962962963,0.36363636363636365,0.0,False,False,True,False,False,FP
+Sowndappan S,147894621+sowndappan5@users.noreply.github.com,TheSuperNoob,larsthorland@gmail.com,0.25,0.24242424242424243,0.2727272727272727,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,SubhranShu2332,124662904+SubhranShu2332@users.noreply.github.com,0.4347826086956522,0.25,0.47619047619047616,0.0,True,False,False,False,False,FP
+Aryansh B,aryanshbhargavan@outlook.com,Richie Bendall,richiebendall@gmail.com,0.34782608695652173,0.27586206896551724,0.3076923076923077,0.25,True,False,False,False,False,FP
+Jason Devers,74424054+jdevers1@users.noreply.github.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.41666666666666663,0.26315789473684215,0.4,0.2857142857142857,False,False,True,False,False,FP
+Advik Sharma,70201060+advik-student-dev@users.noreply.github.com,Sangeet K,sangeethk.137@gmail.com,0.19047619047619047,0.15384615384615385,0.16666666666666663,0.0,False,False,True,False,False,FP
+Murilo Gonçalves,38800183+murilo-goncalves@users.noreply.github.com,S Sajeev,167018420+SajeevSenthil@users.noreply.github.com,0.25,0.29166666666666663,0.0,0.2666666666666667,False,False,False,True,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Tauseef Hilal Tantary,tantary.tauseef.atwork@gmail.com,0.3125,0.2857142857142857,0.375,0.0,True,False,False,False,False,FP
+Shashank S,Knhash@users.noreply.github.com,Shivansh Nalwaya,siddnlw@gmail.com,0.46153846153846156,0.15384615384615385,0.625,0.0,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Shiva Rama Krishna,45482631+srkchowdary2000@users.noreply.github.com,0.27586206896551724,0.16216216216216217,0.2857142857142857,0.15384615384615385,True,False,False,False,False,FP
+AmirSoroush,amirsoroush.dev@gmail.com,amirsoroush,114881632+amirsoroush@users.noreply.github.com,1.0,0.6111111111111112,1.0,1.0,False,False,False,False,False,TP
+Farhan,farhankasmani956@gmail.com,S. M. Mohiuddin Khan Shiam,147746955+mohiuddin-khan-shiam@users.noreply.github.com,0.19999999999999996,0.26086956521739135,0.0,0.0,False,False,False,True,False,FP
+Filip Hlasek,fhlasek@gmail.com,Sowndappan S,147894621+sowndappan5@users.noreply.github.com,0.25,0.0714285714285714,0.1333333333333333,0.2857142857142857,False,False,True,False,False,FP
+Bhaavik Pratyush,bhaavikpratyush@gmail.com,P U N I T H,55887644+punithbajaj@users.noreply.github.com,0.2962962962962963,0.17142857142857137,0.0,0.23529411764705888,False,False,False,True,False,FP
+AlexDvorak,opti.jawsome@gmail.com,Marcus T,marcus.truscello@gmail.com,0.2222222222222222,0.2142857142857143,0.25,0.0,False,False,True,False,False,FP
+Sherman Hui,11592023+shermanhui@users.noreply.github.com,Shuangchi He,34329208+Yulv-git@users.noreply.github.com,0.5217391304347826,0.33333333333333337,0.5,0.4,False,False,True,False,False,FP
+Juyoung Kim,61103343+JadeKim042386@users.noreply.github.com,Michael D,michael@drueing.de,0.09999999999999998,0.13793103448275867,0.0,0.0,False,False,True,False,False,FP
+Ron U,sharpblade4@gmail.com,Vishal Kumar Gupta,groupsvkg@gmail.com,0.26086956521739135,0.19999999999999996,0.0,0.16666666666666663,True,False,False,False,False,FP
+Abhijeeth S,abhikampurath@gmail.com,Tiela Rose Black-Law,26930264+tielarose@users.noreply.github.com,0.2666666666666667,0.19354838709677424,0.2857142857142857,0.1428571428571429,True,False,False,False,False,FP
+Francisco Perez,92104963+franciscoperez2021@users.noreply.github.com,Ope Oluwaferanmi,111365699+FEROS01@users.noreply.github.com,0.32258064516129037,0.2272727272727273,0.16666666666666663,0.23529411764705888,False,False,False,True,False,FP
