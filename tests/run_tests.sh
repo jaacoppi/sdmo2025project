@@ -23,6 +23,16 @@ python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t $ANALYZED_THRESHOLD -c 
 ./scripts/compare.sh $ANALYZED $OUTPUT
 }
 
+test_c1_c2_t10() {
+TEST_NUMBER=$1
+ORIGINAL=$2
+ANALYZED=$3
+BASENAME=$(basename $ORIGINAL)
+OUTPUT=testcase_${TEST_NUMBER}_${BASENAME}
+python3 project1developers.py -i $ORIGINAL -o $OUTPUT -t 1.0 -c "c1,c2" -m 2
+./scripts/compare.sh $ANALYZED $OUTPUT
+}
+
 test_thresholds() {
 TEST_NUMBER=$1
 ORIGINAL=$2
@@ -82,3 +92,7 @@ test_thresholds 11 $ORIGINAL $ANALYZED 0.9
 
 echo "test case 12: Threshold 1.0"
 test_thresholds 12 $ORIGINAL $ANALYZED 1.0
+
+echo "test case 13: Criteria C1 && C2 1.0 - checks for domain changes"
+test_c1_c2_t10 13 $ORIGINAL $ANALYZED
+
