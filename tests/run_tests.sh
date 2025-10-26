@@ -75,7 +75,7 @@ echo "test case 9: Threshold 0.7"
 test_thresholds 9 $ORIGINAL $ANALYZED 0.7
 
 echo "test case 10: Threshold 0.8"
-test_thresholds 10 $ORIGINAL $ANALYZED 0.9
+test_thresholds 10 $ORIGINAL $ANALYZED 0.8
 
 echo "test case 11: Threshold 0.9"
 test_thresholds 11 $ORIGINAL $ANALYZED 0.9
