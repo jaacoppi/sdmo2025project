@@ -1,0 +1,751 @@
+name_1,email_1,name_2,email_2,c1,c2,c3.1,c3.2,c4,c5,c6,c7,c8,UNANALYSED
+Igor Loskutov,igor.loskutoff@gmail.com,Leyan Lo,leyanlo@gmail.com,0.2857142857142857,0.19047619047619047,0.0,0.4,False,False,True,False,False,FP
+Jorge Cuadra,jorgecuadrafueyo@gmail.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.2857142857142857,0.303030303030303,0.16666666666666663,0.0,False,False,True,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,St├Ñle Pettersen,kozmic@users.noreply.github.com,0.2857142857142857,0.3076923076923077,0.375,0.0,True,False,False,False,False,FP
+Jordan Baron,62375480+codedbyjordan@users.noreply.github.com,Jordan Newland,jenewland1999@gmail.com,0.6923076923076923,0.17142857142857137,1.0,0.33333333333333337,False,False,False,True,False,FP
+Mike K,goodbadugly30@gmail.com,Tomasz Tunik,tomasztunik@gmail.com,0.33333333333333337,0.25,0.19999999999999996,0.33333333333333337,True,False,False,False,False,FP
+Darryl,darrylsepeda@users.noreply.github.com,Phattarapol L,63938605+PhattOZ@users.noreply.github.com,0.3157894736842105,0.0714285714285714,0.3529411764705882,0.0,False,False,True,False,False,FP
+C. Lewis,1657236+ctjlewis@users.noreply.github.com,Michael Hayes,michael@hayes.io,0.4,0.17391304347826086,0.25,0.4,False,True,False,False,False,FP
+ovogmap,71624334+ovogmap@users.noreply.github.com,Pranav P,pranavkp.me@outlook.com,0.2666666666666667,0.14814814814814814,0.15384615384615385,0.0,False,False,True,False,False,FP
+Richard Littauer,richard.littauer@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.34782608695652173,0.11428571428571432,0.33333333333333337,0.2222222222222222,False,False,True,False,False,FP
+M Pacer,mpacer@users.noreply.github.com,Mihai C,34626017+mihaic195@users.noreply.github.com,0.4285714285714286,0.25,0.33333333333333337,0.33333333333333337,False,False,True,False,False,FP
+Jon R,jonathan.roesner@yahoo.com,Josh,josh.bechard@jewsforjesus.org,0.4444444444444444,0.4285714285714286,0.5714285714285714,0.0,True,False,False,False,False,FP
+Lukasz Ostrowski,lukasz@ostrowski.ninja,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.31999999999999995,0.18181818181818177,0.3076923076923077,0.19999999999999996,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,Sam Bokai,sam.bokai@gmail.com,0.3529411764705882,0.2666666666666667,0.2222222222222222,0.33333333333333337,True,False,False,False,False,FP
+Chris Weber,chrisweb@users.noreply.github.com,Richard B,1180955+rbrcsk@users.noreply.github.com,0.5,0.18181818181818177,0.5,0.33333333333333337,False,False,True,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Surav Shrestha,surav.shrestha@outlook.com,0.38095238095238093,0.18181818181818177,0.4,0.2222222222222222,True,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,Zach Bialecki,86174+zbialecki@users.noreply.github.com,0.38095238095238093,0.19047619047619047,0.19999999999999996,0.2222222222222222,True,False,False,False,False,FP
+Yongho Lee,i.am.yongho@navercorp.com,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.2222222222222222,0.125,0.16666666666666663,0.0,False,False,True,False,False,FP
+Herrington Darkholme,2883231+HerringtonDarkholme@users.noreply.github.com,Mike K,goodbadugly30@gmail.com,0.23076923076923073,0.19999999999999996,0.1428571428571429,0.19999999999999996,False,False,True,False,False,FP
+David D,comxd@users.noreply.github.com,Kasper Andreassen,79222410+kasperadk@users.noreply.github.com,0.25,0.08695652173913049,0.18181818181818177,0.18181818181818177,True,False,False,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Smit Barmase,smitbarmase@outlook.com,0.3157894736842105,0.19999999999999996,0.2222222222222222,0.25,True,False,False,False,False,FP
+First Kanisorn Sutham,firstziiz.k@gmail.com,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.19999999999999996,0.14814814814814814,0.16666666666666663,0.125,False,False,True,False,False,FP
+I am not shine,zhaoyao91@163.com,LittleboyHarry,littleboyharry@qq.com,0.2142857142857143,0.26086956521739135,0.1333333333333333,0.0,False,True,False,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Slawa Pidgorny,spidgorny@gmail.com,0.2727272727272727,0.2222222222222222,0.18181818181818177,0.2222222222222222,True,False,False,False,False,FP
+Adam Lavin,adam@lavoaster.co.uk,Adam Mcgrath,adamjmcgrath@gmail.com,0.5454545454545454,0.5,1.0,0.16666666666666663,False,False,False,True,False,FP
+Angelo P,angelo.m.poole@gmail.com,M Pacer,mpacer@users.noreply.github.com,0.2666666666666667,0.30000000000000004,0.0,0.33333333333333337,True,False,False,True,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Tarik,112902780+tariknh@users.noreply.github.com,0.16666666666666663,0.38888888888888884,0.19999999999999996,0.0,True,False,False,False,False,FP
+Louis DeScioli,louis.descioli@gmail.com,S. Suzuki,terrierscript@gmail.com,0.36363636363636365,0.37037037037037035,0.33333333333333337,0.2857142857142857,False,False,False,True,False,FP
+Aditya K,adk96r@gmail.com,Kinbaum,mkinbaum@gmail.com,0.2666666666666667,0.1428571428571429,0.3076923076923077,0.0,True,False,False,False,False,FP
+Jarred Sumner,jarred@jarredsumner.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.30000000000000004,0.16000000000000003,0.18181818181818177,0.0,False,False,True,False,False,FP
+Alexander Fradiani,a.fradiani@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.31999999999999995,0.2068965517241379,0.2857142857142857,0.2222222222222222,False,False,True,False,False,FP
+Ian Luca,ian.naph@gmail.com,Ian Mitchell,ian.mitchel1@live.com,0.5,0.5,1.0,0.16666666666666663,False,True,False,False,False,FP
+Michael Lustig,lustig.dev@gmail.com,Michael Peters,michael@michaelpeterswa.com,0.6428571428571428,0.23529411764705888,1.0,0.16666666666666663,False,True,False,False,False,FP
+Jon R,jonathan.roesner@yahoo.com,Kristian Djakovi─ç,kristian.djakovic2@gmail.com,0.17391304347826086,0.2941176470588235,0.18181818181818177,0.0,True,False,False,False,False,FP
+RyotArch,r.yamamoto.system@gmail.com,S. Suzuki,terrierscript@gmail.com,0.0,0.19999999999999996,0.0,0.0,False,False,False,True,False,FP
+idkwhojamesis,43428092+idkwhojamesis@users.noreply.github.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.25806451612903225,0.13793103448275867,0.1428571428571429,0.0,False,False,False,True,False,FP
+Adrian Li,li.adrianmc@gmail.com,PrudviGali,prudvi.gali@gmail.com,0.5263157894736843,0.36363636363636365,0.375,0.0,True,False,False,False,False,FP
+Max Stoiber,contact@mxstbr.com,Robin Weser,contact@weser.io,0.36363636363636365,1.0,0.0,0.5,False,False,False,False,False,FP
+Kaito Sugimoto,hellorusk1998@gmail.com,Shihabudheen US,shihabuudheen@gmail.com,0.2068965517241379,0.15384615384615385,0.11764705882352944,0.19999999999999996,False,False,True,False,False,FP
+Steven H,shne24@gmail.com,Vadorequest,ambroise.dhenain@gmail.com,0.21052631578947367,0.2727272727272727,0.23529411764705888,0.0,True,False,False,False,False,FP
+Thiago M,thiagotm@outlook.com,Trevor D. Miller,trevordmiller@users.noreply.github.com,0.34782608695652173,0.2857142857142857,0.33333333333333337,0.2222222222222222,True,False,False,False,False,FP
+K├®vin Berthommier,bertho-zero@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.17391304347826086,0.14814814814814814,0.0,0.16666666666666663,False,False,True,False,False,FP
+Justin Braithwaite,justinbraithwaite@gmail.com,Ramin B,i8ramin@gmail.com,0.31999999999999995,0.33333333333333337,0.36363636363636365,0.16666666666666663,False,False,True,False,False,FP
+Gabor Ottlik,gabor.ottlik.dev@protonmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.21052631578947367,0.11428571428571432,0.19999999999999996,0.0,False,False,True,False,False,FP
+Rohith Gilla,gillarohith1@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.42105263157894735,0.12903225806451613,0.36363636363636365,0.33333333333333337,False,False,True,False,False,FP
+Ben Brook,bencmbrook@users.noreply.github.com,Sebastian Benz,sebastian.benz@gmail.com,0.34782608695652173,0.25,0.33333333333333337,0.2222222222222222,False,True,False,False,False,FP
+Mohsen Azimi,me@azimi.me,Seth Mcleod,me@sethmcleod.com,0.34782608695652173,1.0,0.4,0.18181818181818177,False,False,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Curt Siffert,curt@keenworks.com,0.42105263157894735,0.2857142857142857,0.4,0.16666666666666663,False,True,False,False,False,FP
+isaackatayev,124283520+isaackatayev@users.noreply.github.com,Ivan V,390700+ivandotv@users.noreply.github.com,0.33333333333333337,0.3783783783783784,0.25,0.0,False,False,True,False,False,FP
+Alexandru Tasica,contact@alexandrutasica.ro,Th├®o LUDWIG,contact@theoludwig.fr,0.2142857142857143,1.0,0.0,0.16666666666666663,False,False,False,False,False,FP
+labyrinthitis,114704834+labyrinthitis@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.2222222222222222,0.2564102564102564,0.125,0.0,False,False,True,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Everton Nunes,everton.code@gmail.com,0.2857142857142857,0.1333333333333333,0.3076923076923077,0.0,True,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,Burak,buraksakalli06@gmail.com,0.3076923076923077,0.30000000000000004,0.18181818181818177,0.0,True,False,False,False,False,FP
+Shodipo Ayomide,shodipovi@gmail.com,Steven H,shne24@gmail.com,0.17391304347826086,0.2666666666666667,0.15384615384615385,0.0,False,False,True,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Mohamed A. Salah,mohamed.a.salah11@gmail.com,0.48,0.32432432432432434,0.25,0.5333333333333333,False,True,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Santi Dalmasso,36210359+santidalmasso@users.noreply.github.com,0.33333333333333337,0.47619047619047616,0.0,0.375,False,True,False,False,False,FP
+Chloe Yan,chloeyan365@gmail.com,Ryan Ponce,ryanponce@gmail.com,0.3157894736842105,0.30000000000000004,0.0,0.25,True,False,False,False,False,FP
+Archana Agivale,archana.agivale@qed42.com,C. Lewis,1657236+ctjlewis@users.noreply.github.com,0.36363636363636365,0.19354838709677424,0.25,0.33333333333333337,False,False,False,True,False,FP
+Brennan Colberg,brennan.colberg@gmail.com,Rob Brennan,rob@therobbrennan.com,0.5384615384615384,0.33333333333333337,0.19999999999999996,0.2857142857142857,False,False,True,False,False,FP
+Joshua Hannaford,hannaford.joshua55@gmail.com,Joshua Scott,jscott313@gmail.com,0.5714285714285714,0.14814814814814814,1.0,0.1428571428571429,False,False,False,True,False,FP
+Gabriel Fran├ºa,dev.gabrielfranca@gmail.com,Ivan V,390700+ivandotv@users.noreply.github.com,0.2857142857142857,0.1875,0.18181818181818177,0.0,False,False,True,False,False,FP
+Jennifer Proust,jennifer.proust@gmail.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.25,0.1875,0.2666666666666667,0.0,False,False,True,False,False,FP
+Hendrik Liebau,mail@hendrik-liebau.de,I am not shine,zhaoyao91@163.com,0.2857142857142857,0.15384615384615385,0.25,0.2222222222222222,False,False,False,True,False,FP
+Francis Rodrigues,francisrod01@users.noreply.github.com,Mike Francis,mikeffrancis@gmail.com,0.48275862068965514,0.5833333333333333,0.18181818181818177,0.375,False,True,False,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Daniel Lindenkreuz,d.anlindenkreuz@gmail.com,0.6153846153846154,0.19047619047619047,1.0,0.16666666666666663,True,False,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Thijs Koerselman,thijskoerselman@gmail.com,0.23076923076923073,0.11428571428571432,0.0,0.2222222222222222,False,True,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Ian Macartney,ianhmacartney@gmail.com,0.4444444444444444,0.2727272727272727,0.5,0.38095238095238093,False,True,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Laura Beatris,48022589+LauraBeatris@users.noreply.github.com,0.2857142857142857,0.16666666666666663,0.18181818181818177,0.25,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Simon Gavelin,simon.gavelin@cybercom.com,0.4444444444444444,0.18181818181818177,0.33333333333333337,0.3157894736842105,False,True,False,False,False,FP
+Pranav P,pranavkp.me@outlook.com,Swarnava Sengupta,swarnavasengupta@gmail.com,0.48,0.37037037037037035,0.5714285714285714,0.2222222222222222,True,False,False,False,False,FP
+Ryan Parker,ryan.parker3@outlook.com,Scott Parker,scott.p.parker@gmail.com,0.6086956521739131,0.5384615384615384,0.0,1.0,True,False,False,False,False,FP
+Evil Rabbit,hello@evilrabb.it,Tyler Lutz,hello@tylerlutz.dev,0.2857142857142857,1.0,0.2222222222222222,0.19999999999999996,False,False,False,False,False,FP
+ÐÅ ð║ð¥Ðéð©ð║ ð┐ÐâÐÇ-ð┐ÐâÐÇ,mvasilkov@gmail.com,Leon Si,leon@leonzalion.com,0.12121212121212122,0.3076923076923077,0.0,0.0,False,False,True,False,False,FP
+Marcus Wood,github@igas.me,Martin Alix,github@malix.com,0.36363636363636365,1.0,0.5,0.0,False,False,False,False,False,FP
+Quentin,contact@yovach.dev,Yuri Yakovlev,contact@yakovlevyuri.com,0.19999999999999996,1.0,0.36363636363636365,0.0,False,False,False,False,False,FP
+Curtis L,83509890+Sylith1231@users.noreply.github.com,John Polacek,johnpolacek@gmail.com,0.19999999999999996,0.06666666666666665,0.0,0.25,True,False,False,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Jackson Hardaker,jackson.hardaker@gmail.com,0.33333333333333337,0.18181818181818177,0.3076923076923077,0.2222222222222222,True,False,False,False,False,FP
+Erik Brinkman,erik.brinkman@gmail.com,I am not shine,zhaoyao91@163.com,0.2962962962962963,0.09090909090909094,0.4,0.19999999999999996,False,False,False,True,False,FP
+mit123suki,61997457+mit123suki@users.noreply.github.com,S M Mahmudul Hasan,smmh.lzui@gmail.com,0.1428571428571429,0.2142857142857143,0.18181818181818177,0.0,False,False,False,True,False,FP
+Duc Le,leanhducvt@live.com,Micha┼é Niedzi├│┼éka,niedziolek@hotmail.com,0.23076923076923073,0.19999999999999996,0.19999999999999996,0.1428571428571429,True,False,False,False,False,FP
+JuanM04,me@juanm04.com,V┼® V─ân D┼®ng,me@joulev.dev,0.19047619047619047,1.0,0.0,0.0,False,False,False,False,False,FP
+Ben Plate,bplate9583@gmail.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.3529411764705882,0.16000000000000003,0.2222222222222222,0.33333333333333337,False,False,True,False,False,FP
+Shahzeb K,1383831+shahzeb1@users.noreply.github.com,V├íclav Nosek,vaclav.nosek@mojemana.cz,0.2727272727272727,0.1428571428571429,0.1428571428571429,0.33333333333333337,True,False,False,False,False,FP
+leotrt,leopold.trouillet@gmail.com,Phattarapol L,63938605+PhattOZ@users.noreply.github.com,0.21052631578947367,0.12121212121212122,0.23529411764705888,0.0,False,False,True,False,False,FP
+Adam Bosco,github@adambos.co,Bruno Bernardino,github@bmb.pt,0.23076923076923073,1.0,0.0,0.2666666666666667,False,False,False,False,False,FP
+Chris Meagher,cpmeeg@gmail.com,Mihai C,34626017+mihaic195@users.noreply.github.com,0.30000000000000004,0.08333333333333337,0.4,0.0,False,False,True,False,False,FP
+Austin P,austin.paquette@forcir.com,Casey Ocampo,30293414+caseyocampo@users.noreply.github.com,0.4,0.17142857142857137,0.36363636363636365,0.2857142857142857,True,False,False,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,dmytro-lymarenko,dmytro.lymarenko@gmail.com,0.24,0.06666666666666665,0.26086956521739135,0.0,True,False,False,False,False,FP
+Eugene C,e.chechurin@gmail.com,JonLuca De Caro,jonluca.decaro@gmail.com,0.34782608695652173,0.31999999999999995,0.15384615384615385,0.25,True,False,False,False,False,FP
+Daniel Rivers,me@danielrivers.com,Meril,me@mpsq.org,0.33333333333333337,1.0,0.36363636363636365,0.0,False,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,slimbde,slimbde@gmail.com,0.2857142857142857,0.33333333333333337,0.33333333333333337,0.0,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Thierry Charbonnel,thierryc@users.noreply.github.com,0.23076923076923073,0.08695652173913049,0.3076923076923077,0.0,True,False,False,False,False,FP
+John Leon,andresleoon@gmail.com,John Pham,johnphammail@gmail.com,0.5555555555555556,0.17391304347826086,1.0,0.0,False,True,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Sebastian Silbermann,sebastian.silbermann@klarna.com,0.2962962962962963,0.303030303030303,0.2857142857142857,0.18181818181818177,True,False,False,False,False,FP
+Curtis L,83509890+Sylith1231@users.noreply.github.com,Quentin,yovach.mail@gmail.com,0.4,0.1333333333333333,0.46153846153846156,0.0,True,False,False,False,False,FP
+Jazib Sawar,jazibsawar@gmail.com,Joris W,joris@jor.is,0.4444444444444444,0.4,0.4,0.33333333333333337,False,False,True,False,False,FP
+Adam Mcgrath,adamjmcgrath@gmail.com,Adam Zacharski,adam-zacharski@users.noreply.github.com,0.5384615384615384,0.46153846153846156,1.0,0.25,False,True,False,False,False,FP
+Austin P,austin.paquette@forcir.com,M Pacer,mpacer@users.noreply.github.com,0.2666666666666667,0.2857142857142857,0.0,0.33333333333333337,True,False,False,False,False,FP
+Keen Yee Liau,kyliau@google.com,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.2857142857142857,0.14814814814814814,0.0,0.2222222222222222,False,False,True,False,False,FP
+Casper,53900565+Dev-CasperTheGhost@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.1428571428571429,0.25,0.2857142857142857,0.0,False,False,False,True,False,FP
+Michael H,git@riskymh.dev,Nathan Hammond,github.com@nathanhammond.com,0.34782608695652173,0.46153846153846156,0.3076923076923077,0.25,True,False,False,False,False,FP
+Aniket Singh Rawat,31622972+dikwickley@users.noreply.github.com,D. Kasi Pavan Kumar,44864604+kasipavankumar@users.noreply.github.com,0.33333333333333337,0.23809523809523814,0.0,0.37037037037037035,False,False,False,True,False,FP
+Aditya K,adk96r@gmail.com,Fellipe Utaka,fellipeutaka@gmail.com,0.38095238095238093,0.2222222222222222,0.15384615384615385,0.33333333333333337,True,False,False,False,False,FP
+N├®stor,elnestinatorHD@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.1428571428571429,0.12121212121212122,0.16666666666666663,0.0,False,False,True,False,False,FP
+Pranav P,pranavkp.me@outlook.com,Sophia Willows,20146550+sophiabits@users.noreply.github.com,0.2727272727272727,0.1333333333333333,0.33333333333333337,0.0,True,False,False,False,False,FP
+Ryo H,49798519+ryo8000@users.noreply.github.com,Steven Luscher,steveluscher@users.noreply.github.com,0.21052631578947367,0.0714285714285714,0.0,0.25,True,False,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Necmettin Karakaya,necmettin.karakaya@gmail.com,0.31999999999999995,0.3571428571428571,0.19999999999999996,0.0,False,True,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Noel Kim (Û╣ÇÙ»╝Ýÿü),react-native@naver.com,0.16000000000000003,0.24,0.2222222222222222,0.0,True,False,False,False,False,FP
+Lin Qiu,theonlylinqiu@gmail.com,Yunfei He,i.heyunfei@gmail.com,0.25,0.4347826086956522,0.2222222222222222,0.0,False,False,True,False,False,FP
+Pepijn Senders,PepijnSenders@users.noreply.github.com,Pranav P,pranavkp.me@outlook.com,0.2727272727272727,0.25,0.33333333333333337,0.0,False,False,True,False,False,FP
+Noah Fischer,78238464+noahfschr@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.3529411764705882,0.23529411764705888,0.2857142857142857,0.25,False,False,True,False,False,FP
+Raymond Cheng,me@raymondcheng.net,Wesley Luyten,me@wesleyluyten.com,0.3076923076923077,1.0,0.15384615384615385,0.36363636363636365,False,False,False,False,False,FP
+Arseny Garelyshev,monstrag@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.33333333333333337,0.2222222222222222,0.36363636363636365,0.18181818181818177,False,False,True,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Yohei Tsubuku,stonehamjp@gmail.com,0.26086956521739135,0.06666666666666665,0.0,0.2666666666666667,False,True,False,False,False,FP
+Ondrej Maksi,ondrej.maksi@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.42105263157894735,0.12903225806451613,0.36363636363636365,0.33333333333333337,False,False,True,False,False,FP
+Artur Parkhisenko,arturparkhisenko@users.noreply.github.com,Sojin Park,raon0211@gmail.com,0.37037037037037035,0.25,0.0,0.5333333333333333,False,False,True,False,False,FP
+Michael H,git@riskymh.dev,Tom Dohnal,tomas.dohnal@gmail.com,0.42105263157894735,0.1333333333333333,0.19999999999999996,0.2857142857142857,True,False,False,False,False,FP
+Josh Goldberg,me@joshuakgoldberg.com,Mike Holloway,me@mikeholloway.co.uk,0.23076923076923073,1.0,0.0,0.25,False,False,False,False,False,FP
+Martijn Hols,github@martijnhols.nl,Matheus Fernandes,github@matheus.top,0.3448275862068966,1.0,0.4285714285714286,0.15384615384615385,False,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,Zoltan Kochan,zkochan@users.noreply.github.com,0.38095238095238093,0.15384615384615385,0.33333333333333337,0.2857142857142857,True,False,False,False,False,FP
+madiknox,59509185+madiknox@users.noreply.github.com,Xuezheng Ma,xuezhma@gmail.com,0.21052631578947367,0.16666666666666663,0.125,0.0,False,False,True,False,False,FP
+AlbertGao,albertgaohy@gmail.com,Richard B,1180955+rbrcsk@users.noreply.github.com,0.2222222222222222,0.16000000000000003,0.25,0.0,False,False,True,False,False,FP
+Mayank Jethva,m.jethva01@gmail.com,Thiago M,thiagotm@outlook.com,0.2857142857142857,0.33333333333333337,0.16666666666666663,0.0,False,False,True,False,False,FP
+Anders Kj├ªr Damgaard,akd@akd.io,Daniel K,FredyC@users.noreply.github.com,0.3448275862068966,0.2222222222222222,0.5,0.1333333333333333,False,False,True,False,False,FP
+Andrew Jiang,andrewjiang@hey.com,David D,comxd@users.noreply.github.com,0.3157894736842105,0.125,0.36363636363636365,0.0,False,False,True,False,False,FP
+HYUNSANG HAN,gustkd3@gmail.com,Jonathan Svenheden,jonathan@svenheden.com,0.4,0.1333333333333333,0.375,0.33333333333333337,True,False,False,False,False,FP
+Mat Mannion,mat.mannion@gmail.com,mattcass,matthewcasserly@gmail.com,0.42105263157894735,0.3076923076923077,0.5454545454545454,0.0,False,True,False,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,vercel-release-bot,infra+release@vercel.com,0.17391304347826086,0.1875,0.19047619047619047,0.0,True,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,Talha Zekeriya Durmu┼ƒ,drtzack@gmail.com,0.27586206896551724,0.16666666666666663,0.19999999999999996,0.11764705882352944,True,False,False,False,False,FP
+Fabien Le Frapper,contact@fabienlefrapper.me,Max Stoiber,contact@mxstbr.com,0.2857142857142857,1.0,0.2222222222222222,0.23529411764705888,False,False,False,False,False,FP
+James Howard,james@reetgood.co.uk,Jim Fisher,jameshfisher@gmail.com,0.4545454545454546,0.5882352941176471,0.5,0.33333333333333337,False,True,False,False,False,FP
+Aditya K,adk96r@gmail.com,Rostyslav Melnychuk,blackswordgc@gmail.com,0.37037037037037035,0.33333333333333337,0.4,0.19999999999999996,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Mateusz Burzy┼äski,mateuszburzynski@gmail.com,0.24,0.27586206896551724,0.16666666666666663,0.18181818181818177,True,False,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Volker Rose,volker.rose@gmail.com,0.34782608695652173,0.33333333333333337,0.375,0.0,True,False,False,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Sung Ye In,66503450+syi0808@users.noreply.github.com,0.33333333333333337,0.13793103448275867,0.4,0.18181818181818177,False,True,False,False,False,FP
+Raymond Cheng,me@raymondcheng.net,V┼® V─ân D┼®ng,me@joulev.dev,0.37037037037037035,1.0,0.0,0.2666666666666667,False,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,lid0a,70815650+lid0a@users.noreply.github.com,0.33333333333333337,0.10526315789473684,0.4,0.0,True,False,False,False,False,FP
+Matthew Lilley,hello@matthewlilley.com,Tejas Kumar,hello@tej.as,0.24,1.0,0.33333333333333337,0.0,False,False,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Marcin Lasak,lasakmarcin90@gmail.com,0.42105263157894735,0.21052631578947367,0.2857142857142857,0.4,False,True,False,False,False,FP
+Nguyen Hoang Phuc,nhphuc85@gmail.com,Pranav P,pranavkp.me@outlook.com,0.31999999999999995,0.21052631578947367,0.16666666666666663,0.18181818181818177,False,False,True,False,False,FP
+Adrian Li,li.adrianmc@gmail.com,Emiliano Garcia,60363956+EmilianoGarciaLopez@users.noreply.github.com,0.41666666666666663,0.3076923076923077,0.4285714285714286,0.25,True,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,Tyler Deitz,tylerdeitz@gmail.com,0.2222222222222222,0.1333333333333333,0.0,0.33333333333333337,True,False,False,False,False,FP
+Colin McDonnell,colinmcd94@gmail.com,David D,comxd@users.noreply.github.com,0.2727272727272727,0.5333333333333333,0.19999999999999996,0.19999999999999996,False,False,True,False,False,FP
+Lukas Prochazka,prochazka.lu@gmail.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.30000000000000004,0.1428571428571429,0.0,0.19999999999999996,False,False,True,False,False,FP
+Pierre de la Martini├¿re,pierre.de.la.martiniere@gmail.com,Pranav P,pranavkp.me@outlook.com,0.25,0.3529411764705882,0.33333333333333337,0.0,False,False,True,False,False,FP
+Ryo H,49798519+ryo8000@users.noreply.github.com,sfhardman,sfhardman@users.noreply.github.com,0.1428571428571429,0.07999999999999996,0.16666666666666663,0.0,True,False,False,False,False,FP
+Nikolay,kolyasapphire@users.noreply.github.com,yasmin p,yasmin.pessoa@vercel.com,0.1333333333333333,0.3846153846153846,0.15384615384615385,0.0,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Sacha,wyngaertsacha@gmail.com,0.15384615384615385,0.1428571428571429,0.18181818181818177,0.0,True,False,False,False,False,FP
+Jordan Baron,62375480+codedbyjordan@users.noreply.github.com,Jordan Newland,34895363+jenewland1999@users.noreply.github.com,0.6923076923076923,0.31818181818181823,1.0,0.33333333333333337,False,False,False,True,False,FP
+Karibash,y.karibayashi@gmail.com,Steven H,shne24@gmail.com,0.25,0.21052631578947367,0.1428571428571429,0.0,False,False,True,False,False,FP
+Greg Rickaby,gregrickaby@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.33333333333333337,0.4444444444444444,0.2857142857142857,0.25,False,False,True,False,False,FP
+Angelo P,angelo.m.poole@gmail.com,roottool,operation.versatile.roottool@gmail.com,0.125,0.38095238095238093,0.1428571428571429,0.0,True,False,False,False,False,FP
+Kavikumar M,50093149+thekavikumar@users.noreply.github.com,Mehul Kar,mehul.kar@vercel.com,0.30000000000000004,0.2666666666666667,0.1428571428571429,0.0,True,False,False,False,False,FP
+Don Alvarez,don@acceleratedpictures.com,Scott MacDonnell,scottsmacdonnell@gmail.com,0.2962962962962963,0.3157894736842105,0.25,0.23529411764705888,False,True,False,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Henrik,HaNdTriX@users.noreply.github.com,0.4285714285714286,0.15384615384615385,0.33333333333333337,0.0,True,False,False,False,False,FP
+Abdulhalim Kara,ahalimkara@gmail.com,Aditya K,adk96r@gmail.com,0.4347826086956522,0.375,0.375,0.4,False,False,True,False,False,FP
+Brian Gershon,briangershon@users.noreply.github.com,Steven H,shne24@gmail.com,0.2857142857142857,0.33333333333333337,0.18181818181818177,0.25,False,False,True,False,False,FP
+Genhao Li,62336349+GenhaoLi@users.noreply.github.com,Martin Beierling-Mutz,mbeierling@gmail.com,0.27586206896551724,0.14814814814814814,0.16666666666666663,0.2666666666666667,True,False,False,False,False,FP
+Rafo,53544360+rafae2k@users.noreply.github.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.36363636363636365,0.2857142857142857,0.4444444444444444,0.0,False,False,True,False,False,FP
+Jeongjin Oh,rojay.developer@gmail.com,Johann Pinson,johannpinson@users.noreply.github.com,0.5,0.2222222222222222,0.5714285714285714,0.25,True,False,False,False,False,FP
+Josh Goldberg,me@joshuakgoldberg.com,Ryan Halliday,me@ryanhalliday.com,0.23076923076923073,1.0,0.0,0.25,False,False,False,False,False,FP
+David Ascher,david.ascher@gmail.com,Steven H,shne24@gmail.com,0.30000000000000004,0.33333333333333337,0.18181818181818177,0.2857142857142857,False,False,True,False,False,FP
+aaronbrown-vercel,102940404+aaronbrown-vercel@users.noreply.github.com,C. Lewis,1657236+ctjlewis@users.noreply.github.com,0.17391304347826086,0.2325581395348837,0.11764705882352944,0.0,False,False,False,True,False,FP
+JuanM04,me@juanm04.com,Nghiß╗çp,me@nghiepit.dev,0.125,1.0,0.125,1.0,False,False,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Mehran Farahani,mehranmf31@gmail.com,0.4,0.1333333333333333,0.2857142857142857,0.375,False,True,False,False,False,FP
+Daniel Lutz,daniel-lutz@live.at,Daniel Paz,42693974+danielpaz6@users.noreply.github.com,0.7619047619047619,0.4666666666666667,1.0,0.2857142857142857,False,True,False,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,dominicfraser,mrdjfraser@gmail.com,0.2857142857142857,0.2142857142857143,0.3157894736842105,0.0,True,False,False,False,False,FP
+Jeremias Menichelli,jmenichelli@gmail.com,Michael H,git@riskymh.dev,0.4285714285714286,0.1428571428571429,0.4,0.18181818181818177,False,False,True,False,False,FP
+Dmitriy,dipiash@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.2857142857142857,0.19999999999999996,0.33333333333333337,0.0,False,False,True,False,False,FP
+Kavikumar M,50093149+thekavikumar@users.noreply.github.com,M. Zakiyuddin Munziri,belummikir@gmail.com,0.32258064516129037,0.25806451612903225,0.19999999999999996,0.10526315789473684,True,False,False,False,False,FP
+Choi Sumin,greatSumini@gmail.com,Choi Sumin,greatsumini@toss.im,1.0,0.9090909090909091,1.0,1.0,False,False,False,False,False,TP
+Ahmed Abdelbaset,A7med3bdulBaset@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.3529411764705882,0.13793103448275867,0.0,0.23076923076923073,False,False,False,True,False,FP
+Kim T,kimturley@gmail.com,PatrickCodes_,patrick@meetpatrick.dev,0.11764705882352944,0.25,0.1333333333333333,0.0,True,False,False,False,False,FP
+Choi Sumin,greatSumini@gmail.com,I am not shine,zhaoyao91@163.com,0.41666666666666663,0.09999999999999998,0.4,0.3529411764705882,False,False,False,True,False,FP
+Asher Foster,me@asherfoster.com,Kit Foster,katya.a.foster@gmail.com,0.6363636363636364,0.125,0.0,1.0,True,False,False,False,False,FP
+Michael H,git@riskymh.dev,Sophie Alpert,git@sophiebits.com,0.2727272727272727,1.0,0.3076923076923077,0.0,False,False,False,False,False,FP
+Iain Collins,me@iaincollins.com,Mohsen Azimi,me@azimi.me,0.25,1.0,0.19999999999999996,0.16666666666666663,False,False,False,False,False,FP
+Martin Alix,github@malix.com,Ryan LaBarre,github@rylab.com,0.34782608695652173,1.0,0.4,0.18181818181818177,False,False,False,False,False,FP
+Eugene C,e.chechurin@gmail.com,Isaac Ellmen,isaacellmen@gmail.com,0.30000000000000004,0.2727272727272727,0.0,0.0,True,False,False,False,False,FP
+Kim T,kimturley@gmail.com,Nemanja Kostadinovic,90257730+KkOoSsTtAa@users.noreply.github.com,0.24,0.1428571428571429,0.19999999999999996,0.15384615384615385,True,False,False,False,False,FP
+Liam Laverty,liamlaverty@gmail.com,Willi#m Ô¼ú,william@vercel.com,0.33333333333333337,0.4444444444444444,0.6,0.0,False,True,False,False,False,FP
+Iago Bruno,httpiago@gmail.com,Pranav P,pranavkp.me@outlook.com,0.2222222222222222,0.21052631578947367,0.19999999999999996,0.0,False,False,True,False,False,FP
+Jasper Moelker,jasper@voorhoede.nl,Roman A,121314722+GameRoMan@users.noreply.github.com,0.19047619047619047,0.16000000000000003,0.18181818181818177,0.0,False,False,True,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Sacha,wyngaertsacha@gmail.com,0.16666666666666663,0.26086956521739135,0.33333333333333337,0.0,False,True,False,False,False,FP
+Eugene C,e.chechurin@gmail.com,Genet Schneider,genet.schneider@pipedrive.com,0.5217391304347826,0.46153846153846156,0.7272727272727273,0.19999999999999996,True,False,False,False,False,FP
+Kasper Peulen,kasperpeulen@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.19999999999999996,0.19354838709677424,0.18181818181818177,0.0,False,False,True,False,False,FP
+abdallah akrab,37980706+akrabdev@users.noreply.github.com,Aditya K,adk96r@gmail.com,0.4545454545454546,0.26086956521739135,0.4285714285714286,0.33333333333333337,False,False,True,False,False,FP
+Guilherme de Andrade,guilhermedeandrade@protonmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.37037037037037035,0.21621621621621623,0.2857142857142857,0.18181818181818177,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,Chaitanya Reddy K,chaitanyareddy.kothapeta@gmail.com,0.56,0.19999999999999996,0.6666666666666667,0.25,True,False,False,False,False,FP
+Nikhil Bhargava,993682+nbhargava@users.noreply.github.com,Ramin B,i8ramin@gmail.com,0.2727272727272727,0.26086956521739135,0.18181818181818177,0.2222222222222222,False,False,True,False,False,FP
+Duncan L,leungd@gmail.com,Scott MacDonnell,scottsmacdonnell@gmail.com,0.33333333333333337,0.09090909090909094,0.18181818181818177,0.18181818181818177,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,none23,n.anisimov.23@gmail.com,0.4,0.18181818181818177,0.0,0.0,False,True,False,False,False,FP
+Anas,anas.ahamad955@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.18181818181818177,0.2857142857142857,0.4,0.0,False,False,False,True,False,FP
+Choi Sumin,greatSumini@gmail.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.11111111111111116,0.07692307692307687,0.0,0.0,False,False,True,False,False,FP
+Niklas Arens,niklas.arens.23@gmail.com,S. Suzuki,terrierscript@gmail.com,0.30000000000000004,0.2142857142857143,0.2857142857142857,0.18181818181818177,False,False,False,True,False,FP
+Italo A,italoaurelior@gmail.com,Nyasha (Nash) Nziramasanga,47994666+NyashaNziramasanga@users.noreply.github.com,0.19354838709677424,0.19999999999999996,0.18181818181818177,0.11111111111111116,True,False,False,False,False,FP
+Shihabudheen US,shihabuudheen@gmail.com,Steven H,shne24@gmail.com,0.4347826086956522,0.3157894736842105,0.4444444444444444,0.0,False,False,True,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.23529411764705888,0.14814814814814814,0.15384615384615385,0.0,False,False,True,False,False,FP
+Artur Muller,me@arturmuller.com,David Darnes,me@daviddarnes.com,0.25,1.0,0.19999999999999996,0.16666666666666663,False,False,False,False,False,FP
+Duncan L,leungd@gmail.com,Samuel,86006376+samueldusek@users.noreply.github.com,0.2857142857142857,0.15384615384615385,0.16666666666666663,0.0,True,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,Michal Landsman,landsman@insuit.cz,0.2727272727272727,0.15384615384615385,0.18181818181818177,0.2222222222222222,True,False,False,False,False,FP
+Emerson Laurentino,emerson@laurentino.co,S M Mahmudul Hasan,thegeek@iamlizu.com,0.2777777777777778,0.2857142857142857,0.25,0.23076923076923073,False,False,False,True,False,FP
+Thomas Hermann,novascreen@gmail.com,Thomas Jaggi,thomas.jaggi@gmail.com,0.6153846153846154,0.2727272727272727,1.0,0.16666666666666663,False,True,False,False,False,FP
+Leyan Lo,leyanlo@gmail.com,not,dev.mellow@gmail.com,0.36363636363636365,0.3529411764705882,0.25,0.0,True,False,False,False,False,FP
+Akhila Ariyachandra,akhila_ariyachandra@live.com,Curtis L,83509890+Sylith1231@users.noreply.github.com,0.14814814814814814,0.1578947368421053,0.16666666666666663,0.0,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,kentobento,kentobento@users.noreply.github.com,0.33333333333333337,0.24,0.25,0.0,True,False,False,False,False,FP
+Jared Palmer,jared@palmer.net,Roman A,121314722+GameRoMan@users.noreply.github.com,0.3157894736842105,0.16666666666666663,0.19999999999999996,0.2857142857142857,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,Florian Boeck,florian_boeck@hotmail.de,0.38095238095238093,0.21052631578947367,0.3076923076923077,0.33333333333333337,True,False,False,False,False,FP
+Juan Mart├¡n Seery,me@juanm04.com,Sami Jaber,me@sami.website,0.3571428571428571,1.0,0.25,0.33333333333333337,False,False,False,False,False,FP
+RyotArch,r.yamamoto.system@gmail.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.15384615384615385,0.16666666666666663,0.0,0.0,False,False,False,True,False,FP
+Pranav P,pranavkp.me@outlook.com,Tobi,tobipoel@gmail.com,0.0,0.21052631578947367,0.0,0.0,True,False,False,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Saurabh,57309205+saurabhmehta1601@users.noreply.github.com,0.2666666666666667,0.1578947368421053,0.25,0.0,False,True,False,False,False,FP
+Arya Sadeghi,aryasadeghy@gmail.com,Steven H,shne24@gmail.com,0.30000000000000004,0.23529411764705888,0.0,0.25,False,False,True,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Maria Vanessa Salim,91240371+sqidermad@users.noreply.github.com,0.2962962962962963,0.33333333333333337,0.36363636363636365,0.0,True,False,False,False,False,FP
+Kushagra S,kushagra.rigel@gmail.com,Pavithra Kodmad,pksjce@gmail.com,0.31999999999999995,0.30000000000000004,0.375,0.0,True,False,False,False,False,FP
+Rodrigo,tomecafeconrodrigo@live.com,Tom Occhino,tomocchino@gmail.com,0.33333333333333337,0.5,0.19999999999999996,0.0,False,False,False,True,False,FP
+Duncan L,leungd@gmail.com,Mathis Chenuet,artdevelopp@hotmail.fr,0.18181818181818177,0.11764705882352944,0.16666666666666663,0.0,True,False,False,False,False,FP
+Abhishek Ghimire,149231513+cypherab01@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.19047619047619047,0.38888888888888884,0.0,0.25,False,False,True,False,False,FP
+Maedah Batool,me@MaedahBatool.com,Weston Thayer,me@westonthayer.com,0.23076923076923073,1.0,0.16666666666666663,0.16666666666666663,False,False,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Mati Tucci,matiastucci@gmail.com,0.3529411764705882,0.38095238095238093,0.0,0.4,False,True,False,False,False,FP
+Ayd─▒n Akan,aydinkn@users.noreply.github.com,D. Kasi Pavan Kumar,44864604+kasipavankumar@users.noreply.github.com,0.3448275862068966,0.2666666666666667,0.2857142857142857,0.30000000000000004,False,False,False,True,False,FP
+Jason Aslakson,jason.aslakson@americastestkitchen.com,xuchaobei,jasonxu.zju@gmail.com,0.17391304347826086,0.48,0.2857142857142857,0.0,False,True,False,False,False,FP
+Jan Czizikow,jan.czizikow@gmail.com,Jan Kaifer,jan@kaifer.cz,0.4545454545454546,0.4,1.0,0.1428571428571429,False,False,False,True,False,FP
+Oliver Lassen,TryingToImprove@users.noreply.github.com,Pranav P,pranavkp.me@outlook.com,0.2857142857142857,0.3076923076923077,0.16666666666666663,0.0,False,False,True,False,False,FP
+Felipe Chicaiza,112721235+FelipeChicaiza@users.noreply.github.com,Pranav P,pranavkp.me@outlook.com,0.26086956521739135,0.17142857142857137,0.16666666666666663,0.0,False,False,True,False,False,FP
+Alex Kirszenberg,alex.kirszenberg@vercel.com,Alexey Boklin,alex.boklin@gmail.com,0.5517241379310345,0.5925925925925926,0.8,0.3529411764705882,False,True,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Chris Wheatley,chrisdwheatley@users.noreply.github.com,0.38095238095238093,0.30000000000000004,0.33333333333333337,0.3076923076923077,False,True,False,False,False,FP
+Joe Palmieri,joe.palmieri@hingehealth.com,Phattarapol L,63938605+PhattOZ@users.noreply.github.com,0.24,0.0714285714285714,0.1428571428571429,0.2222222222222222,False,False,True,False,False,FP
+Chris Cunniff,ccunniff@gmail.com,Chris,thisguychris@users.noreply.github.com,0.5555555555555556,0.19999999999999996,1.0,0.0,False,True,False,False,False,TP
+C. Lewis,1657236+ctjlewis@users.noreply.github.com,Jaril,jarilvalenciano@gmail.com,0.16666666666666663,0.25806451612903225,0.0,0.0,False,True,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Colin,colin@airplane.dev,0.5,0.36363636363636365,0.33333333333333337,0.0,False,True,False,False,False,FP
+Tom MacWright,tmcw@users.noreply.github.com,Tom Moses,tom@tmoses.uk,0.4545454545454546,0.5714285714285714,1.0,0.1428571428571429,False,True,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Travis Arnold,ftntravis@gmail.com,0.37037037037037035,0.11111111111111116,0.2857142857142857,0.33333333333333337,False,True,False,False,False,FP
+Alexander Cai,alexandercai@outlook.com,David D,comxd@users.noreply.github.com,0.30000000000000004,0.23529411764705888,0.2857142857142857,0.0,False,False,True,False,False,FP
+Angel P.,anticrebel@gmail.com,pacexy,pacexy@gmail.com,0.3076923076923077,0.375,0.36363636363636365,0.0,True,False,False,False,False,FP
+C. Lewis,1657236+ctjlewis@users.noreply.github.com,Manu Schiller,56154253+manuschillerdev@users.noreply.github.com,0.30000000000000004,0.4,0.0,0.3076923076923077,False,True,False,False,False,FP
+Mark Steggles,marksteggles@gmail.com,Mike K,goodbadugly30@gmail.com,0.3157894736842105,0.24,0.5,0.0,False,False,True,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Tyll Wei├ƒ,inkdpixels@googlemail.com,0.2222222222222222,0.26086956521739135,0.0,0.18181818181818177,False,True,False,False,False,FP
+Ivan V,390700+ivandotv@users.noreply.github.com,Robert Valmassoi,valmassoi@protonmail.com,0.18181818181818177,0.25,0.0,0.19999999999999996,True,False,False,False,False,FP
+Jophy Ye,44258870+jophy-ye@users.noreply.github.com,Tonye Jack,jtonye@ymail.com,0.33333333333333337,0.34782608695652173,0.4,0.0,True,False,False,False,False,FP
+Martin ┼á┼Ñov├¡─ìek,14262802+stovmascript@users.noreply.github.com,Pranav P,pranavkp.me@outlook.com,0.2962962962962963,0.125,0.33333333333333337,0.0,False,False,True,False,False,FP
+Camille Barneaud,1693643+gadcam@users.noreply.github.com,David D,comxd@users.noreply.github.com,0.34782608695652173,0.21052631578947367,0.33333333333333337,0.2222222222222222,False,False,True,False,False,FP
+Arunoda Susiripala,arunoda.susiripala@gmail.com,Pranav P,pranavkp.me@outlook.com,0.3846153846153846,0.27586206896551724,0.46153846153846156,0.18181818181818177,False,False,True,False,False,FP
+David Sa,davidsa03@gmail.com,Faris Abusada,abusada@users.noreply.github.com,0.47619047619047616,0.375,0.4,0.4444444444444444,True,False,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Tim,tim.hanssen@prepr.io,0.15384615384615385,0.12903225806451613,0.5,0.0,False,True,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Isaac Ellmen,isaacellmen@gmail.com,0.42105263157894735,0.23529411764705888,0.33333333333333337,0.36363636363636365,False,True,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Obed Marquez Parlapiano,obed.marquezp@gmail.com,0.303030303030303,0.18181818181818177,0.0,0.3076923076923077,False,True,False,False,False,FP
+Andrew Hollenbach,hollenbach.andrew@gmail.com,Duncan L,leungd@gmail.com,0.31999999999999995,0.34782608695652173,0.33333333333333337,0.18181818181818177,False,False,True,False,False,FP
+Tommaso De Rossi,beats.by.morse@gmail.com,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.25,0.17142857142857137,0.15384615384615385,0.0,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,Rodrigo,tomecafeconrodrigo@live.com,0.2857142857142857,0.3870967741935484,0.33333333333333337,0.0,True,False,False,False,False,FP
+Tom Lienard,tom.lienrd@gmail.com,Tom├í┼í Hapl,tomas.hapl@gmail.com,0.4347826086956522,0.5,0.6,0.18181818181818177,False,True,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Christopher Lee,lee.christophermark@gmail.com,0.36363636363636365,0.16000000000000003,0.16666666666666663,0.5,False,True,False,False,False,FP
+Mike K,goodbadugly30@gmail.com,Piotr Tomasik,tomasikp@gmail.com,0.3157894736842105,0.19047619047619047,0.2222222222222222,0.25,True,False,False,False,False,FP
+Faris Abusada,abusada@users.noreply.github.com,Shihabudheen US,shihabuudheen@gmail.com,0.3571428571428571,0.4,0.11764705882352944,0.4444444444444444,False,False,True,False,False,FP
+Andr├®,andre.m.varandas@gmail.com,Sreetam Das,sreetamdas@gmail.com,0.23529411764705888,0.46153846153846156,0.15384615384615385,0.0,False,False,True,False,False,FP
+Julio Carlos Menendez,hello@juliomenendez.com,Kyle McDonald,hello@kylemcd.com,0.3529411764705882,1.0,0.2222222222222222,0.34782608695652173,False,False,False,False,False,FP
+Austin P,austin.paquette@forcir.com,Peter McAree,peter.mcaree@slicelife.com,0.19999999999999996,0.37037037037037035,0.18181818181818177,0.0,True,False,False,False,False,FP
+Horacio Valencia,horacio@horaciovalencia.com,Italo A,italoaurelior@gmail.com,0.34782608695652173,0.4,0.33333333333333337,0.2222222222222222,False,False,True,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Trevor Sayre,sayret@gmail.com,0.42105263157894735,0.16000000000000003,0.36363636363636365,0.33333333333333337,True,False,False,False,False,FP
+Khoi Le,31632421+nguyenkhois@users.noreply.github.com,Leo Gaskin,34915973+leotaku@users.noreply.github.com,0.23529411764705888,0.33333333333333337,0.2857142857142857,0.0,True,False,False,False,False,FP
+JuanM04,me@juanm04.com,Simon Taggart,me@simontaggart.com,0.09999999999999998,1.0,0.16666666666666663,0.0,False,False,False,False,False,FP
+Jon R,jonathan.roesner@yahoo.com,Sjors Smits,smits.sjors@gmail.com,0.375,0.2962962962962963,0.5,0.0,True,False,False,False,False,FP
+David Sally,davidcsally@gmail.com,David Stotijn,dstotijn@gmail.com,0.5833333333333333,0.21052631578947367,1.0,0.16666666666666663,False,False,False,True,False,FP
+Angelo P,angelo.m.poole@gmail.com,Jan Potoms,2109932+Janpot@users.noreply.github.com,0.4444444444444444,0.2857142857142857,0.4444444444444444,0.2857142857142857,True,False,False,False,False,FP
+Dan Argue,dargue3@users.noreply.github.com,Daniel Cavanagh,danielcavanagh85@gmail.com,0.5,0.26086956521739135,0.6666666666666667,0.3076923076923077,False,True,False,False,False,FP
+Marc Abramowitz,marc@marc-abramowitz.com,Mihai C,34626017+mihaic195@users.noreply.github.com,0.2727272727272727,0.2727272727272727,0.4444444444444444,0.0,False,False,True,False,False,FP
+David D,comxd@users.noreply.github.com,Luke Shumard,lukeshumard@gmail.com,0.21052631578947367,0.25,0.0,0.25,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Sagi,saginadir@gmail.com,0.2222222222222222,0.2222222222222222,0.4,0.0,False,True,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Matteo Mazzarolo,mazzarolomatteo@gmail.com,0.3076923076923077,0.22857142857142854,0.2857142857142857,0.23529411764705888,False,True,False,False,False,FP
+Anders D. Johnson,anders.d.johnson.dev@gmail.com,David D,comxd@users.noreply.github.com,0.34782608695652173,0.16000000000000003,0.36363636363636365,0.19999999999999996,False,False,True,False,False,FP
+Justin Philpott,8027086+justinphilpott@users.noreply.github.com,Justin Sanford,justin.h.sanford@gmail.com,0.5517241379310345,0.42105263157894735,1.0,0.1333333333333333,False,False,False,True,False,FP
+Dante,91801758+dante-robinson@users.noreply.github.com,Robin Tom,31811117+robintom@users.noreply.github.com,0.2857142857142857,0.55,0.19999999999999996,0.0,False,False,False,True,False,FP
+Aki Matsumoto,45055030+nonoakij@users.noreply.github.com,Kento Moriwaki,kentomoriwaki@gmail.com,0.2962962962962963,0.4,0.25,0.23529411764705888,False,True,False,False,False,FP
+Jean Lucas,jeanlucas@ymail.com,S. Suzuki,terrierscript@gmail.com,0.2222222222222222,0.18181818181818177,0.0,0.18181818181818177,False,False,False,True,False,FP
+Markus Maerzhase,maerzhase@users.noreply.github.com,Michael H,git@riskymh.dev,0.31999999999999995,0.0,0.3076923076923077,0.19999999999999996,False,False,True,False,False,FP
+Bryan Smith,bryanrsmith@gmail.com,Ryan Nauman,ryan-nauman@users.noreply.github.com,0.5454545454545454,0.4545454545454546,0.8888888888888888,0.18181818181818177,False,False,False,True,False,FP
+michaltarasiuk,69385846+michaltarasiuk@users.noreply.github.com,Milan K,57148574+mkcy3@users.noreply.github.com,0.47619047619047616,0.32432432432432434,0.42105263157894735,0.0,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,Laityned,31617227+Laityned@users.noreply.github.com,0.2666666666666667,0.19999999999999996,0.3076923076923077,0.0,True,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,furkan mavili,furkanmavili@outlook.com,0.19047619047619047,0.11111111111111116,0.16666666666666663,0.0,True,False,False,False,False,FP
+Richard B,1180955+rbrcsk@users.noreply.github.com,Vercel Release Bot,88769842+vercel-release-bot@users.noreply.github.com,0.37037037037037035,0.29268292682926833,0.3076923076923077,0.16666666666666663,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Natalie Marleny,31798108+nataliemarleny@users.noreply.github.com,0.27586206896551724,0.125,0.25,0.21052631578947367,False,True,False,False,False,FP
+David Ascher,david.ascher@gmail.com,Davidson Nascimento,davidsonsns@gmail.com,0.6451612903225806,0.5217391304347826,0.7692307692307692,0.5,False,True,False,False,False,FP
+Michael Angelo Rivera,55844504+michaelangeloio@users.noreply.github.com,Michael Peters,michael@michaelpeterswa.com,0.6285714285714286,0.4516129032258065,1.0,0.3157894736842105,False,True,False,False,False,FP
+Nishan,nishanbende@gmail.com,Steven H,shne24@gmail.com,0.2857142857142857,0.47058823529411764,0.33333333333333337,0.0,False,False,True,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Federico Manuel Peralta,peralta.federico.manuel@gmail.com,0.2666666666666667,0.24242424242424243,0.2222222222222222,0.21052631578947367,False,True,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,Steven Sinatra,5153378+diagramatics@users.noreply.github.com,0.25,0.25,0.0,0.2666666666666667,False,True,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Scott Kirkland,srkirkland@gmail.com,0.3076923076923077,0.11764705882352944,0.2666666666666667,0.2222222222222222,True,False,False,False,False,FP
+Timothy,1695613+timothyis@users.noreply.github.com,Timothy,CodeTheory@users.noreply.github.com,1.0,0.2222222222222222,1.0,1.0,False,False,False,False,False,FP
+Philipp Bosch,hello@pb.io,Tom Evans,hello@tomevans.io,0.18181818181818177,1.0,0.0,0.19999999999999996,False,False,False,False,False,FP
+DevSide,thomas.triau@gmail.com,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.11764705882352944,0.1875,0.0,0.0,False,False,False,True,False,FP
+Julio Carlos Menendez,hello@juliomenendez.com,Sergio Xalambr├¡,hello@sergiodxa.com,0.32432432432432434,1.0,0.36363636363636365,0.25,False,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Sandeep Mani Kumar Kushwaha,sandeepmani2312@gmail.com,0.29268292682926833,0.25,0.0,0.32258064516129037,False,True,False,False,False,FP
+Dev Agrawal,devagrawal09@gmail.com,Jeongjin Oh,rojay.developer@gmail.com,0.18181818181818177,0.2962962962962963,0.18181818181818177,0.0,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,Joe Lutz,dizlexik@gmail.com,0.1333333333333333,0.15384615384615385,0.0,0.0,True,False,False,False,False,FP
+Edward Brey,edward@breyfamily.net,Roman A,121314722+GameRoMan@users.noreply.github.com,0.2222222222222222,0.16000000000000003,0.18181818181818177,0.0,False,False,True,False,False,FP
+Michal Landsman,landsman@insuit.cz,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.36363636363636365,0.2727272727272727,0.0,0.41666666666666663,False,False,False,True,False,FP
+Ali Tas,muhoweb@gmail.com,Olivier Tassinari,olivier.tassinari@gmail.com,0.5,0.16666666666666663,0.4,0.5,True,False,False,False,False,FP
+David Sally,davidcsally@gmail.com,David Street,street.davide@gmail.com,0.6086956521739131,0.41666666666666663,1.0,0.18181818181818177,False,True,False,True,False,FP
+Kushagra S,kushagra.rigel@gmail.com,O─ƒuzcan K├Âse,oguzcan.kose@hotmail.com,0.33333333333333337,0.3076923076923077,0.25,0.33333333333333337,True,False,False,False,False,FP
+Luke Plaster,me@lukep.org,Meril,me@mpsq.org,0.23529411764705888,1.0,0.2222222222222222,0.0,False,False,False,False,False,FP
+Emilien Kenler,hello@emilienkenler.com,Robert van Steen,hello@rovansteen.nl,0.33333333333333337,1.0,0.15384615384615385,0.2666666666666667,False,False,False,False,False,FP
+Jerome Fitzgerald,jeromes@gmail.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.22857142857142854,0.2857142857142857,0.0,0.15384615384615385,False,False,False,True,False,FP
+Mati Tucci,matiastucci@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.3571428571428571,0.31999999999999995,0.0,0.09523809523809523,False,False,False,True,False,FP
+Long Ho,longlho@users.noreply.github.com,Talasan Nicholson,talasan.nicholson@gmail.com,0.41666666666666663,0.33333333333333337,0.36363636363636365,0.36363636363636365,True,False,False,False,False,FP
+Crazy Urus,crazyurus@qq.com,Seiry Yu,4397354+seiry@users.noreply.github.com,0.4444444444444444,0.18181818181818177,0.4,0.33333333333333337,False,False,True,False,False,FP
+Aryan Malik,88618913+Aryan9592@users.noreply.github.com,SaintMalik,37118134+saintmalik@users.noreply.github.com,0.6666666666666667,0.3783783783783784,0.2666666666666667,0.0,True,False,False,False,False,FP
+gsmt,samaritanojr006@gmail.com,Sam Royal,samroyal@live.com,0.3076923076923077,0.4347826086956522,0.5714285714285714,0.0,False,False,False,True,False,FP
+Brian Shanley,5247913+brianshano@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.19047619047619047,0.19354838709677424,0.0,0.15384615384615385,False,False,False,True,False,FP
+David Sa,davidsa03@gmail.com,Karl Sander,karlsander@gmail.com,0.42105263157894735,0.3157894736842105,0.2222222222222222,0.5,True,False,False,False,False,FP
+Milan K,57148574+mkcy3@users.noreply.github.com,Tim Neutkens,timneutkens@me.com,0.3157894736842105,0.16000000000000003,0.25,0.2222222222222222,True,False,False,False,False,FP
+Crazy Urus,crazyurus@qq.com,S. Suzuki,terrierscript@gmail.com,0.33333333333333337,0.2727272727272727,0.0,0.4,False,False,False,True,False,FP
+Mingjie Jiang,13333578+itsmingjie@users.noreply.github.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.25806451612903225,0.23076923076923073,0.0,0.19047619047619047,False,False,False,True,False,FP
+Manu L├│pez,manulpz41@gmail.com,Manu Schiller,56154253+manuschillerdev@users.noreply.github.com,0.5833333333333333,0.303030303030303,1.0,0.2857142857142857,False,True,False,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Jordan Pittman,jordan@cryptica.me,0.36363636363636365,0.25,0.5,0.0,True,False,False,False,False,FP
+Brent Clark,brentmclark@gmail.com,C. Lewis,ctjl96@gmail.com,0.2222222222222222,0.23529411764705888,0.0,0.19999999999999996,False,False,False,True,False,FP
+Andrii Hrynenko,pathliving@gmail.com,Genhao Li,62336349+GenhaoLi@users.noreply.github.com,0.25,0.14814814814814814,0.16666666666666663,0.0,False,False,True,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Devin Ekadeni,devinekadeni@gmail.com,0.38095238095238093,0.2222222222222222,0.36363636363636365,0.25,True,False,False,False,False,FP
+MikevPeeren,mikevpeeren@hotmail.com,Pranav P,pranavkp.me@outlook.com,0.3157894736842105,0.2727272727272727,0.3529411764705882,0.0,False,False,True,False,False,FP
+Baffin Lee,baffinlee@gmail.com,Italo A,italoaurelior@gmail.com,0.23529411764705888,0.2727272727272727,0.18181818181818177,0.0,False,False,True,False,False,FP
+C. Lewis,ctjl96@gmail.com,michaltarasiuk,69385846+michaltarasiuk@users.noreply.github.com,0.2857142857142857,0.13793103448275867,0.1333333333333333,0.0,False,True,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,NikhilNama18,nikhilnama1111@gmail.com,0.16666666666666663,0.09523809523809523,0.18181818181818177,0.0,True,False,False,False,False,FP
+Insik-Han,gksdudrms0@icloud.com,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.3529411764705882,0.07692307692307687,0.4,0.0,False,False,True,False,False,FP
+Kushagra Sharma,162145291+IAmKushagraSharma@users.noreply.github.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.36363636363636365,0.11764705882352944,0.2222222222222222,0.2727272727272727,False,False,False,True,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,estrada9166,estrada9166@hotmail.com,0.3157894736842105,0.15384615384615385,0.23529411764705888,0.0,True,False,False,False,False,FP
+Alex Indigo,iam@alexindigo.com,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.19047619047619047,0.08695652173913049,0.0,0.1428571428571429,False,False,False,True,False,FP
+Ismael,ismael@vercel.com,Italo A,italoaurelior@gmail.com,0.46153846153846156,0.42105263157894735,0.5454545454545454,0.0,False,False,True,False,False,FP
+Josh Hawkins,hawkins@users.noreply.github.com,Josh Slate,josh.a.slate@gmail.com,0.5454545454545454,0.3157894736842105,1.0,0.16666666666666663,False,True,False,False,False,FP
+Dev Agrawal,dev@clerk.dev,Mathis Chenuet,artdevelopp@hotmail.fr,0.07999999999999996,0.4285714285714286,0.0,0.0,False,True,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Sergio Daniel Xalambr├¡,sergiodxa@gmail.com,0.33333333333333337,0.2727272727272727,0.36363636363636365,0.11764705882352944,True,False,False,False,False,FP
+Emerson Laurentino,emerson@laurentino.co,S. Suzuki,terrierscript@gmail.com,0.3076923076923077,0.4,0.25,0.25,False,False,False,True,False,FP
+Corbin Crutchley,git@crutchcorn.dev,Josh Goldberg Ô£¿,git@joshuakgoldberg.com,0.24242424242424243,1.0,0.19999999999999996,0.19047619047619047,False,False,False,False,False,FP
+Kim T,kimturley@gmail.com,Sajad Torkamani,sajadtorkamani1@gmail.com,0.19999999999999996,0.16666666666666663,0.0,0.19999999999999996,True,False,False,False,False,FP
+Akindolie Oluwatayo,akindolietayo@gmail.com,I am not shine,zhaoyao91@163.com,0.303030303030303,0.36363636363636365,0.19999999999999996,0.19047619047619047,False,False,False,True,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Mitheel,81575947+mitheelgajare@users.noreply.github.com,0.2666666666666667,0.2702702702702703,0.3076923076923077,0.0,True,False,False,False,False,FP
+Mohamed Achaq,contact@achaq.codes,Th├®o LUDWIG,contact@theoludwig.fr,0.16000000000000003,1.0,0.16666666666666663,0.0,False,False,False,False,False,FP
+Alex,alexanderknipfer@gmail.com,Alexander Lichter,github@lichter.io,0.38095238095238093,0.09090909090909094,0.6153846153846154,0.0,False,False,False,True,False,FP
+Mohamed Achaq,contact@achaq.codes,mohamed bel haj youssef,37510232+mohamedbhy@users.noreply.github.com,0.5555555555555556,0.15384615384615385,1.0,0.19999999999999996,False,True,False,False,False,FP
+Ben Read,endymion1818@gmail.com,romeobravo,rubenbuitelaar@gmail.com,0.33333333333333337,0.23076923076923073,0.15384615384615385,0.0,False,True,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Nick Oates,nick@nickoates.com,0.2727272727272727,0.18181818181818177,0.1428571428571429,0.0,True,False,False,False,False,FP
+Ivan V,390700+ivandotv@users.noreply.github.com,Tibor Vukovic,tiborvukovic91@gmail.com,0.3157894736842105,0.27586206896551724,0.2222222222222222,0.25,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,T,taras.evt@gmail.com,0.2222222222222222,0.08333333333333337,0.0,0.0,True,False,False,False,False,FP
+Nicolas Charpentier,nicolas.charpentier079@gmail.com,Pranav P,pranavkp.me@outlook.com,0.2962962962962963,0.24242424242424243,0.3076923076923077,0.16666666666666663,False,False,True,False,False,FP
+Sophie Alpert,git@sophiebits.com,Stef,git@sril.email,0.23529411764705888,1.0,0.4,0.0,False,False,False,False,False,FP
+Hugo Morosini,hugo.morosini@gmail.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.32258064516129037,0.19999999999999996,0.0,0.25,False,False,False,True,False,FP
+Kavikumar M,50093149+thekavikumar@users.noreply.github.com,Mark,mark.m.haslam@gmail.com,0.4,0.23529411764705888,0.46153846153846156,0.0,True,False,False,False,False,FP
+Joost De Cock,joost@joost.at,Joost Jansky,styxlab@users.noreply.github.com,0.56,0.33333333333333337,1.0,0.15384615384615385,False,False,False,True,False,FP
+Aryan Beezadhur,34424160+AryanBeezadhur@users.noreply.github.com,Ethan Ryan,ethanryan@gmail.com,0.4,0.25,0.4,0.15384615384615385,False,False,True,False,False,FP
+Poul Poulsen,hello@poul.dev,Robin Wieruch,hello@rwieruch.com,0.24,1.0,0.2222222222222222,0.1428571428571429,False,False,False,False,False,FP
+Milan K,57148574+mkcy3@users.noreply.github.com,Thomas Knickman,tom.knickman@vercel.com,0.36363636363636365,0.23076923076923073,0.36363636363636365,0.2222222222222222,True,False,False,False,False,FP
+James Reggio,james.reggio@gmail.com,James Russo,jdr289@cornell.edu,0.6956521739130435,0.2222222222222222,1.0,0.36363636363636365,False,False,False,True,False,FP
+S. Suzuki,terrierscript@gmail.com,Tom Dohnal,tomas.dohnal@gmail.com,0.11111111111111116,0.16000000000000003,0.0,0.0,False,True,False,False,False,FP
+Robbert Stevens,robbertstevens@gmail.com,Steven Eubank,47563310+smeubank@users.noreply.github.com,0.4285714285714286,0.19354838709677424,0.15384615384615385,0.3076923076923077,False,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,Tudor Comparan,tudor.comparan@gmail.com,0.19047619047619047,0.3157894736842105,0.19999999999999996,0.0,True,False,False,False,False,FP
+Emiliano Garcia,60363956+EmilianoGarciaLopez@users.noreply.github.com,M Pacer,mpacer@users.noreply.github.com,0.36363636363636365,0.23529411764705888,0.2222222222222222,0.36363636363636365,False,False,False,True,False,FP
+Aditya K,adk96r@gmail.com,Andy Kenward,4893048+andykenward@users.noreply.github.com,0.5,0.31999999999999995,0.6,0.25,True,False,False,False,False,FP
+Milan K,57148574+mkcy3@users.noreply.github.com,Remek Ambroziak,remek.ambroziak@gmail.com,0.36363636363636365,0.13793103448275867,0.19999999999999996,0.19999999999999996,True,False,False,False,False,FP
+Buns Enchantress,68980965+BunsDev@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.25,0.06896551724137934,0.4,0.11764705882352944,False,False,False,True,False,FP
+Aditya K,adk96r@gmail.com,Sacha Stafyniak,sacha.stafyniak@gmail.com,0.4347826086956522,0.19047619047619047,0.36363636363636365,0.19999999999999996,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Freddy Montes,freddymontes@gmail.com,0.38095238095238093,0.07407407407407407,0.33333333333333337,0.2857142857142857,True,False,False,False,False,FP
+David Fateh,davidfateh@users.noreply.github.com,David Vaness,d.vaness@protonmail.com,0.6956521739130435,0.4444444444444444,1.0,0.36363636363636365,False,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,Richard Littauer,richard.littauer@gmail.com,0.26086956521739135,0.19047619047619047,0.33333333333333337,0.0,True,False,False,False,False,FP
+Randolf J.,34705014+jrandolf@users.noreply.github.com,rodrigo,javicream@gmail.com,0.375,0.23076923076923073,0.4285714285714286,0.0,True,False,False,False,False,FP
+Kushagra S,kushagra.rigel@gmail.com,msheakoski,michael.sheakoski@gmail.com,0.4,0.25806451612903225,0.33333333333333337,0.0,True,False,False,False,False,FP
+Nathan Hammond,nathan.hammond@vercel.com,Thiago M,thiagotm@outlook.com,0.4545454545454546,0.36363636363636365,0.5,0.25,False,False,True,False,False,FP
+Dom Sip,dominik.sipowicz@gmail.com,M. Zakiyuddin Munziri,78015359+zakiego@users.noreply.github.com,0.2222222222222222,0.1875,0.5,0.09523809523809523,False,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,David Hay,89824813+hayitsdavid@users.noreply.github.com,0.75,0.07999999999999996,1.0,0.0,True,False,False,False,False,FP
+Chan Nyein Thaw,chanyeinthaw@outlook.com,Tim Suchanek,Tim.Suchanek@gmail.com,0.37037037037037035,0.41666666666666663,0.0,0.2222222222222222,False,True,False,False,False,FP
+Francisco Moretti,franciscoemoretti@gmail.com,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.07407407407407407,0.05405405405405406,0.0,0.0,False,False,False,True,False,FP
+Angel P.,anticrebel@gmail.com,Piotr Zarycki,piotr.zarycki@gmail.com,0.09999999999999998,0.17391304347826086,0.0,0.0,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,k8o,kouki_sakano@dwango.co.jp,0.19999999999999996,0.31999999999999995,0.25,0.0,True,False,False,False,False,FP
+Adityo Pratomo,pratomo.adityo@gmail.com,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.2727272727272727,0.22857142857142854,0.16666666666666663,0.25,False,False,True,False,False,FP
+Angel P.,anticrebel@gmail.com,Mate Papp,matepapp@icloud.com,0.5,0.33333333333333337,0.4444444444444444,0.4,True,False,False,False,False,FP
+Adam Tolley,adam.tolley@gmail.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.21052631578947367,0.15384615384615385,0.0,0.2857142857142857,False,False,True,False,False,FP
+D. Kasi Pavan Kumar,44864604+kasipavankumar@users.noreply.github.com,Mehran Mirshekaran,37976890+AldeonMoriak@users.noreply.github.com,0.33333333333333337,0.2727272727272727,0.0,0.2962962962962963,False,True,False,False,False,FP
+Nyasha (Nash) Nziramasanga,47994666+NyashaNziramasanga@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.2068965517241379,0.2790697674418605,0.2222222222222222,0.11111111111111116,False,False,True,False,False,FP
+Ivan V,390700+ivandotv@users.noreply.github.com,vordgi,91429106+vordgi@users.noreply.github.com,0.16666666666666663,0.33333333333333337,0.19999999999999996,0.0,True,False,False,False,False,FP
+Drew Hays,me@andrewhays.net,Raymond Cheng,me@raymondcheng.net,0.2727272727272727,1.0,0.18181818181818177,0.2222222222222222,False,False,False,False,False,FP
+Jeremy Stucki,jeremy.stucki@gmail.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.19354838709677424,0.30000000000000004,0.0,0.09090909090909094,False,False,False,True,False,FP
+Brad Cornes,bradlc41@gmail.com,Brad Larson,followbl@gmail.com,0.6363636363636364,0.25,1.0,0.33333333333333337,False,False,False,True,False,FP
+Joshua Baker,160484+joshuabaker@users.noreply.github.com,Ramin B,i8ramin@gmail.com,0.3157894736842105,0.16000000000000003,0.18181818181818177,0.33333333333333337,False,False,True,False,False,FP
+David Hu,davidhu314@gmail.com,Thuy Doan,clearlythuydoan@gmail.com,0.23529411764705888,0.24,0.0,0.0,True,False,False,False,False,FP
+Jimmy Chion,jimmychion@gmail.com,Jimmy Moon,ragingwind@gmail.com,0.7619047619047619,0.30000000000000004,1.0,0.4444444444444444,False,False,False,True,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Lau Wei Lim,k_kenny21@hotmail.com,0.17391304347826086,0.25,0.0,0.0,True,False,False,False,False,FP
+Abir,abir.pal899@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.18181818181818177,0.1333333333333333,0.2222222222222222,0.0,False,False,True,False,False,FP
+Leonard Martin,leonard.martin@gmail.com,Thiago M,thiagotm@outlook.com,0.2727272727272727,0.18181818181818177,0.15384615384615385,0.2857142857142857,False,False,True,False,False,FP
+Benjamin Woodruff,github@benjam.info,Martijn Hols,github@martijnhols.nl,0.3448275862068966,1.0,0.4,0.16666666666666663,False,False,False,False,False,FP
+Ryo H,49798519+ryo8000@users.noreply.github.com,tranvanhieu01012002,88688442+tranvanhieu01012002@users.noreply.github.com,0.16666666666666663,0.2727272727272727,0.09090909090909094,0.0,True,False,False,False,False,FP
+Adarsh Konchady,akonchady@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.2962962962962963,0.25,0.25,0.2222222222222222,False,False,True,False,False,FP
+Ekampreet Singh,37145881+ekamkohli@users.noreply.github.com,Rajdeep singh,32416397+officialrajdeepsingh@users.noreply.github.com,0.6428571428571428,0.2978723404255319,0.375,1.0,True,False,False,False,False,FP
+Tom Milewski,me@tm.codes,Tomas Cerskus,tomas-c@users.noreply.github.com,0.56,0.2222222222222222,0.75,0.4,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,Samundra Shrestha,samundra@msn.com,0.25,0.3076923076923077,0.3076923076923077,0.0,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Maciej Kasprzyk,maciej.kasprzyk.it@gmail.com,0.27586206896551724,0.14814814814814814,0.2857142857142857,0.19999999999999996,False,True,False,False,False,FP
+idkwhojamesis,43428092+idkwhojamesis@users.noreply.github.com,James Mikrut,james@payloadcms.com,0.48,0.37037037037037035,0.5555555555555556,0.0,False,False,False,True,False,FP
+Kushagra S,kushagra.rigel@gmail.com,Shihabudheen US,shihabuudheen@gmail.com,0.4,0.2962962962962963,0.30000000000000004,0.6666666666666667,False,False,True,False,False,FP
+Yasser A.Idrissi,getspookydev@gmail.com,Yasser A.Idrissi,spookyframework@gmail.com,1.0,0.5185185185185186,1.0,1.0,False,False,False,False,False,TP
+Roman A,121314722+GameRoMan@users.noreply.github.com,tranvanhieu01012002,88688442+tranvanhieu01012002@users.noreply.github.com,0.3076923076923077,0.25531914893617025,0.25,0.0,True,False,False,False,False,FP
+Felix-Antoine Paradis,felixp@gmail.com,Francis Li,francis.s.li@gmail.com,0.4,0.33333333333333337,0.42105263157894735,0.2222222222222222,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,Vagisha Nidhi,vanidhi@microsoft.com,0.30000000000000004,0.19999999999999996,0.33333333333333337,0.0,True,False,False,False,False,FP
+Brent Mealhouse,bmealhouse@gmail.com,Shihabudheen US,shihabuudheen@gmail.com,0.4,0.26086956521739135,0.3529411764705882,0.36363636363636365,False,False,True,False,False,FP
+Calmon Ribeiro,calmonrib@gmail.com,Curtis L,83509890+Sylith1231@users.noreply.github.com,0.2727272727272727,0.1428571428571429,0.16666666666666663,0.0,False,False,True,False,False,FP
+dmytro-lymarenko,dmytro.lymarenko@gmail.com,Mike K,goodbadugly30@gmail.com,0.2857142857142857,0.2068965517241379,0.21052631578947367,0.0,False,False,True,False,False,FP
+Carlos Pavanetti,12738516+carlospavanetti@users.noreply.github.com,Leyan Lo,leyanlo@gmail.com,0.25,0.19354838709677424,0.18181818181818177,0.0,False,False,True,False,False,FP
+Michael Helvey,michaelhelvey@users.noreply.github.com,Michael McQuade,giraffesyo@gmail.com,0.6206896551724138,0.34782608695652173,1.0,0.15384615384615385,False,False,False,True,False,FP
+Dmitry Rybin,dmitrika@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.3157894736842105,0.38095238095238093,0.36363636363636365,0.0,False,False,True,False,False,FP
+Adrian Li,li.adrianmc@gmail.com,Aemiro Allison,aemiro.allison@outlook.com,0.4347826086956522,0.4,0.33333333333333337,0.4444444444444444,True,False,False,False,False,FP
+Michael Albertz,michael@prio.one,Michael McQuade,michael@giraffesyo.io,0.6666666666666667,1.0,1.0,0.2857142857142857,False,True,False,True,False,FP
+Maedah Batool,me@MaedahBatool.com,Vinay Puppal,me@vinaypuppal.com,0.31999999999999995,1.0,0.18181818181818177,0.33333333333333337,False,False,False,False,False,FP
+Maia Teegarden,dev@padmaia.rocks,ÚÇÇõ╣ï,dev@flyfishonline.com,0.09999999999999998,1.0,0.19999999999999996,0.0,False,False,False,False,False,FP
+Miroslav Petrov,46135319+petrovmiroslav@users.noreply.github.com,Petr Messner,petr.messner@gmail.com,0.2962962962962963,0.34285714285714286,0.16666666666666663,0.3076923076923077,False,False,False,True,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Scott MacDonnell,scottsmacdonnell@gmail.com,0.16666666666666663,0.12903225806451613,0.18181818181818177,0.0,True,False,False,False,False,FP
+Pascal Borreli,pascal@borreli.com,S. Suzuki,terrierscript@gmail.com,0.2727272727272727,0.21052631578947367,0.2857142857142857,0.15384615384615385,False,False,False,True,False,FP
+Duncan L,leungd@gmail.com,Guilherme de Andrade,guilhermedeandrade@protonmail.com,0.2142857142857143,0.33333333333333337,0.1333333333333333,0.0,True,False,False,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Seth Bergman,sethbergman@users.noreply.github.com,0.42105263157894735,0.19999999999999996,0.0,0.25,True,False,False,False,False,FP
+Abhiyan Dhakal,itsabhiyandhakal@gmail.com,Kushagra S,kushagra.rigel@gmail.com,0.25,0.33333333333333337,0.2666666666666667,0.0,False,False,True,False,False,FP
+DHRUV KAUSHIK,dhruvv.kaushikk@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.24,0.09090909090909094,0.1333333333333333,0.25,False,False,True,False,False,FP
+Angel P.,anticrebel@gmail.com,Usman S. (Max Programming),51731966+max-programming@users.noreply.github.com,0.2666666666666667,0.11764705882352944,0.4,0.11111111111111116,True,False,False,False,False,FP
+Connor Davis,mail@connordav.is,Italo A,italoaurelior@gmail.com,0.3157894736842105,0.23529411764705888,0.18181818181818177,0.33333333333333337,False,False,True,False,False,FP
+Chan Nyein Thaw,chanyeinthaw@outlook.com,Han Yeong-woo,nix6839@washnix.com,0.5925925925925926,0.21052631578947367,0.8571428571428572,0.4444444444444444,False,False,False,True,False,FP
+C. T. Lin,chentsulin@gmail.com,Ian Macartney,ianhmacartney@gmail.com,0.30000000000000004,0.26086956521739135,0.0,0.2857142857142857,False,True,False,False,False,FP
+Joseph,joseph.chamochumbi@vercel.com,M Pacer,mpacer@users.noreply.github.com,0.15384615384615385,0.25,0.0,0.0,False,False,False,True,False,FP
+Marcin Lasak,lasakmarcin90@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.4,0.2962962962962963,0.0,0.2857142857142857,False,False,False,True,False,FP
+Felix Mosheev,9304194+felixmosh@users.noreply.github.com,Steven H,shne24@gmail.com,0.2857142857142857,0.17391304347826086,0.18181818181818177,0.25,False,False,True,False,False,FP
+Elliot Sutton,76941569+imskyleen@users.noreply.github.com,Marshall Bowers,elliott.codes@gmail.com,0.2857142857142857,0.12903225806451613,0.2857142857142857,0.16666666666666663,False,True,False,False,False,FP
+Maksym Smoli┼äski,maksym.smolinski@ravendb.net,S M Mahmudul Hasan,thegeek@iamlizu.com,0.4,0.08695652173913049,0.2857142857142857,0.3076923076923077,False,False,False,True,False,FP
+Maxim Evtush,154841002+maximevtush@users.noreply.github.com,Xuezheng Ma,xuezhma@gmail.com,0.26086956521739135,0.2142857142857143,0.15384615384615385,0.0,False,False,True,False,False,FP
+Elliot Sutton,76941569+imskyleen@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.2857142857142857,0.12903225806451613,0.0,0.33333333333333337,False,False,False,True,False,FP
+Miguel Cast,miguel.chory@hotmail.com,Mihai C,34626017+mihaic195@users.noreply.github.com,0.4444444444444444,0.19999999999999996,0.36363636363636365,0.4,False,False,True,False,False,FP
+jmgr2996,juanmateogarcia96@gmail.com,Juan Gallo,juani.reicko@gmail.com,0.2222222222222222,0.4137931034482759,0.16666666666666663,0.0,False,False,False,True,False,FP
+Jon R,jonathan.roesner@yahoo.com,Joshua Hannaford,hannaford.joshua55@gmail.com,0.38095238095238093,0.3529411764705882,0.4444444444444444,0.19999999999999996,True,False,False,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Û░òÙÅÖý£ñ,kdy1997.dev@gmail.com,0.23529411764705888,0.23529411764705888,0.2666666666666667,0.0,True,False,False,False,False,FP
+Natt Nguyen Òâä,natt.lefevre@gmail.com,Natt Nguyen,natt.lefevre@gmail.com,0.8461538461538461,1.0,1.0,0.75,False,True,False,True,True,TP
+Ethan Niser,100045248+ethanniser@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.21052631578947367,0.24242424242424243,0.0,0.18181818181818177,False,False,False,True,False,FP
+Ian Marlier,marlier@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.4444444444444444,0.15384615384615385,0.5,0.25,False,False,True,False,False,FP
+S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,Saalim Zafar,saleem.zafar9910@gmail.com,0.33333333333333337,0.2666666666666667,0.2857142857142857,0.19047619047619047,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,Victor Borges,victor.w.developer@gmail.com,0.30000000000000004,0.26086956521739135,0.36363636363636365,0.0,True,False,False,False,False,FP
+Max Stoiber,contact@mxstbr.com,xeust,maxeust@gmail.com,0.375,0.2857142857142857,0.25,0.0,False,True,False,False,False,FP
+M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,minaelee,minae.lee@gmail.com,0.33333333333333337,0.2068965517241379,0.2222222222222222,0.0,False,True,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Ryan,ryanpiechuta@gmail.com,0.16666666666666663,0.14814814814814814,0.19999999999999996,0.0,True,False,False,False,False,FP
+Alex Yang,himself65@outlook.com,S M Mahmudul Hasan,smmh.lzui@gmail.com,0.37037037037037035,0.2222222222222222,0.0,0.19999999999999996,False,False,False,True,False,FP
+Aditya K,adk96r@gmail.com,Markoz Pe├▒a,markdrew53@gmail.com,0.19999999999999996,0.375,0.16666666666666663,0.0,True,False,False,False,False,FP
+Emil Bruckner,emil.bruckner@gmx.at,Mihai C,34626017+mihaic195@users.noreply.github.com,0.4,0.19354838709677424,0.4444444444444444,0.2222222222222222,False,False,True,False,False,FP
+Chloe Yan,chloeyan365@gmail.com,Ryan Clements,ryanclementshax@gmail.com,0.36363636363636365,0.3076923076923077,0.0,0.18181818181818177,True,False,False,False,False,FP
+Aur├®lien MANCA,aurelien@amanca.fr,Italo A,italoaurelior@gmail.com,0.36363636363636365,0.5714285714285714,0.2857142857142857,0.33333333333333337,False,False,True,False,False,FP
+Austin P,austin.paquette@forcir.com,Felipe Barso,77860630+aprendendofelipe@users.noreply.github.com,0.19999999999999996,0.19999999999999996,0.16666666666666663,0.0,True,False,False,False,False,FP
+Emiliano Garcia,60363956+EmilianoGarciaLopez@users.noreply.github.com,Ian Marlier,marlier@gmail.com,0.5384615384615384,0.2857142857142857,0.5454545454545454,0.46153846153846156,False,False,False,True,False,FP
+Bruno Bernardino,github@bmb.pt,Konstantin Grushetsky,github@grushetsky.net,0.2702702702702703,1.0,0.1333333333333333,0.09999999999999998,False,False,False,False,False,FP
+Cole,colevscode@users.noreply.github.com,Eugene C,e.chechurin@gmail.com,0.16666666666666663,0.2857142857142857,0.19999999999999996,0.0,False,False,True,False,False,FP
+Nick McCurdy,nick@nickmccurdy.com,Nick Oates,nick@nickoates.com,0.4545454545454546,1.0,1.0,0.0,False,False,False,False,False,FP
+Bart┼éomiej Krakowski,48633090+bart-krakowski@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.2857142857142857,0.2222222222222222,0.25,0.19999999999999996,False,False,True,False,False,FP
+David D,comxd@users.noreply.github.com,destruc7i0n,6181960+destruc7i0n@users.noreply.github.com,0.2222222222222222,0.08333333333333337,0.25,0.0,True,False,False,False,False,FP
+Brad Cornes,bradlc41@gmail.com,C. Lewis,ctjl96@gmail.com,0.33333333333333337,0.1428571428571429,0.0,0.36363636363636365,False,False,False,True,False,FP
+Joshua Baker,160484+joshuabaker@users.noreply.github.com,Joshua Davis,1625567+byjoshuadavis@users.noreply.github.com,0.6666666666666667,0.5128205128205128,1.0,0.19999999999999996,False,True,False,False,False,FP
+Mauro Accornero,mauroaccornero@users.noreply.github.com,Mauro Mandracchia,M3kH@users.noreply.github.com,0.5625,0.0,1.0,0.30000000000000004,False,False,False,True,False,FP
+Avi Aryan,avi.aryan123@gmail.com,Davi Mello,51424368+daviavmello@users.noreply.github.com,0.42105263157894735,0.25,0.8571428571428572,0.0,False,True,False,False,False,FP
+Jose Manuel Casani Guerra,jmpl3.soporte@gmail.com,Pranav P,pranavkp.me@outlook.com,0.24242424242424243,0.25,0.0,0.0,False,False,True,False,False,FP
+I am not shine,zhaoyao91@163.com,Jeff Wen,3297859+sinchang@users.noreply.github.com,0.18181818181818177,0.16000000000000003,0.0,0.1333333333333333,False,True,False,False,False,FP
+Milan K,57148574+mkcy3@users.noreply.github.com,ÚÇƒÕå╗ÚÑ║Õ¡É,149454909+shuakami@users.noreply.github.com,0.21052631578947367,0.375,0.23529411764705888,0.0,True,False,False,False,False,FP
+S M Mahmudul Hasan,smmh.lzui@gmail.com,ÚÇƒÕå╗ÚÑ║Õ¡É,149454909+shuakami@users.noreply.github.com,0.19999999999999996,0.2962962962962963,0.0,0.0,False,True,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Maksym Popenko,popenkomaksim@gmail.com,0.3571428571428571,0.18181818181818177,0.0,0.21052631578947367,False,True,False,False,False,FP
+Anthony Shew,anthony.shew@vercel.com,Steven H,shne24@gmail.com,0.4,0.33333333333333337,0.3076923076923077,0.4,False,False,True,False,False,FP
+Jerry K Jia,me@jerrykjia.com,Seth Mcleod,me@sethmcleod.com,0.18181818181818177,1.0,0.2222222222222222,0.0,False,False,False,False,False,FP
+Corentin.Andre,corentin7andre8@gmail.com,Eugene C,e.chechurin@gmail.com,0.2857142857142857,0.3076923076923077,0.3157894736842105,0.0,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,madiknox,59509185+madiknox@users.noreply.github.com,0.2666666666666667,0.19999999999999996,0.3076923076923077,0.0,True,False,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Ryan Hinchey,rlhinchey@gmail.com,0.21052631578947367,0.1333333333333333,0.0,0.16666666666666663,False,True,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Genet Schneider,genet.schneider@pipedrive.com,0.2727272727272727,0.4,0.0,0.1428571428571429,False,True,False,False,False,FP
+furkan mavili,furkanmavili@outlook.com,Milan K,57148574+mkcy3@users.noreply.github.com,0.30000000000000004,0.07692307692307687,0.36363636363636365,0.0,False,False,True,False,False,FP
+Jip Sterk,17934897+JipSterk@users.noreply.github.com,Kristoffer K,merceyz@users.noreply.github.com,0.5714285714285714,0.16666666666666663,0.15384615384615385,0.33333333333333337,False,False,True,False,False,FP
+Aravind Putrevu,aravind.putrevu@elastic.co,I am not shine,zhaoyao91@163.com,0.27586206896551724,0.16666666666666663,0.25,0.21052631578947367,False,False,False,True,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Sergio Xalambr├¡,sergiodxa@gmail.com,0.34782608695652173,0.2142857142857143,0.36363636363636365,0.19999999999999996,True,False,False,False,False,FP
+Antoine Chalifour,antoine.chalifour@gmail.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.2727272727272727,0.06060606060606055,0.19999999999999996,0.19999999999999996,False,False,True,False,False,FP
+Jerome Fitzgerald,jeromes@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.34285714285714286,0.19047619047619047,0.0,0.3076923076923077,False,False,False,True,False,FP
+Adam Zacharski,adam-zacharski@users.noreply.github.com,M. Zakiyuddin Munziri,78015359+zakiego@users.noreply.github.com,0.3529411764705882,0.2666666666666667,0.4,0.2962962962962963,False,False,False,True,False,FP
+Nick Muller,3781551+nphmuller@users.noreply.github.com,Phattarapol L,63938605+PhattOZ@users.noreply.github.com,0.16666666666666663,0.303030303030303,0.0,0.2857142857142857,False,False,True,False,False,FP
+Greg Rickaby,greg@gregrickaby.com,Greg Rickaby,greg@webdevstudios.com,1.0,1.0,1.0,1.0,False,True,False,True,False,TP
+F. Hinkelmann,franziska.hinkelmann@gmail.com,Sacha Stafyniak,sacha.stafyniak@gmail.com,0.2222222222222222,0.2857142857142857,0.0,0.21052631578947367,False,True,False,False,False,FP
+Balint Lendvai,lendvai.balint@gmail.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.18181818181818177,0.06896551724137934,0.16666666666666663,0.0,False,False,True,False,False,FP
+Matthew Webb,matthewowebb@gmail.com,neb,habbouche.matthew@gmail.com,0.2666666666666667,0.48275862068965514,0.19999999999999996,0.0,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,JIMMY ÒâáÒâ│ (MOON),ragingwind@gmail.com,0.16666666666666663,0.1333333333333333,0.19999999999999996,0.0,True,False,False,False,False,FP
+Jepser Bernardino,jepsersk8@gmail.com,Kushagra S,kushagra.rigel@gmail.com,0.2222222222222222,0.17391304347826086,0.2857142857142857,0.0,False,False,True,False,False,FP
+Paul van den Dool,paulvddool@msn.com,Pranav P,pranavkp.me@outlook.com,0.31999999999999995,0.2857142857142857,0.4,0.0,False,False,True,False,False,FP
+Erwann,erwann.bst@gmail.com,S. Suzuki,terrierscript@gmail.com,0.0,0.34782608695652173,0.0,0.0,False,False,False,True,False,FP
+Curtis L,83509890+Sylith1231@users.noreply.github.com,Jamie,jamsinclair@users.noreply.github.com,0.15384615384615385,0.1333333333333333,0.18181818181818177,0.0,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Exotic,118054752+extoci@users.noreply.github.com,0.2857142857142857,0.32258064516129037,0.16666666666666663,0.0,True,False,False,False,False,FP
+Reshmi Sriram,85954235+Reshmi-Sriram@users.noreply.github.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.4,0.24390243902439024,0.36363636363636365,0.2857142857142857,False,False,True,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Steve Korshakov,korshakov.stepan@gmail.com,0.34782608695652173,0.2068965517241379,0.33333333333333337,0.2666666666666667,False,True,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Mariano ├ülvarez,66380259+creativoma@users.noreply.github.com,0.16666666666666663,0.23529411764705888,0.0,0.0,True,False,False,False,False,FP
+Karthik Muralidharan,karthikmuralidharan@users.noreply.github.com,Rousan Ali,rousanali786@gmail.com,0.33333333333333337,0.32258064516129037,0.15384615384615385,0.4,False,False,True,False,False,FP
+Alex,alxmorais8@msn.com,Alex,deadlynjdj@gmail.com,1.0,0.19999999999999996,1.0,1.0,False,False,False,False,False,FP
+Nicholas Chiang,nicholas.h.chiang@gmail.com,Steven H,shne24@gmail.com,0.26086956521739135,0.26086956521739135,0.1428571428571429,0.2857142857142857,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,teobler,teobler@163.com,0.4,0.09090909090909094,0.46153846153846156,0.0,True,False,False,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Sayakie,sayakie@kakao.com,0.4,0.19999999999999996,0.25,0.0,False,True,False,False,False,FP
+Angel P.,anticrebel@gmail.com,Kwon SeungMin,145193070+atik-persei@users.noreply.github.com,0.19999999999999996,0.32258064516129037,0.2222222222222222,0.0,True,False,False,False,False,FP
+Enzo Ferey,hello@enzoferey.com,Robert van Steen,hello@rovansteen.nl,0.3846153846153846,1.0,0.19999999999999996,0.2857142857142857,False,False,False,False,False,FP
+huperniketes,huperniketes@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.33333333333333337,0.3157894736842105,0.36363636363636365,0.0,False,False,True,False,False,FP
+S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,Vadorequest,ambroise.dhenain@gmail.com,0.27586206896551724,0.4,0.16666666666666663,0.0,False,True,False,False,False,FP
+Arno,90195380+ArnoldVanN@users.noreply.github.com,Dharun R,155513784+dharun36@users.noreply.github.com,0.5,0.43243243243243246,0.6,0.0,False,False,True,False,False,FP
+devin-ai-integration[bot],158243242+devin-ai-integration[bot]@users.noreply.github.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.2068965517241379,0.19999999999999996,0.14814814814814814,0.0,False,False,True,False,False,FP
+Anish Paudel,32244578+Rpaudel379@users.noreply.github.com,David D,comxd@users.noreply.github.com,0.42105263157894735,0.08333333333333337,0.4,0.2857142857142857,False,False,True,False,False,FP
+Clecio de Almeida,46803127+Clecio013@users.noreply.github.com,Eugene C,e.chechurin@gmail.com,0.24,0.2068965517241379,0.16666666666666663,0.0,False,False,True,False,False,FP
+Akuma Isaac Akuma,akumaisaacakuma@gmail.com,S M Mahmudul Hasan,thegeek@iamlizu.com,0.34285714285714286,0.09090909090909094,0.0,0.2962962962962963,False,False,False,True,False,FP
+Joshua Hannaford,hannaford.joshua55@gmail.com,Steven H,shne24@gmail.com,0.25,0.16666666666666663,0.16666666666666663,0.19999999999999996,False,False,True,False,False,FP
+Jo├úo Granado,joao.mota.garcia@gmail.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.4545454545454546,0.18181818181818177,0.16666666666666663,0.0,False,False,True,False,False,FP
+Oleh Dutchenko,dutchenko.o.dev@gmail.com,Tom Chen,tomchen.org@gmail.com,0.5454545454545454,0.5384615384615384,0.2857142857142857,0.6153846153846154,False,False,True,False,False,FP
+Francis Li,francis.s.li@gmail.com,I am not shine,zhaoyao91@163.com,0.33333333333333337,0.09523809523809523,0.25,0.1428571428571429,False,False,False,True,False,FP
+Randolf J.,34705014+jrandolf@users.noreply.github.com,rjsdnql123,61114705+rjsdnql123@users.noreply.github.com,0.3157894736842105,0.4444444444444444,0.3529411764705882,0.0,True,False,False,False,False,FP
+Florian Boeck,florian_boeck@hotmail.de,Italo A,italoaurelior@gmail.com,0.30000000000000004,0.3846153846153846,0.33333333333333337,0.0,False,False,True,False,False,FP
+Marc MacLeod,marbemac@gmail.com,Ramin B,i8ramin@gmail.com,0.21052631578947367,0.2666666666666667,0.2222222222222222,0.0,False,False,True,False,False,FP
+Dinesh Rawat,Dineshrawataias@gmail.com,Steven H,shne24@gmail.com,0.19999999999999996,0.19047619047619047,0.16666666666666663,0.0,False,False,True,False,False,FP
+Ali Othmani,aliot@xtech.guru,Ali Othmani,othmanixali@gmail.com,1.0,0.375,1.0,1.0,True,True,False,True,False,TP
+Kim T,kimturley@gmail.com,tokkiyaa,tokkiyaa@users.noreply.github.com,0.3076923076923077,0.3529411764705882,0.36363636363636365,0.0,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,John Carlo Austria,johncarloaustria@proton.me,0.375,0.31999999999999995,0.0,0.4,False,True,False,False,False,FP
+Aditya K,adk96r@gmail.com,tokkiyaa,tokkiyaa@users.noreply.github.com,0.375,0.1428571428571429,0.4285714285714286,0.0,True,False,False,False,False,FP
+Thiago M,thiagotm@outlook.com,Tommy D. Rossi,beats.by.morse@gmail.com,0.2857142857142857,0.2727272727272727,0.36363636363636365,0.0,True,False,False,False,False,FP
+jakemstar,74196116+jakemstar@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.11764705882352944,0.19354838709677424,0.19999999999999996,0.0,False,False,False,True,False,FP
+Dmitriy,dipiash@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.1333333333333333,0.19999999999999996,0.0,0.0,False,False,False,True,False,FP
+I am not shine,zhaoyao91@163.com,Victor Mota,vimota@gmail.com,0.4,0.2666666666666667,0.2857142857142857,0.375,False,True,False,False,False,FP
+Alexander Kadyrov,gruz0.mail@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.33333333333333337,0.13793103448275867,0.2857142857142857,0.25,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,Stefan Ivic,nightwalkerkg@gmail.com,0.3157894736842105,0.3157894736842105,0.33333333333333337,0.0,True,False,False,False,False,FP
+Angel P.,anticrebel@gmail.com,Diogo Capela,diogocapela@gmail.com,0.3157894736842105,0.38095238095238093,0.19999999999999996,0.2857142857142857,True,False,False,False,False,FP
+GH Lee,gwanhyung787@gmail.com,Hyunseung Lee,hyunseunglee2008@gmail.com,0.5263157894736843,0.4285714285714286,0.18181818181818177,1.0,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Naing,5661543+naingaungphyo@users.noreply.github.com,0.16666666666666663,0.23529411764705888,0.19999999999999996,0.0,True,False,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Matt Oliver,63904102+mattyocode@users.noreply.github.com,0.4444444444444444,0.13793103448275867,0.0,0.36363636363636365,False,True,False,False,False,FP
+Adrian Faustino,contact.adrianfaustino@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.4545454545454546,0.14634146341463417,0.5454545454545454,0.2222222222222222,False,False,True,False,False,FP
+Ethan Arrowood,ethan.arrowood@vercel.com,Sungyun Hur,ethan0311@gmail.com,0.24,0.4347826086956522,0.16666666666666663,0.18181818181818177,False,True,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Tobias Koppers,tobias.koppers@googlemail.com,0.3846153846153846,0.19047619047619047,0.25,0.25,True,False,False,False,False,FP
+illuminist,illumina.ova@gmail.com,Larry Lu,pudding850806@gmail.com,0.33333333333333337,0.24,0.1333333333333333,0.0,False,False,True,False,False,FP
+Jon R,jonathan.roesner@yahoo.com,Steve Jarvis,steve.jarvis@auth0.com,0.23529411764705888,0.2857142857142857,0.0,0.2857142857142857,True,False,False,False,False,FP
+Benjamin Pearson,benjaminpearson@users.noreply.github.com,I am not shine,zhaoyao91@163.com,0.4,0.25,0.2222222222222222,0.3157894736842105,False,False,False,True,False,FP
+Dev Agrawal,devagrawal09@gmail.com,Jaime Rios,jaime.rios.dev@outlook.com,0.2857142857142857,0.23076923076923073,0.25,0.18181818181818177,False,True,False,False,False,FP
+Rodrigo Esteves,Estevesrodri@outlook.com,Rodrigo,tomecafeconrodrigo@live.com,0.6363636363636364,0.5333333333333333,1.0,0.0,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,Dmytro V. Dogadailo,dvd@dogada.org,0.31999999999999995,0.25,0.18181818181818177,0.16666666666666663,True,False,False,False,False,FP
+Charles Dudley,618478+charlesbdudley@users.noreply.github.com,Eugene C,e.chechurin@gmail.com,0.2727272727272727,0.25,0.15384615384615385,0.0,False,False,True,False,False,FP
+Andy Kenward,4893048+andykenward@users.noreply.github.com,David D,comxd@users.noreply.github.com,0.42105263157894735,0.08333333333333337,0.4444444444444444,0.25,False,False,True,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Watcharakrit Phantu,watcharakrit@gmail.com,0.32258064516129037,0.10526315789473684,0.36363636363636365,0.0,True,False,False,False,False,FP
+CJ Dunteman,cjdunteman@gmail.com,Eugene C,e.chechurin@gmail.com,0.3157894736842105,0.2857142857142857,0.0,0.0,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,taep96,64481039+taep96@users.noreply.github.com,0.1428571428571429,0.2666666666666667,0.16666666666666663,0.0,True,False,False,False,False,FP
+Vinay Puppal,me@vinaypuppal.com,Vu Van Dung,me@joulev.dev,0.34782608695652173,1.0,0.2857142857142857,0.1428571428571429,False,False,False,False,False,FP
+Angelo P,angelo.m.poole@gmail.com,Vinicius Pacheco Furtado,vin175pacheco@gmail.com,0.25,0.2222222222222222,0.1428571428571429,0.125,True,False,False,False,False,FP
+David ALLIX,webda2l@gmail.com,Duncan L,leungd@gmail.com,0.42105263157894735,0.3076923076923077,0.36363636363636365,0.33333333333333337,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,Julien Birgand,julien.birgand@gmail.com,0.2857142857142857,0.2962962962962963,0.18181818181818177,0.25,True,False,False,False,False,FP
+I am not shine,zhaoyao91@163.com,sharils,3063067+sharils@users.noreply.github.com,0.2857142857142857,0.16666666666666663,0.25,0.0,False,True,False,False,False,FP
+Michael Aufreiter,michael@letsken.com,Michael Squitieri,michael.squitieri@gmail.com,0.7647058823529411,0.5833333333333333,1.0,0.5555555555555556,False,True,False,False,False,FP
+alpha-xek,116849110+alpha-xek@users.noreply.github.com,Austin P,austin.paquette@forcir.com,0.25,0.23529411764705888,0.1428571428571429,0.0,False,False,True,False,False,FP
+Ananta Bastola,anantarajbastola@gmail.com,Jon R,jonathan.roesner@yahoo.com,0.21052631578947367,0.375,0.2222222222222222,0.0,False,False,True,False,False,FP
+Pranav P,pranavkp.me@outlook.com,Robert Komaromi,chipit24@users.noreply.github.com,0.17391304347826086,0.10526315789473684,0.16666666666666663,0.0,True,False,False,False,False,FP
+Arfa Ahmed,arfa.ahmed.feroz@gmail.com,M. Zakiyuddin Munziri,78015359+zakiego@users.noreply.github.com,0.19999999999999996,0.1875,0.0,0.17391304347826086,False,False,False,True,False,FP
+Bernardo Gomes,bgomesdeabreu@gmail.com,S. Suzuki,terrierscript@gmail.com,0.18181818181818177,0.23076923076923073,0.0,0.18181818181818177,False,False,False,True,False,FP
+Kaito Sugimoto,hellorusk1998@gmail.com,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.17391304347826086,0.2068965517241379,0.16666666666666663,0.0,False,False,True,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,Ayd─▒n Akan,aydinkn@users.noreply.github.com,0.19047619047619047,0.2857142857142857,0.1428571428571429,0.0,True,False,False,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Insik-Han,gksdudrms0@icloud.com,0.375,0.125,0.2857142857142857,0.0,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Mð░ð░ÐÇÐéðÁð¢ - Maarten,maarten@oudenniel.nl,0.2068965517241379,0.09090909090909094,0.10526315789473684,0.25,True,False,False,False,False,FP
+Jeremy Balog,jeremybalog@users.noreply.github.com,Leyan Lo,leyanlo@gmail.com,0.5,0.5555555555555556,0.36363636363636365,0.5714285714285714,False,False,True,False,False,FP
+I am not shine,zhaoyao91@163.com,Johannes Obermair,48853629+johnnyomair@users.noreply.github.com,0.25806451612903225,0.2068965517241379,0.0,0.19999999999999996,False,True,False,False,False,FP
+greeble,101296083+greebl3@users.noreply.github.com,Ramin B,i8ramin@gmail.com,0.2857142857142857,0.16666666666666663,0.16666666666666663,0.0,False,False,True,False,False,FP
+M. Zakiyuddin Munziri,belummikir@gmail.com,Zane Bauman,zanebauman55@gmail.com,0.3870967741935484,0.2727272727272727,0.0,0.33333333333333337,False,True,False,False,False,FP
+Arfa Ahmed,arfa.ahmed.feroz@gmail.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.4,0.125,0.2857142857142857,0.33333333333333337,False,False,True,False,False,FP
+Kavikumar M,50093149+thekavikumar@users.noreply.github.com,tomasdisk,tomasdisk@hotmail.com,0.30000000000000004,0.2666666666666667,0.33333333333333337,0.0,True,False,False,False,False,FP
+jai-sharma,sendtojsharma@gmail.com,Steven H,shne24@gmail.com,0.23529411764705888,0.21052631578947367,0.1333333333333333,0.0,False,False,True,False,False,FP
+Logan Smyth,loganfsmyth@gmail.com,Steven H,shne24@gmail.com,0.3157894736842105,0.23529411764705888,0.18181818181818177,0.33333333333333337,False,False,True,False,False,FP
+Mike K,goodbadugly30@gmail.com,SaintMalik,37118134+saintmalik@users.noreply.github.com,0.375,0.125,0.4285714285714286,0.0,True,False,False,False,False,FP
+Joe Seifi,764006+joeshub@users.noreply.github.com,S. Suzuki,terrierscript@gmail.com,0.3529411764705882,0.14814814814814814,0.0,0.36363636363636365,False,False,False,True,False,FP
+moondef,step.samko@gmail.com,S. Suzuki,terrierscript@gmail.com,0.0,0.26086956521739135,0.0,0.0,False,False,False,True,False,FP
+David Goguen,davidgoguen@iroomit.com,I am not shine,zhaoyao91@163.com,0.3076923076923077,0.19999999999999996,0.33333333333333337,0.2222222222222222,False,False,False,True,False,FP
+C. T. Lin,chentsulin@gmail.com,Ricky Abell,rickst3r@gmail.com,0.33333333333333337,0.2222222222222222,0.33333333333333337,0.19999999999999996,False,True,False,False,False,FP
+Michael Hsu,evenchange4@gmail.com,Michael,103365104+michaelven@users.noreply.github.com,0.7777777777777778,0.25806451612903225,1.0,0.0,False,True,False,False,False,FP
+Daniel K,FredyC@users.noreply.github.com,Samuel,86006376+samueldusek@users.noreply.github.com,0.4285714285714286,0.15384615384615385,0.5,0.0,True,False,False,False,False,FP
+Angel P.,anticrebel@gmail.com,Iago Bruno,httpiago@gmail.com,0.3529411764705882,0.2222222222222222,0.4444444444444444,0.0,True,False,False,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Jared Palmer,jaredloganpalmer@gmail.com,0.4,0.17647058823529416,0.36363636363636365,0.2857142857142857,True,False,False,False,False,FP
+Jon R,jonathan.roesner@yahoo.com,Jonathan Hefner,jonathan@hefner.pro,0.5,0.6666666666666667,0.5454545454545454,0.2857142857142857,False,False,False,True,False,FP
+Dominik Ferber,dominik.ferber@gmail.com,Kavikumar M,50093149+thekavikumar@users.noreply.github.com,0.24,0.17142857142857137,0.25,0.0,False,False,True,False,False,FP
+Brian Rayburn,bgrayburn@gmail.com,Ray Gesualdo,raygesualdo@users.noreply.github.com,0.31999999999999995,0.4,0.5,0.1333333333333333,False,False,False,True,False,FP
+I am not shine,zhaoyao91@163.com,Maria Vanessa Salim,91240371+sqidermad@users.noreply.github.com,0.4242424242424242,0.14814814814814814,0.33333333333333337,0.4,False,True,False,False,False,FP
+Enes Akar,enesakar@gmail.com,Kushagra S,kushagra.rigel@gmail.com,0.3157894736842105,0.36363636363636365,0.16666666666666663,0.0,False,False,True,False,False,FP
+Carlos Menezes,carlos-menezes212@hotmail.com,Leyan Lo,leyanlo@gmail.com,0.2727272727272727,0.25,0.18181818181818177,0.0,False,False,True,False,False,FP
+H├╝srev,59848940+hsrvms@users.noreply.github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.16666666666666663,0.32258064516129037,0.19999999999999996,0.0,False,False,True,False,False,FP
+Naveen,mailtomassnaveen@gmail.com,Tom MacWright,tmcw@users.noreply.github.com,0.10526315789473684,0.19999999999999996,0.0,0.0,False,False,False,True,False,FP
+jmgr2996,juanmateogarcia96@gmail.com,Jon R,jonathan.roesner@yahoo.com,0.3076923076923077,0.36363636363636365,0.18181818181818177,0.0,False,False,True,False,False,FP
+Natalie Marleny,31798108+nataliemarleny@users.noreply.github.com,Rousan Ali,rousanali786@gmail.com,0.31999999999999995,0.22857142857142854,0.15384615384615385,0.4,False,False,True,False,False,FP
+Roman A,121314722+GameRoMan@users.noreply.github.com,Sebastian Silbermann,sebastian.silbermann@vercel.com,0.2962962962962963,0.20512820512820518,0.2857142857142857,0.18181818181818177,True,False,False,False,False,FP
+Allen Hai,allen@vercel.com,Mihai Pocorschi,mihai@pocorschi.com,0.33333333333333337,0.19999999999999996,0.19999999999999996,0.33333333333333337,True,False,False,False,False,FP
+David Madner,david.madner@gmx.net,David Ramos,ramos@cs.stanford.edu,0.6086956521739131,0.23529411764705888,1.0,0.18181818181818177,False,False,False,True,False,FP
+Ramin B,i8ramin@gmail.com,RobertFent,41773793+RobertFent@users.noreply.github.com,0.23529411764705888,0.15384615384615385,0.2666666666666667,0.0,True,False,False,False,False,FP
+S M Mahmudul Hasan,smmh.lzui@gmail.com,"Sebastian ""Sebbie"" Silbermann",sebastian.silbermann@vercel.com,0.2666666666666667,0.2068965517241379,0.19999999999999996,0.24242424242424243,False,True,False,False,False,FP
+I am not shine,zhaoyao91@163.com,Sergio Daniel Xalambr├¡,sergiodxa@gmail.com,0.32432432432432434,0.2222222222222222,0.2857142857142857,0.2857142857142857,False,True,False,False,False,FP
+GH Lee,gwanhyung787@gmail.com,Rajdeep singh,32416397+officialrajdeepsingh@users.noreply.github.com,0.21052631578947367,0.14634146341463417,0.0,0.0,False,True,False,False,False,FP
+Jayden Seric,me@jaydenseric.com,Kyle Gallagher,me@lofde.com,0.3846153846153846,1.0,0.4,0.2857142857142857,False,False,False,False,False,FP
+Richard B,1180955+rbrcsk@users.noreply.github.com,Sebastian Silbermann,silbermann.sebastian@gmail.com,0.27586206896551724,0.17647058823529416,0.25,0.18181818181818177,True,False,False,False,False,FP
+Ivan V,390700+ivandotv@users.noreply.github.com,Lucas Vieira,lucas10.vieira.lv@gmail.com,0.33333333333333337,0.25,0.2222222222222222,0.2857142857142857,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,M.K. Safi,msafi@msafi.com,0.2857142857142857,0.2222222222222222,0.0,0.4,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,vicsantizo,68677648+vicsantizo@users.noreply.github.com,0.3529411764705882,0.25,0.4,0.0,True,False,False,False,False,FP
+Anas,anas.ahamad955@gmail.com,S. Suzuki,terrierscript@gmail.com,0.16666666666666663,0.07407407407407407,0.4,0.0,False,False,False,True,False,FP
+hrmny,8845940+ForsakenHarmony@users.noreply.github.com,S M Mahmudul Hasan,smmh.lzui@gmail.com,0.26086956521739135,0.125,0.0,0.0,False,False,False,True,False,FP
+Harri H├ñlikk├ñ,harri.halikka@gmail.com,Italo A,italoaurelior@gmail.com,0.18181818181818177,0.3076923076923077,0.19999999999999996,0.0,False,False,True,False,False,FP
+Andrei Stefan,andrei.stefan.work@gmail.com,Stefan Ivic,nightwalkerkg@gmail.com,0.5,0.3870967741935484,0.33333333333333337,0.0,False,False,False,True,False,FP
+Anders S├©gaard,andershagbard@gmail.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.19999999999999996,0.06896551724137934,0.2222222222222222,0.0,False,False,True,False,False,FP
+Bhargav Ponnapalli,imbhargav5@gmail.com,Ivan V,390700+ivandotv@users.noreply.github.com,0.16666666666666663,0.24,0.18181818181818177,0.0,False,False,True,False,False,FP
+Matt Probert,1196252+mattpr@users.noreply.github.com,Matt Ruby,mattruby@gmail.com,0.6666666666666667,0.4545454545454546,1.0,0.36363636363636365,False,False,False,True,False,FP
+Ives van Hoorne,CompuIves@users.noreply.github.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.303030303030303,0.17391304347826086,0.4,0.23076923076923073,False,False,False,True,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,Karthikeyan Ranasthala,karthikeyan.ranasthala@gmail.com,0.3125,0.11111111111111116,0.42105263157894735,0.0,True,False,False,False,False,FP
+Florian Lopez Plaza,82889954+florian-lp@users.noreply.github.com,I am not shine,zhaoyao91@163.com,0.303030303030303,0.1428571428571429,0.25,0.17391304347826086,False,False,False,True,False,FP
+Christian,me@rndm.de,Luke Plaster,me@lukep.org,0.19047619047619047,1.0,0.0,0.0,False,False,False,False,False,FP
+Lee Robinson,lrobinson2011@gmail.com,Richard B,1180955+rbrcsk@users.noreply.github.com,0.19047619047619047,0.2222222222222222,0.0,0.2222222222222222,False,False,True,False,False,FP
+Muhammad Rohan Hussain,34311857+hallucinogenizer@users.noreply.github.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.4137931034482759,0.31818181818181823,0.3076923076923077,0.1428571428571429,False,False,True,False,False,FP
+Angel P.,anticrebel@gmail.com,Jacob Pargin,jacobpgn@users.noreply.github.com,0.3157894736842105,0.33333333333333337,0.19999999999999996,0.2857142857142857,True,False,False,False,False,FP
+Jefferson Bledsoe,me@jeffersonbledsoe.com,Weston Thayer,me@westonthayer.com,0.4,1.0,0.5333333333333333,0.15384615384615385,False,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,maurodaprotis,maurodaprotis@gmail.com,0.30000000000000004,0.3846153846153846,0.2222222222222222,0.0,True,False,False,False,False,FP
+Pranav P,pranavkp.me@outlook.com,Scott Parker,scott.p.parker@gmail.com,0.19999999999999996,0.31999999999999995,0.0,0.2857142857142857,True,False,False,False,False,FP
+Ahmed Essam,Ahmedellord56@gmail.com,Leyan Lo,leyanlo@gmail.com,0.21052631578947367,0.30000000000000004,0.19999999999999996,0.0,False,False,True,False,False,FP
+C. T. Lin,chentsulin@gmail.com,niketchandivade,56070211+niketchandivade@users.noreply.github.com,0.18181818181818177,0.23529411764705888,0.125,0.0,False,True,False,False,False,FP
+Aditya K,adk96r@gmail.com,william-keller,keller.william@hotmail.com,0.2857142857142857,0.19999999999999996,0.21052631578947367,0.0,True,False,False,False,False,FP
+m-allanson,michael.allanson@gmail.com,Michael Oliver,michaeloliver__@outlook.com,0.34782608695652173,0.5161290322580645,0.375,0.0,False,False,False,True,False,FP
+Alexander Sviridov,sviridoff.mail@gmail.com,S. Mahdi Mir-Ismaili,s.m.mirismaili@gmail.com,0.33333333333333337,0.5714285714285714,0.0,0.25,False,False,False,True,False,FP
+darthmaim,github@darthmaim.de,Evan Bradley,github@evanbradley.org,0.2857142857142857,1.0,0.15384615384615385,0.0,False,False,False,False,False,FP
+S M Mahmudul Hasan,smmh.lzui@gmail.com,thom,thom.hos@gmail.com,0.18181818181818177,0.23529411764705888,0.0,0.0,False,True,False,False,False,FP
+James Mulholland,20966690+mulholio@users.noreply.github.com,James Vidler,james@agilitycms.com,0.5,0.09090909090909094,1.0,0.125,False,True,False,False,False,FP
+Duc Le,leanhducvt@live.com,Wesley de Bruijn,wesley.dbr@live.nl,0.18181818181818177,0.30000000000000004,0.0,0.18181818181818177,True,False,False,False,False,FP
+C. T. Lin,chentsulin@gmail.com,Patrick Krawczykowski,patrick@dreadful.design,0.2142857142857143,0.23529411764705888,0.25,0.11111111111111116,False,True,False,False,False,FP
+M. Zakiyuddin Munziri,belummikir@gmail.com,Onur Temiz,46234852+onurtemiz@users.noreply.github.com,0.2666666666666667,0.2142857142857143,0.0,0.17391304347826086,False,True,False,False,False,FP
+David D,comxd@users.noreply.github.com,Yi─ƒithan,yigithanyucedag@gmail.com,0.125,0.19999999999999996,0.1428571428571429,0.0,True,False,False,False,False,FP
+Shantanu Goyal,59186786+shantanu2307@users.noreply.github.com,Steven H,shne24@gmail.com,0.36363636363636365,0.2962962962962963,0.4285714285714286,0.0,False,False,True,False,False,FP
+James Mosier,jamesdmosier@gmail.com,James O'Halloran,james.p.ohalloran@gmail.com,0.5925925925925926,0.48275862068965514,1.0,0.2666666666666667,False,True,False,True,False,FP
+Luis Dur├úo,luis.p.durao@gmail.com,Shen Lu,shenlu89dev@gmail.com,0.33333333333333337,0.26086956521739135,0.25,0.25,False,False,True,False,False,FP
+Angelo P,angelo.m.poole@gmail.com,Usman S. (Max Programming),51731966+max-programming@users.noreply.github.com,0.25806451612903225,0.1578947368421053,0.36363636363636365,0.11111111111111116,True,False,False,False,False,FP
+Diogo Dutra,diogo.albuquerque@luizalabs.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.33333333333333337,0.11111111111111116,0.19999999999999996,0.33333333333333337,False,False,True,False,False,FP
+Dorian,dorian-davis@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.3076923076923077,0.31999999999999995,0.36363636363636365,0.0,False,False,True,False,False,FP
+I am not shine,zhaoyao91@163.com,Tim Scanlin,tscanlin@users.noreply.github.com,0.48,0.11764705882352944,0.5,0.42105263157894735,False,True,False,False,False,FP
+F. Hinkelmann,franziska.hinkelmann@gmail.com,Parbez,imranbarbhuiya.fsd@gmail.com,0.11111111111111116,0.368421052631579,0.0,0.0,False,True,False,False,False,FP
+Ilya Konstantinov,ilya.konstantinov2022@mail.ru,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.31999999999999995,0.23809523809523814,0.4,0.15384615384615385,False,False,True,False,False,FP
+Josh Story,josh.c.story@gmail.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.21052631578947367,0.13793103448275867,0.18181818181818177,0.0,False,False,True,False,False,FP
+John Slemmer,john.slemmer@gmail.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.19047619047619047,0.2068965517241379,0.18181818181818177,0.0,False,False,True,False,False,FP
+Pascal Birchler,pascal.birchler@gmail.com,Steven H,shne24@gmail.com,0.26086956521739135,0.2857142857142857,0.16666666666666663,0.2222222222222222,False,False,True,False,False,FP
+Simon Taggart,me@simontaggart.com,Theo Browne,me@theo.li,0.25,1.0,0.2222222222222222,0.15384615384615385,False,False,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Federico Manuel Peralta,peralta.federico.manuel@gmail.com,0.2666666666666667,0.13793103448275867,0.2222222222222222,0.21052631578947367,False,True,False,False,False,FP
+Luca Casonato,hello@lcas.dev,Lucas Rosa,lucas@telnyx.com,0.6086956521739131,0.19999999999999996,0.8888888888888888,0.33333333333333337,False,True,False,False,False,FP
+Eugene C,e.chechurin@gmail.com,Tran Dac Anh,cheshirecode@users.noreply.github.com,0.30000000000000004,0.4347826086956522,0.19999999999999996,0.25,True,False,False,False,False,FP
+Ethan Niser,100045248+ethanniser@users.noreply.github.com,Italo A,italoaurelior@gmail.com,0.33333333333333337,0.24242424242424243,0.4,0.0,False,False,True,False,False,FP
+Austin P,austin.paquette@forcir.com,Swarnava Sengupta,swarnavasengupta@gmail.com,0.31999999999999995,0.32258064516129037,0.2857142857142857,0.2222222222222222,True,False,False,False,False,FP
+Matthew Lilley,hello@matthewlilley.com,Tyler Lutz,hello@tylerlutz.dev,0.33333333333333337,1.0,0.33333333333333337,0.19999999999999996,False,False,False,False,False,FP
+armspkt,49720317+armspkt@users.noreply.github.com,Thiago M,thiagotm@outlook.com,0.2666666666666667,0.16666666666666663,0.15384615384615385,0.0,False,False,True,False,False,FP
+Kavikumar M,50093149+thekavikumar@users.noreply.github.com,matamatak,39780486+matamatak@users.noreply.github.com,0.30000000000000004,0.3589743589743589,0.33333333333333337,0.0,True,False,False,False,False,FP
+Meril,me@mpsq.org,Theo Browne,me@theo.li,0.25,1.0,0.2222222222222222,0.0,False,False,False,False,False,FP
+C. Lewis,ctjl96@gmail.com,Penn Su,pencilcheck@users.noreply.github.com,0.2857142857142857,0.23529411764705888,0.0,0.2857142857142857,False,True,False,False,False,FP
+adcichowski,71249791+adcichowski@users.noreply.github.com,Steven H,shne24@gmail.com,0.10526315789473684,0.15384615384615385,0.11764705882352944,0.0,False,False,True,False,False,FP
+Andrew Cherniavskii,andrew.cherniavskii@gmail.com,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.2857142857142857,0.17142857142857137,0.3076923076923077,0.15384615384615385,False,False,True,False,False,FP
+Guilherme Baron,floriani.guilherme@gmail.com,Ian Macartney,ianhmacartney@gmail.com,0.3571428571428571,0.3870967741935484,0.16666666666666663,0.4285714285714286,False,False,False,True,False,FP
+Eugene C,e.chechurin@gmail.com,Preston Richey,prestonleerichey@gmail.com,0.36363636363636365,0.2962962962962963,0.3076923076923077,0.2857142857142857,True,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,Aleksandr Kondrashov,116561995+aramikuto@users.noreply.github.com,0.2857142857142857,0.16000000000000003,0.2666666666666667,0.18181818181818177,True,False,False,False,False,FP
+Austin P,austin.paquette@forcir.com,Filipe Marins,filipe.marins@olist.com,0.2857142857142857,0.2142857142857143,0.16666666666666663,0.0,True,False,False,False,False,FP
+Jim Johnston,james.johnston.uk@gmail.com,Kavikumar M,50093149+thekavikumar@users.noreply.github.com,0.26086956521739135,0.10526315789473684,0.33333333333333337,0.0,False,False,True,False,False,FP
+Kushagra S,kushagra.rigel@gmail.com,Piotr Kuczynski,piotr.kuczynski@gmail.com,0.24,0.27586206896551724,0.15384615384615385,0.19999999999999996,True,False,False,False,False,FP
+Austin P,austin.paquette@forcir.com,Sampson Oliver,sampsonjoliver@outlook.com,0.36363636363636365,0.27586206896551724,0.46153846153846156,0.0,True,False,False,False,False,FP
+Chris Patterson,chrispat@github.com,Ryo H,49798519+ryo8000@users.noreply.github.com,0.19999999999999996,0.08333333333333337,0.25,0.0,False,False,True,False,False,FP
+OJ Kwon,kwon.ohjoong@gmail.com,Wojtek Olek,39329169+wojtekolek@users.noreply.github.com,0.4444444444444444,0.25806451612903225,0.5,0.25,False,True,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Thor,thorsten-stripe@users.noreply.github.com,0.16666666666666663,0.06666666666666665,0.0,0.0,True,False,False,False,False,FP
+Alex,alexanderknipfer@gmail.com,Alexander Ryzhikov,Coobaha@gmail.com,0.36363636363636365,0.17391304347826086,0.6153846153846154,0.0,False,False,False,True,False,FP
+Kim T,kimturley@gmail.com,Tomotaka Sakuma,ktmtmks@gmail.com,0.19999999999999996,0.375,0.18181818181818177,0.0,True,False,False,False,False,FP
+Philippe Serhal,philippe.serhal@gmail.com,Pranav P,pranavkp.me@outlook.com,0.26086956521739135,0.3076923076923077,0.1428571428571429,0.0,False,False,True,False,False,FP
+Dario Piotrowicz,dario.piotrowicz@gmail.com,Dharun R,155513784+dharun36@users.noreply.github.com,0.41666666666666663,0.17647058823529416,0.5454545454545454,0.18181818181818177,False,False,True,False,False,FP
+Felipe Flores,felipeguilhermefs@gmail.com,Genhao Li,62336349+GenhaoLi@users.noreply.github.com,0.2727272727272727,0.11764705882352944,0.16666666666666663,0.25,False,False,True,False,False,FP
+Jennifer Proust,jennifer.proust@gmail.com,Shihabudheen US,shihabuudheen@gmail.com,0.33333333333333337,0.1428571428571429,0.19999999999999996,0.5,False,False,True,False,False,FP
+David Sa,davidsa03@gmail.com,Travis Anderson,itravisanderson@icloud.com,0.4347826086956522,0.41666666666666663,0.5454545454545454,0.19999999999999996,True,False,False,False,False,FP
+Laura Beatris,48022589+LauraBeatris@users.noreply.github.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.4,0.35,0.4,0.25,False,False,True,False,False,FP
+Italo A,italoaurelior@gmail.com,Janne Sinivirta,janne.sinivirta@gmail.com,0.2727272727272727,0.2857142857142857,0.19999999999999996,0.19999999999999996,True,False,False,False,False,FP
+Miles Rausch,miles@milesrausch.com,S. Suzuki,terrierscript@gmail.com,0.30000000000000004,0.33333333333333337,0.33333333333333337,0.16666666666666663,False,False,False,True,False,FP
+Lsnsh Xin,Lsnsh@users.noreply.github.com,Steven H,shne24@gmail.com,0.3529411764705882,0.36363636363636365,0.36363636363636365,0.0,False,False,True,False,False,FP
+S M Mahmudul Hasan,smmh.lzui@gmail.com,Samuli Asmala,samuli.asmala@gmail.com,0.5806451612903225,0.36363636363636365,0.2857142857142857,0.36363636363636365,False,True,False,False,False,FP
+Elliot Sutton,76941569+imskyleen@users.noreply.github.com,Yongho Lee,i.am.yongho@navercorp.com,0.17391304347826086,0.27586206896551724,0.16666666666666663,0.0,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Yusril A,55085697+rasvanjaya21@users.noreply.github.com,0.375,0.33333333333333337,0.33333333333333337,0.0,False,False,True,False,False,FP
+Mike K,goodbadugly30@gmail.com,Yasser A.Idrissi,spookyframework@gmail.com,0.19047619047619047,0.2142857142857143,0.19999999999999996,0.0,True,False,False,False,False,FP
+Chaitanya Reddy K,chaitanyareddy.kothapeta@gmail.com,Terry Tan,tanyongsheng0805@gmail.com,0.3076923076923077,0.35,0.2857142857142857,0.0,False,False,True,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Murat Ogulcan Sahin,developerogulcan@gmail.com,0.2962962962962963,0.23529411764705888,0.18181818181818177,0.0,True,False,False,False,False,FP
+Clecio de Almeida,46803127+Clecio013@users.noreply.github.com,Curtis L,83509890+Sylith1231@users.noreply.github.com,0.31999999999999995,0.3783783783783784,0.33333333333333337,0.18181818181818177,False,False,True,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,I am not shine,zhaoyao91@163.com,0.33333333333333337,0.17391304347826086,0.2222222222222222,0.0,True,False,False,True,False,FP
+Aemiro Allison,aemiro.allison@outlook.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.38095238095238093,0.303030303030303,0.36363636363636365,0.25,False,False,True,False,False,FP
+Joris,joris-@users.noreply.github.com,Randolf J.,34705014+jrandolf@users.noreply.github.com,0.1428571428571429,0.17391304347826086,0.16666666666666663,0.0,False,False,True,False,False,FP
+David D,comxd@users.noreply.github.com,Pau Rodriguez Molina,65486507+Silinde87@users.noreply.github.com,0.2222222222222222,0.08695652173913049,0.25,0.11764705882352944,True,False,False,False,False,FP
+Angel P.,anticrebel@gmail.com,Martin ┼á┼Ñov├¡─ìek,stovmascript@users.noreply.github.com,0.23076923076923073,0.2727272727272727,0.36363636363636365,0.0,True,False,False,False,False,FP
+Karibash,y.karibayashi@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.4,0.19999999999999996,0.4444444444444444,0.0,False,False,True,False,False,FP
+Hoon Oh,2078254+hoonoh@users.noreply.github.com,Umoh Andem,30692331+umohpyro@users.noreply.github.com,0.23529411764705888,0.32258064516129037,0.25,0.0,True,False,False,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Sanna Jammeh,50969683+sannajammeh@users.noreply.github.com,0.19999999999999996,0.06060606060606055,0.33333333333333337,0.0,False,True,False,False,False,FP
+Aldo Schumann,github@aldo.io,Arthur Puyou,github@apuyou.io,0.24,1.0,0.19999999999999996,0.15384615384615385,False,False,False,False,False,FP
+Kristoffer K,merceyz@users.noreply.github.com,Max Nowack,max.nowack@gmail.com,0.18181818181818177,0.23529411764705888,0.0,0.2857142857142857,True,False,False,False,False,FP
+Aditya K,adk96r@gmail.com,eminvergil,emintrhack@gmail.com,0.11111111111111116,0.25,0.125,0.0,True,False,False,False,False,FP
+David D,comxd@users.noreply.github.com,Josh,josh.bechard@jewsforjesus.org,0.0,0.23529411764705888,0.0,0.0,True,False,False,False,False,FP
+didemkkaslan,106841409+didemkkaslan@users.noreply.github.com,Kristoffer K,merceyz@users.noreply.github.com,0.25,0.06896551724137934,0.18181818181818177,0.0,False,False,True,False,False,FP
+Matheus Fernandes,github@matheus.top,Ryan LaBarre,github@rylab.com,0.27586206896551724,1.0,0.18181818181818177,0.25,False,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,nkzawa,naoyuki.kanezawa@gmail.com,0.3076923076923077,0.27586206896551724,0.18181818181818177,0.0,True,False,False,False,False,FP
+Ashik Paul,ashikpaul17@gmail.com,Paul Hale,paul@domainscanners.com,0.42105263157894735,0.5333333333333333,0.2222222222222222,0.5,True,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,Sayuti Daniel,sayutidaniel@gmail.com,0.4,0.11764705882352944,0.36363636363636365,0.2857142857142857,True,False,False,False,False,FP
+Alex Cole,alex@convex.dev,Alexandre Ferreira,alexandre.cicconi@yahoo.fr,0.4444444444444444,0.38095238095238093,0.6153846153846154,0.16666666666666663,False,True,False,False,False,FP
+Chung Wei Leong,15154097+chungweileong94@users.noreply.github.com,Eugene C,e.chechurin@gmail.com,0.34782608695652173,0.2857142857142857,0.36363636363636365,0.0,False,False,True,False,False,FP
+Dave Cardwell,hello@davecardwell.com,Enzo Ferey,hello@enzoferey.com,0.34782608695652173,1.0,0.25,0.3076923076923077,False,False,False,False,False,FP
+Aditya Bhaskar Sharma,adityabhaskarsharma@gmail.com,S. Suzuki,terrierscript@gmail.com,0.2068965517241379,0.25,0.0,0.19999999999999996,False,False,False,True,False,FP
+Ivan V,390700+ivandotv@users.noreply.github.com,Rafael Mariano,rafael.mariano.silva@usp.br,0.30000000000000004,0.2857142857142857,0.19999999999999996,0.0,True,False,False,False,False,FP
+Alessandro,a.barbieri@me.com,Richard B,1180955+rbrcsk@users.noreply.github.com,0.21052631578947367,0.25,0.23529411764705888,0.0,False,False,True,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,Andy Kenward,4893048+andykenward@users.noreply.github.com,0.18181818181818177,0.36363636363636365,0.16666666666666663,0.0,True,False,False,False,False,FP
+Adam Zacharski,adam-zacharski@users.noreply.github.com,Kushagra S,kushagra.rigel@gmail.com,0.33333333333333337,0.2857142857142857,0.33333333333333337,0.19999999999999996,False,False,True,False,False,FP
+HYUNSANG HAN,gustkd3@gmail.com,Kim T,kimturley@gmail.com,0.11764705882352944,0.125,0.0,0.0,False,False,True,False,False,FP
+Ethan Niser,100045248+ethanniser@users.noreply.github.com,I am not shine,zhaoyao91@163.com,0.4,0.13793103448275867,0.0,0.3529411764705882,False,False,False,True,False,FP
+S M Mahmudul Hasan,smmh.lzui@gmail.com,Tim Phillips,3578574+tim-phillips@users.noreply.github.com,0.33333333333333337,0.27586206896551724,0.0,0.25,False,True,False,False,False,FP
+Cristian,6853656+cristiand391@users.noreply.github.com,David D,comxd@users.noreply.github.com,0.1333333333333333,0.16000000000000003,0.15384615384615385,0.0,False,False,True,False,False,FP
+Justin,justincyork@gmail.com,S. Suzuki,terrierscript@gmail.com,0.2857142857142857,0.33333333333333337,0.2857142857142857,0.0,False,False,False,True,False,FP
+Aymeric PINEAU,62554073+aymericzip@users.noreply.github.com,yasmin p,yasmin.pessoa@vercel.com,0.4545454545454546,0.25,0.46153846153846156,0.2857142857142857,False,False,True,False,False,FP
+idkwhojamesis,43428092+idkwhojamesis@users.noreply.github.com,James Mulholland,20966690+mulholio@users.noreply.github.com,0.3448275862068966,0.3589743589743589,0.5555555555555556,0.0,False,False,False,True,False,FP
+AdamKatzDev,75435896+AdamKatzDev@users.noreply.github.com,Elyees T,84116117+kooya3@users.noreply.github.com,0.10526315789473684,0.22857142857142854,0.11764705882352944,0.0,False,False,True,False,False,FP
+Changwan Jun,hey@wan2.land,Isaac Martin,hey@isaacmartin.co,0.33333333333333337,1.0,0.3076923076923077,0.2222222222222222,False,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Simon Richard,jsimonrichard@gmail.com,0.4,0.3846153846153846,0.4,0.25,True,False,False,False,False,FP
+Akash Patel,aksdevac@gmail.com,Darsh Patel,darshkpatel@gmail.com,0.8181818181818181,0.3157894736842105,0.6,1.0,True,False,False,False,False,FP
+Luke Sandberg,lukesandberg@users.noreply.github.com,Richard B,1180955+rbrcsk@users.noreply.github.com,0.2727272727272727,0.15384615384615385,0.0,0.2222222222222222,False,False,True,False,False,FP
+Alvin Bryan,107407814+alvinometric@users.noreply.github.com,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.2857142857142857,0.2857142857142857,0.0,0.3076923076923077,False,False,False,True,False,FP
+Alvin,alvin@edgemethod.com,I am not shine,zhaoyao91@163.com,0.3157894736842105,0.1428571428571429,0.33333333333333337,0.0,False,False,False,True,False,FP
+Italo A,italoaurelior@gmail.com,Mike Timmerman,miketimmerman@gmail.com,0.2857142857142857,0.3076923076923077,0.2222222222222222,0.19999999999999996,True,False,False,False,False,FP
+Randolf J.,34705014+jrandolf@users.noreply.github.com,Zoe-Bot,jasminjoy.springer@gmail.com,0.1333333333333333,0.22857142857142854,0.15384615384615385,0.0,True,False,False,False,False,FP
+Adam Wathan,adam.wathan@gmail.com,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.38095238095238093,0.25806451612903225,0.4,0.2857142857142857,False,False,False,True,False,FP
+justin hook,justinhook@gmail.com,Shihabudheen US,shihabuudheen@gmail.com,0.3076923076923077,0.26086956521739135,0.33333333333333337,0.0,False,False,True,False,False,FP
+Alex Parish,parish.alex@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.33333333333333337,0.1333333333333333,0.2222222222222222,0.2857142857142857,False,False,True,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Joe Previte,jjprevite@gmail.com,0.3157894736842105,0.0,0.2222222222222222,0.25,True,False,False,False,False,FP
+Austin P,austin.paquette@forcir.com,Ryan Ponce,ryanponce@gmail.com,0.4444444444444444,0.33333333333333337,0.4,0.33333333333333337,True,False,False,False,False,FP
+Larry Lu,pudding850806@gmail.com,Luis Henrique Mulinari,luis.mulinari@gmail.com,0.2666666666666667,0.23076923076923073,0.2222222222222222,0.10526315789473684,True,False,False,False,False,FP
+Italo A,italoaurelior@gmail.com,Rishabh Saxena,rishabh.robben@gmail.com,0.38095238095238093,0.2962962962962963,0.33333333333333337,0.2857142857142857,True,False,False,False,False,FP
+Andy Kenward,hello@andykenward.com,Dave Cardwell,hello@davecardwell.com,0.4,1.0,0.25,0.4,False,False,False,False,False,FP
+Martin Goutry,martin.goutry@gmail.com,Martin Grubinger,martin.grubinger@gmail.com,0.6896551724137931,0.6896551724137931,1.0,0.4,False,True,False,True,False,FP
+John Doe,47635466+seosmmbusiness@users.noreply.github.com,S M Mahmudul Hasan,smmh.lzui@gmail.com,0.15384615384615385,0.3125,0.0,0.10526315789473684,False,False,False,True,False,FP
+AkashPattanaik,akashjio66666@gmail.com,Shahzeb K,1383831+shahzeb1@users.noreply.github.com,0.34782608695652173,0.13793103448275867,0.2857142857142857,0.0,False,False,True,False,False,FP
+Dharun R,155513784+dharun36@users.noreply.github.com,Pedro Sanchez,pedro13jzc@gmail.com,0.2857142857142857,0.2142857142857143,0.36363636363636365,0.0,True,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Robert Bradford,15946+robertwbradford@users.noreply.github.com,0.17391304347826086,0.2777777777777778,0.16666666666666663,0.0,True,False,False,False,False,FP
+Andy Kenward,4893048+andykenward@users.noreply.github.com,Kristoffer K,merceyz@users.noreply.github.com,0.25,0.15384615384615385,0.0,0.25,False,False,True,False,False,FP
+Angel P.,anticrebel@gmail.com,James Perkins,jamesperkins@hey.com,0.4,0.2727272727272727,0.4,0.25,True,False,False,False,False,FP
+Islam Sharabash,islam.sharabash@gmail.com,Roman A,121314722+GameRoMan@users.noreply.github.com,0.2727272727272727,0.17647058823529416,0.19999999999999996,0.19999999999999996,False,False,True,False,False,FP
+Eugene C,e.chechurin@gmail.com,Lance Chen,cyen0312@gmail.com,0.4444444444444444,0.3157894736842105,0.36363636363636365,0.4,True,False,False,False,False,FP
+Sudhir Mitharwal,sudhir.mitharwal@tourepedia.com,Thiago M,thiagotm@outlook.com,0.33333333333333337,0.25,0.33333333333333337,0.19999999999999996,False,False,True,False,False,FP
+keustma,mathias.keustermans@gmail.com,Mat Mannion,mat.mannion@gmail.com,0.33333333333333337,0.4666666666666667,0.4,0.0,False,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,Patrick Dahms,pat.dahms@googlemail.com,0.4,0.1428571428571429,0.33333333333333337,0.33333333333333337,True,False,False,False,False,FP
+Dev Agrawal,devagrawal09@gmail.com,ýÁ£ýºÇýøÉ,devjeanmarlon@gmail.com,0.09999999999999998,0.48,0.16666666666666663,0.0,False,True,False,False,False,FP
+Artem Zakharchenko,kettanaito@gmail.com,Italo A,italoaurelior@gmail.com,0.24,0.4347826086956522,0.19999999999999996,0.15384615384615385,False,False,True,False,False,FP
+Fatih Kalifa,fatihkalifa@gmail.com,Kristoffer K,merceyz@users.noreply.github.com,0.25,0.0,0.1333333333333333,0.2857142857142857,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,ÐÅ ð║ð¥Ðéð©ð║ ð┐ÐâÐÇ-ð┐ÐâÐÇ,mvasilkov@gmail.com,0.11764705882352944,0.2666666666666667,0.25,0.0,True,False,False,False,False,FP
+David Hay,89824813+hayitsdavid@users.noreply.github.com,Ivan V,390700+ivandotv@users.noreply.github.com,0.2666666666666667,0.2857142857142857,0.2222222222222222,0.0,False,False,True,False,False,FP
+Alexander Dreith,alejalapeno@users.noreply.github.com,Alexander Kachkaev,alexander@kachkaev.ru,0.6470588235294117,0.5,1.0,0.1428571428571429,False,True,False,False,False,FP
+Shahzar Mazhar,mohdshahzar.1996@gmail.com,Soham Shah,47717492+sohamsshah@users.noreply.github.com,0.5,0.34285714285714286,0.5,0.4,False,False,True,False,False,FP
+Aditya K,adk96r@gmail.com,James Perkins,jamesperkins@hey.com,0.2857142857142857,0.2222222222222222,0.18181818181818177,0.25,True,False,False,False,False,FP
+Jaime Rios,jaime.rios.dev@outlook.com,Jon R,jonathan.roesner@yahoo.com,0.4,0.4666666666666667,0.25,0.4,False,False,True,False,False,FP
+S. Suzuki,terrierscript@gmail.com,Sjoerd van Bommel,sjoerd.van.bommel@Hotmail.com,0.16000000000000003,0.19999999999999996,0.2857142857142857,0.0,False,True,False,False,False,FP
+Josh Story,story@hey.com,Joshua Baker,160484+joshuabaker@users.noreply.github.com,0.5454545454545454,0.17391304347826086,0.8,0.19999999999999996,False,True,False,False,False,FP
+Robert van Steen,hello@rovansteen.nl,Tejas Kumar,hello@tej.as,0.2222222222222222,1.0,0.18181818181818177,0.1428571428571429,False,False,False,False,False,FP
+Elyees T,84116117+kooya3@users.noreply.github.com,Maur├¡cio Mutte,mauriciomutte.mm@gmail.com,0.17391304347826086,0.06451612903225812,0.0,0.33333333333333337,True,False,False,False,False,FP
+evan,kirkilese@gmail.com,Kirk Elliott,1675992+dmvjs@users.noreply.github.com,0.125,0.09090909090909094,0.0,0.0,False,False,False,True,False,FP
+Duc Le,leanhducvt@live.com,Duncan L,leungd@gmail.com,0.7142857142857143,0.5,0.6666666666666667,0.6666666666666667,True,False,True,False,False,FP
+Emanuel Kluge,kraemerseele@gmx.de,M. Abdullah,36810219+m1abdullahh@users.noreply.github.com,0.4347826086956522,0.125,0.25,0.15384615384615385,False,False,False,True,False,FP
+David D,comxd@users.noreply.github.com,redbar0n,redbar0n@users.noreply.github.com,0.2666666666666667,0.15384615384615385,0.3076923076923077,0.0,True,False,False,False,False,FP
+Abhishek Y,75441358+abyii@users.noreply.github.com,ý£áÛ▓¢ÝÖö,51588680+flex-kyunghwa@users.noreply.github.com,0.21052631578947367,0.33333333333333337,0.11764705882352944,0.0,True,False,False,False,False,FP
