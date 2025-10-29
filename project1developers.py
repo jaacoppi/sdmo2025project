@@ -36,16 +36,16 @@ def create_arguments():
 
 def read_devs(input_file):
     # This block of code reads an existing csv of developers
-    DEVS = []
+    devs = []
     # Read csv file with name,dev columns
     with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
-            DEVS.append(row)
+            devs.append(row)
     # First element is header, skip
-    DEVS = DEVS[1:]
+    devs = devs[1:]
 
-    return DEVS
+    return devs
 
 # Function for pre-processing each name,email
 def process(dev):
@@ -86,9 +86,9 @@ def process(dev):
     return name, first, last, i_first, i_last, email, prefix
 
 # Compute similarity between all possible pairs
-def compute_similarity(DEVS):
-    SIMILARITY = []
-    for dev_a, dev_b in combinations(DEVS, 2):
+def compute_similarity(devs):
+    similarity = []
+    for dev_a, dev_b in combinations(devs, 2):
         # Pre-process both developers
         name_a, first_a, last_a, i_first_a, i_last_a, email_a, prefix_a = process(dev_a)
         name_b, first_b, last_b, i_first_b, i_last_b, email_b, prefix_b = process(dev_b)
@@ -112,9 +112,9 @@ def compute_similarity(DEVS):
             c8 = True
 
         # Save similarity data for each conditions. Original names are saved
-        SIMILARITY.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7, c8])
+        similarity.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7, c8])
 
-    return SIMILARITY
+    return similarity
 
 # Save data on all pairs (might be too big -> comment out to avoid)
 def save_data_on_all_pairs(SIMILARITY):
