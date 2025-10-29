@@ -14,7 +14,7 @@ def select_criteria(df, minimum_trues, true_columns):
     print("Filtering criteria:")
     print(f"Mminimum true count: {minimum_trues}")
     print(f"True criteria: {true_columns}")
-    df = df[df[true_columns].sum(axis=1) >= minimum_trues]
+    df = df[(df[true_columns].sum(axis=1) >= minimum_trues) | (df["c8"] == True) | ((df["c1"] == 1.0) & (df["c2"] == 1.0))]
 
     return df
 
@@ -27,7 +27,7 @@ def create_arguments():
     required_group.add_argument("-o", "--output", type=str, help="Output file", required=True)
 
     optional_group = parser.add_argument_group("Optional arguments")
-    optional_group.add_argument("-m", "--minimum-true-count", type=int, help="Minimum amount of trues to be filtered for (Default: 1)", default=1)
+    optional_group.add_argument("-m", "--minimum-true-count", type=int, help="Minimum amount of trues to be filtered for (Default: 1)", default=3)
     optional_group.add_argument("-c", "--criteria", type=str, help="Comma-separated list of columns to evaluate (e.g. 'c1_check,c2_check,c3_check')", default="c1_check,c2_check,c3_check,c4,c5,c6,c7,c8")
     optional_group.add_argument("-s", "--sample-size", type=int, help="Leave a random sample of N rows")
     optional_group.add_argument("-n", "--interval", type=int, help="Leave every Nth row")
