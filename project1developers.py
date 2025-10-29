@@ -1,11 +1,11 @@
 import argparse
 import csv
-import pandas as pd
-import unicodedata
-import string
-from itertools import combinations
-from Levenshtein import ratio as sim
 import os
+from itertools import combinations
+import string
+import unicodedata
+from Levenshtein import ratio as sim
+import pandas as pd
 
 
 # This function is where algorithm is improved in this course
