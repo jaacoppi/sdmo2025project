@@ -14,7 +14,7 @@ def select_criteria(df, minimum_trues, true_columns):
     print("Filtering criteria:")
     print(f"Mminimum true count: {minimum_trues}")
     print(f"True criteria: {true_columns}")
-    df = df[(df[true_columns].sum(axis=1) >= minimum_trues) | (df["c8"] == True) | ((df["c1"] == 1.0) & (df["c2"] == 1.0))]
+    df = df[(df[true_columns].sum(axis=1) >= minimum_trues) | (df["c8"]) | ((df["c1"] == 1.0) & (df["c2"] == 1.0))]
 
     return df
 
