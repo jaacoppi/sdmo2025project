@@ -117,11 +117,11 @@ def compute_similarity(devs):
 
     return similarity
 
-def save_data_on_all_pairs(SIMILARITY):
+def save_data_on_all_pairs(similarity):
     """ Save data on all pairs (might be too big -> comment out to avoid) """
     cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
             "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]
-    df = pd.DataFrame(SIMILARITY, columns=cols)
+    df = pd.DataFrame(similarity, columns=cols)
     df.to_csv("devs_similarity.csv", index=False, header=True)
 
     return df
