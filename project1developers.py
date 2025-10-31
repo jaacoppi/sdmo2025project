@@ -1,3 +1,9 @@
+"""
+This project is for University of Oulu SDMO course in 2025.
+
+The tool implements Bird heuristics for detecting unique individuals from git commits
+"""
+
 import argparse
 import csv
 import os
