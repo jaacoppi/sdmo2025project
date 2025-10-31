@@ -8,8 +8,8 @@ from Levenshtein import ratio as sim
 import pandas as pd
 
 
-# This function is where algorithm is improved in this course
 def select_criteria(df, minimum_trues, true_columns):
+    """ Selet criteria for filtering results """
     # Filter columns that match the criteria
     print("Filtering criteria:")
     print(f"Mminimum true count: {minimum_trues}")
@@ -19,6 +19,7 @@ def select_criteria(df, minimum_trues, true_columns):
     return df
 
 def create_arguments():
+    """ handle command line arguments """
     parser = argparse.ArgumentParser(description="Bird heuristics analyser")
 
     required_group = parser.add_argument_group("Required arguments")
@@ -35,7 +36,7 @@ def create_arguments():
     return parser.parse_args()
 
 def read_devs(input_file):
-    # This block of code reads an existing csv of developers
+    """ This block of code reads an existing csv of developers """
     devs = []
     # Read csv file with name,dev columns
     with open(input_file, 'r', newline='', encoding='utf-8') as csvfile:
@@ -47,8 +48,8 @@ def read_devs(input_file):
 
     return devs
 
-# Function for pre-processing each name,email
 def process(dev):
+    """ Function for pre-processing each name,email """
     name: str = dev[0]
 
     # Remove punctuation
@@ -85,8 +86,8 @@ def process(dev):
 
     return name, first, last, i_first, i_last, email, prefix
 
-# Compute similarity between all possible pairs
 def compute_similarity(devs):
+    """ Compute similarity between all possible pairs """
     similarity = []
     for dev_a, dev_b in combinations(devs, 2):
         # Pre-process both developers
@@ -116,8 +117,8 @@ def compute_similarity(devs):
 
     return similarity
 
-# Save data on all pairs (might be too big -> comment out to avoid)
 def save_data_on_all_pairs(SIMILARITY):
+    """ Save data on all pairs (might be too big -> comment out to avoid) """
     cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
             "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]
     df = pd.DataFrame(SIMILARITY, columns=cols)
@@ -125,8 +126,8 @@ def save_data_on_all_pairs(SIMILARITY):
 
     return df
 
-# Set similarity threshold, check c1-c3 against the threshold
 def set_similarity(df, minimum_trues, true_columns):
+    """ Set similarity threshold, check c1-c3 against the threshold """
     print("Threshold:", threshold)
     df["c1_check"] = df["c1"] >= threshold
     df["c2_check"] = df["c2"] >= threshold
@@ -135,16 +136,16 @@ def set_similarity(df, minimum_trues, true_columns):
 
     return df
 
-# Omit "check" columns, save to csv
 def omit_check_and_save(df, output_file):
+    """  Omit "check" columns, save to csv """
     df = df[["name_1", "email_1", "name_2", "email_2", "c1", "c2",
         "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]]
     df.to_csv(os.path.join(output_file), index=False, header=True)
 
     return df
 
-#Post-processing sample or interval
 def post_process(df):
+    """ Filter for sample or interval """
     if args.sample_size:
         sampled_df = df.sample(n=args.sample_size, random_state=42)
         sampled_file = os.path.join("project1devs", f"devs_similarity_sampled_{args.sample_size}.csv")
