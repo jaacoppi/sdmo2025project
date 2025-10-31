@@ -157,7 +157,7 @@ def post_process(df):
         interval_file = os.path.join("project1devs", f"devs_similarity_every_{args.interval}th.csv")
         interval_df.to_csv(interval_file, index=False, header=True)
         print(f"Every {args.interval}th row saved to {interval_file}")
-    
+
 # MAIN
 args = create_arguments()
 
