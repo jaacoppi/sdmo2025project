@@ -6,12 +6,25 @@ The tool implements Bird heuristics for detecting unique individuals from git co
 
 import argparse
 import csv
+from dataclasses import dataclass
 import os
 from itertools import combinations
 import string
 import unicodedata
 from Levenshtein import ratio as sim
 import pandas as pd
+
+
+@dataclass
+class Dev:
+    """ helper class to reduce local variables when calculating bird heuristics """
+    name: str
+    first: str
+    last: str
+    i_first: str
+    i_last: str
+    email: str
+    prefix: str
 
 
 def select_criteria(df, minimum_trues, true_columns):
@@ -97,29 +110,29 @@ def compute_similarity(devs):
     similarity = []
     for dev_a, dev_b in combinations(devs, 2):
         # Pre-process both developers
-        name_a, first_a, last_a, i_first_a, i_last_a, email_a, prefix_a = process(dev_a)
-        name_b, first_b, last_b, i_first_b, i_last_b, email_b, prefix_b = process(dev_b)
+        a = Dev(*process(dev_a))
+        b = Dev(*process(dev_b))
 
         # Conditions of Bird heuristic
-        c1 = sim(name_a, name_b)
-        c2 = sim(prefix_b, prefix_a)
-        c31 = sim(first_a, first_b)
-        c32 = sim(last_a, last_b)
+        c1 = sim(a.name, b.name)
+        c2 = sim(b.prefix, a.prefix)
+        c31 = sim(a.first, b.first)
+        c32 = sim(a.last, b.last)
         c4 = c5 = c6 = c7 = c8 = False
         # Since lastname and initials can be empty, perform appropriate checks
-        if i_first_a != "" and last_a != "":
-            c4 = i_first_a in prefix_b and last_a in prefix_b
-        if i_last_a != "":
-            c5 = i_last_a in prefix_b and first_a in prefix_b
-        if i_first_b != "" and last_b != "":
-            c6 = i_first_b in prefix_a and last_b in prefix_a
-        if i_last_b != "":
-            c7 = i_last_b in prefix_a and first_b in prefix_a
-        if email_a == email_b:
+        if a.i_first != "" and a.last != "":
+            c4 = a.i_first in b.prefix and a.last in b.prefix
+        if a.i_last != "":
+            c5 = a.i_last in b.prefix and a.first in b.prefix
+        if b.i_first != "" and b.last != "":
+            c6 = b.i_first in a.prefix and b.last in a.prefix
+        if b.last != "":
+            c7 = b.i_last in a.prefix and b.first in a.prefix
+        if a.email == b.email:
             c8 = True
 
         # Save similarity data for each conditions. Original names are saved
-        similarity.append([dev_a[0], email_a, dev_b[0], email_b, c1, c2, c31, c32, c4, c5, c6, c7, c8])
+        similarity.append([dev_a[0], a.email, dev_b[0], b.email, c1, c2, c31, c32, c4, c5, c6, c7, c8])
 
     return similarity
 
