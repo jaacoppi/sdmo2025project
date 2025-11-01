@@ -136,12 +136,11 @@ def compute_similarity(devs):
 
     return similarity
 
-def save_data_on_all_pairs(similarity):
-    """ Save data on all pairs (might be too big -> comment out to avoid) """
+def create_df_all_pairs(similarity):
+    """ Creates a dataframe of all pairs """
     cols = ["name_1", "email_1", "name_2", "email_2", "c1", "c2",
             "c3.1", "c3.2", "c4", "c5", "c6", "c7", "c8"]
     df = pd.DataFrame(similarity, columns=cols)
-    df.to_csv("devs_similarity.csv", index=False, header=True)
 
     return df
 
@@ -190,7 +189,7 @@ if __name__ == "__main__":
     # Run everything
     developers = read_devs(input_file)
     similarity = compute_similarity(developers)
-    df_all_pairs = save_data_on_all_pairs(similarity)
+    df_all_pairs = create_df_all_pairs(similarity)
     df_with_threshold_check = set_similarity(df_all_pairs, minimum_trues, true_columns)
     df_final = omit_check_and_save(df_with_threshold_check, output_file)
     post_process(df_final)
