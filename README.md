@@ -22,6 +22,11 @@ The purpose of this project is to figure out an improved solution to identify du
 Python version
 - Python 3.10+ recommended
 
+Requirements.txt
+- Pandas
+- Pytest
+- Levenshtein
+
 ## Usage
 
 After obtaining a .csv file with name and email columns (examples in inputs folder), it is run through the python file with required and optional arguments. After that you have a file which you can rename to a .csv file, which can be manually analyzed with the `analyzer.sh` script, where each pair can be marked as True Positive TP, or False Positive FP, by pressing F or T on the keyboard. Additional analysis on the data can be done using the other scripts located in the `scripts/` folder
