@@ -4,9 +4,9 @@ from project1developers import read_devs
 
 "Creates sample csv with names and emails for tests"
 @pytest.fixture
-def sample_csv(temp_path):
-    file_path = temp_path / "devs.csv"
-    with open(file_path, "w", newline="", encoding="utf=8") as csvfile:
+def sample_csv(tmp_path):
+    file_path = tmp_path / "devs.csv"
+    with open(file_path, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["name", "email"])
         writer.writerow(["erkki peltonen", "erkki.peltonen@gmail.com"])
