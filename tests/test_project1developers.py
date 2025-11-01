@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 from pathlib import Path
 
-from project1developers import read_devs, process, select_criteria
+from project1developers import read_devs, process, select_criteria, compute_similarity
 
 TESTS_DIR = Path(__file__).parent
 
@@ -73,3 +73,14 @@ def test_select_criteria():
     pd.testing.assert_frame_equal(actual, expected)
 
 
+
+def test_compute_similarity():
+    """ Test similarity and other Bird heuristics work """
+    devs = [["Matti Virtanen", "m.virtanen@iki.fi"], ["Virtanen, Matti", "matti.virtanen@mbnet.fi"]]
+    actual = compute_similarity(devs)
+
+    expected = [['Matti Virtanen', 'm.virtanen@iki.fi', 'Virtanen, Matti', 'matti.virtanen@mbnet.fi', 0.5714285714285714, 0.8333333333333334, 0.15384615384615385, 0.15384615384615385, True, True, False, True, False]]
+    assert len(actual) == 1
+    assert actual == expected 
+
+    
