@@ -1,3 +1,4 @@
+import sys
 import subprocess
 from pathlib import Path
 import pytest
@@ -11,7 +12,7 @@ def test_program_creates_correct_output(tmp_path):
     actual_output_file = tmp_path / "integration_test_output.csv"
 
     cmd = [
-        "python3", "project1developers.py",
+        sys.executable, "project1developers.py",
         "-i", str(input_file),
         "-o", str(actual_output_file),
         "-t", "0.5",
