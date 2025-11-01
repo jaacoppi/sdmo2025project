@@ -14,7 +14,6 @@ In this project an improved version of Bird heuristics method implemented in [SD
 
 - `inputs/`: Directory of example raw csv files mined from public github repositories
 - `project1developers.py`: Script demonstrating Bird heurestic to determine duplicate developers
-- 
 
 ## Requirements
 Python version
@@ -38,3 +37,8 @@ Python version
 | `-c, --criteria` | Comma-separated list of columns to evaluate for filtering | `c1_check,c2_check,c3_check,c4,c5,c6,c7,c8` |
 | `-s, --sample-size` | Keep a random sample of N rows | `None` |
 | `-n, --interval` | Keep every Nth row | `None` |
+
+### Example run
+
+```bash
+python project1developers.py -i ./inputs/libreoffice_core.csv -t 0.5 -o ./libreoffice_core_analyzed.csv
