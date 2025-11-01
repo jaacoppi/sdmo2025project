@@ -177,20 +177,20 @@ def post_process(df):
         interval_df.to_csv(interval_file, index=False, header=True)
         print(f"Every {args.interval}th row saved to {interval_file}")
 
-# MAIN
-args = create_arguments()
+if __name__ == "__main__":
+    args = create_arguments()
 
-# Get file names from command line arguments
-input_file = args.input
-output_file = args.output
-threshold = args.threshold
-minimum_trues= args.minimum_true_count
-true_columns = [c.strip() for c in args.criteria.split(",")]
+    # Get file names from command line arguments
+    input_file = args.input
+    output_file = args.output
+    threshold = args.threshold
+    minimum_trues= args.minimum_true_count
+    true_columns = [c.strip() for c in args.criteria.split(",")]
 
-# Run everything
-developers = read_devs(input_file)
-similarity = compute_similarity(developers)
-df_all_pairs = save_data_on_all_pairs(similarity)
-df_with_threshold_check = set_similarity(df_all_pairs, minimum_trues, true_columns)
-df_final = omit_check_and_save(df_with_threshold_check, output_file)
-post_process(df_final)
+    # Run everything
+    developers = read_devs(input_file)
+    similarity = compute_similarity(developers)
+    df_all_pairs = save_data_on_all_pairs(similarity)
+    df_with_threshold_check = set_similarity(df_all_pairs, minimum_trues, true_columns)
+    df_final = omit_check_and_save(df_with_threshold_check, output_file)
+    post_process(df_final)
