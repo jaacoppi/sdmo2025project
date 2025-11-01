@@ -3,6 +3,7 @@ import csv
 from pathlib import Path
 
 from project1developers import read_devs
+from project1developers import process
 
 TESTS_DIR = Path(__file__).parent
 
@@ -23,3 +24,29 @@ def test_read_devs_empty_file():
     empty_csv = TESTS_DIR / "read_devs_onlyheader.csv"
     actual = read_devs(empty_csv)
     assert actual == []
+
+def test_process():
+    """ Test that name and email pairs are processed / standardized for similarity testing """
+    # TODO: use dataclass Dev here
+
+    dev = ["Testiina de Téstirsson", "testiina@testirsson.com"]
+    name, first, last, i_first, i_last, email, prefix = process(dev)
+    assert name == "testiina de testirsson"
+    assert first == "testiina"
+    assert last == "de testirsson"
+    assert i_first == "t"
+    assert i_last == "d"
+    assert email == "testiina@testirsson.com"
+    assert prefix == "testiina"
+
+    dev2 = ["Virtanen, Matti", "matti.virtanen@suomi.fi"]
+    name2, first2, last2, i_first2, i_last2, email2, prefix2 = process(dev2)
+    assert name2 == "virtanen matti"
+    assert first2 == "virtanen"
+    assert last2 == "matti"
+    assert i_first2 == "v"
+    assert i_last2 == "m"
+    assert email2 == "matti.virtanen@suomi.fi"
+    assert prefix2 == "matti.virtanen"
+
+   
