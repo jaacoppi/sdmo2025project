@@ -22,10 +22,7 @@ The purpose of this project is to figure out an improved solution to identify du
 Python version
 - Python 3.10+ recommended
 
-Requirements.txt
-- Pandas
-- Pytest
-- Levenshtein
+Requirements.txt for up to date list of other requirements.
 
 ## Usage
 
