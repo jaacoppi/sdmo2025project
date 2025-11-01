@@ -144,7 +144,7 @@ def create_df_all_pairs(similarity):
 
     return df
 
-def set_similarity(df, minimum_trues, true_columns):
+def set_similarity(df, minimum_trues, true_columns, threshold):
     """ Set similarity threshold, check c1-c3 against the threshold """
     print("Threshold:", threshold)
     df["c1_check"] = df["c1"] >= threshold
@@ -162,19 +162,19 @@ def omit_check_and_save(df, output_file):
 
     return df
 
-def post_process(df):
+def post_process(df, sample_size, interval):
     """ Filter for sample or interval """
-    if args.sample_size:
-        sampled_df = df.sample(n=args.sample_size, random_state=42)
-        sampled_file = os.path.join("project1devs", f"devs_similarity_sampled_{args.sample_size}.csv")
+    if sample_size:
+        sampled_df = df.sample(n=sample_size, random_state=42)
+        sampled_file = os.path.join("project1devs", f"devs_similarity_sampled_{sample_size}.csv")
         sampled_df.to_csv(sampled_file, index=False, header=True)
-        print(f"Random sample of {args.sample_size} rows saved to {sampled_file}")
+        print(f"Random sample of {sample_size} rows saved to {sampled_file}")
 
-    elif args.interval:
-        interval_df = df.iloc[::args.interval]
-        interval_file = os.path.join("project1devs", f"devs_similarity_every_{args.interval}th.csv")
+    elif interval:
+        interval_df = df.iloc[::interval]
+        interval_file = os.path.join("project1devs", f"devs_similarity_every_{interval}th.csv")
         interval_df.to_csv(interval_file, index=False, header=True)
-        print(f"Every {args.interval}th row saved to {interval_file}")
+        print(f"Every {interval}th row saved to {interval_file}")
 
 if __name__ == "__main__":
     args = create_arguments()
@@ -185,11 +185,13 @@ if __name__ == "__main__":
     threshold = args.threshold
     minimum_trues= args.minimum_true_count
     true_columns = [c.strip() for c in args.criteria.split(",")]
+    sample_size = args.sample_size
+    interval = args.interval
 
     # Run everything
     developers = read_devs(input_file)
     similarity = compute_similarity(developers)
     df_all_pairs = create_df_all_pairs(similarity)
-    df_with_threshold_check = set_similarity(df_all_pairs, minimum_trues, true_columns)
+    df_with_threshold_check = set_similarity(df_all_pairs, minimum_trues, true_columns, threshold)
     df_final = omit_check_and_save(df_with_threshold_check, output_file)
-    post_process(df_final)
+    post_process(df_final, sample_size, interval)
